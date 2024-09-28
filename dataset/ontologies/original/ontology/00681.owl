@@ -1,0 +1,1654 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.cs.ox.ac.uk/isg/ontologies/UID/00681.owl#"
+     xml:base="http://www.cs.ox.ac.uk/isg/ontologies/UID/00681.owl"
+     xmlns:PATO="http://purl.org/obo/owl/PATO#"
+     xmlns:obo="http://purl.org/obo/owl/obo#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:WBPhenotype="http://purl.org/obo/owl/WBPhenotype#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#"
+     xmlns:WBls="http://purl.org/obo/owl/WBls#"
+     xmlns:WBbt="http://purl.org/obo/owl/WBbt#"
+     xmlns:CL="http://purl.org/obo/owl/CL#">
+    <owl:Ontology rdf:about="http://www.cs.ox.ac.uk/isg/ontologies/UID/00681.owl"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasURI"/>
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasVersion"/>
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#inSubset"/>
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasSynonym"/>
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#savedBy"/>
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasSubset"/>
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasDate"/>
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#expandAssertionTo"/>
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#replacedBy"/>
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym"/>
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasSynonymType"/>
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasDefaultNamespace"/>
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasAlternativeId"/>
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#isCyclic"/>
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasOBONamespace"/>
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#consider"/>
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasNarrowSynonym"/>
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasDefinition"/>
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasBroadSynonym"/>
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#expandExpressionTo"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.org/obo/owl/obo#during -->
+
+    <owl:ObjectProperty rdf:about="http://purl.org/obo/owl/obo#during"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/obo#ends_during_or_before -->
+
+    <owl:ObjectProperty rdf:about="http://purl.org/obo/owl/obo#ends_during_or_before"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/obo#inheres_in -->
+
+    <owl:ObjectProperty rdf:about="http://purl.org/obo/owl/obo#inheres_in"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/obo#qualifier -->
+
+    <owl:ObjectProperty rdf:about="http://purl.org/obo/owl/obo#qualifier"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/obo#starts_during_or_after -->
+
+    <owl:ObjectProperty rdf:about="http://purl.org/obo/owl/obo#starts_during_or_after"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#ObsoleteProperty -->
+
+    <owl:ObjectProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#ObsoleteProperty"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.org/obo/owl/CL#CL_0000000 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/CL#CL_0000000"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/CL#CL_0000025 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/CL#CL_0000025"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/PATO#PATO_0000001 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/PATO#PATO_0000001"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/PATO#PATO_0000050 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/PATO#PATO_0000050"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/PATO#PATO_0000051 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/PATO#PATO_0000051"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/PATO#PATO_0000052 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/PATO#PATO_0000052"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/PATO#PATO_0000117 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/PATO#PATO_0000117"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/PATO#PATO_0000140 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/PATO#PATO_0000140"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/PATO#PATO_0000279 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/PATO#PATO_0000279"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/PATO#PATO_0000328 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/PATO#PATO_0000328"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/PATO#PATO_0000460 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/PATO#PATO_0000460"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/PATO#PATO_0000587 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/PATO#PATO_0000587"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/PATO#PATO_0000718 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/PATO#PATO_0000718"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/PATO#PATO_0000937 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/PATO#PATO_0000937"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/PATO#PATO_0000956 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/PATO#PATO_0000956"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/PATO#PATO_0000964 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/PATO#PATO_0000964"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/PATO#PATO_0001769 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/PATO#PATO_0001769"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/PATO#PATO_0001834 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/PATO#PATO_0001834"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/PATO#PATO_0001873 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/PATO#PATO_0001873"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/PATO#PATO_0001912 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/PATO#PATO_0001912"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0000034 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0000034">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/PATO#PATO_0001769"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#inheres_in"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBls#WBls_0000003"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0000035 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0000035">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/PATO#PATO_0000051"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#during"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBls#WBls_0000023"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#inheres_in"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBbt#WBbt_0007833"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0000044 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0000044">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/PATO#PATO_0000117"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#during"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBls#WBls_0000004"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#inheres_in"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/CL#CL_0000025"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0000050 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0000050">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/PATO#PATO_0000001"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#during"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBls#WBls_0000003"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#inheres_in"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBbt#WBbt_0007833"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#qualifier"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/PATO#PATO_0000718"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0000054 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0000054">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/PATO#PATO_0000001"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#during"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBls#WBls_0000023"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#inheres_in"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBbt#WBbt_0007833"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#qualifier"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/PATO#PATO_0000718"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0000057 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0000057">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/PATO#PATO_0000001"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#ends_during_or_before"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBls#WBls_0000027"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#inheres_in"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBbt#WBbt_0007833"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#qualifier"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/PATO#PATO_0000718"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#starts_during_or_after"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBls#WBls_0000024"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0000058 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0000058">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/PATO#PATO_0000001"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#ends_during_or_before"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBls#WBls_0000024"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#qualifier"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/PATO#PATO_0000718"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#starts_during_or_after"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBls#WBls_0000027"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0000060 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0000060">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/PATO#PATO_0000001"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#during"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBls#WBls_0000041"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#inheres_in"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBbt#WBbt_0007833"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#qualifier"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/PATO#PATO_0000718"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0000116 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0000116">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/PATO#PATO_0000001"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#ends_during_or_before"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBls#WBls_0000027"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#qualifier"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/PATO#PATO_0000718"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#starts_during_or_after"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBls#WBls_0000027"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0000117 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0000117">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/PATO#PATO_0000001"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#during"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBls#WBls_0000024"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#inheres_in"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBbt#WBbt_0007833"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#qualifier"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/PATO#PATO_0000718"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0000118 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0000118">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/PATO#PATO_0000001"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#during"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBls#WBls_0000027"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#inheres_in"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBbt#WBbt_0007833"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#qualifier"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/PATO#PATO_0000718"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0000162 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0000162">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/PATO#PATO_0000328"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#during"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBls#WBls_0000023"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#inheres_in"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBbt#WBbt_0007833"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0000163 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0000163">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/PATO#PATO_0000964"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#during"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBls#WBls_0000023"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#inheres_in"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBbt#WBbt_0007833"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0000286 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0000286">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/PATO#PATO_0000937"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#during"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBls#WBls_0000003"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#inheres_in"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBbt#WBbt_0007833"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0000411 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0000411">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/PATO#PATO_0001873"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#during"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBls#WBls_0000023"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#inheres_in"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBbt#WBbt_0007833"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#qualifier"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/PATO#PATO_0000718"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0000419 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0000419">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/PATO#PATO_0000001"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#during"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBls#WBls_0000035"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#inheres_in"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBbt#WBbt_0007833"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#qualifier"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/PATO#PATO_0000718"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0000484 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0000484">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/PATO#PATO_0000587"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#during"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBls#WBls_0000003"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#inheres_in"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBbt#WBbt_0007833"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0000692 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0000692">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/PATO#PATO_0000956"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#during"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBls#WBls_0000056"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#inheres_in"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBbt#WBbt_0007833"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0000756 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0000756">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/PATO#PATO_0000460"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#inheres_in"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBls#WBls_0000029"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0000757 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0000757">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/PATO#PATO_0000460"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#inheres_in"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBls#WBls_0000037"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0000758 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0000758">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/PATO#PATO_0000460"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#inheres_in"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBls#WBls_0000040"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0000784 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0000784">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/PATO#PATO_0000279"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#during"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBls#WBls_0000056"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#inheres_in"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBbt#WBbt_0007833"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0000825 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0000825">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/PATO#PATO_0000460"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#during"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBls#WBls_0000022"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#inheres_in"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBbt#WBbt_0000101"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0000840 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0000840">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/PATO#PATO_0000460"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#during"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBls#WBls_0000003"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#inheres_in"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBbt#WBbt_0000101"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0000863 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0000863">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/PATO#PATO_0001834"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#during"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBls#WBls_0000056"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#inheres_in"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBbt#WBbt_0007833"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0000891 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0000891">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/PATO#PATO_0000964"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#during"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBls#WBls_0000041"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#inheres_in"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBbt#WBbt_0007833"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0000915 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0000915">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/PATO#PATO_0000328"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#during"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBls#WBls_0000041"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#inheres_in"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBbt#WBbt_0007833"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0000928 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0000928">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/PATO#PATO_0001912"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#during"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBls#WBls_0000056"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#inheres_in"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBbt#WBbt_0007833"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0000929 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0000929">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/PATO#PATO_0001912"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#during"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBls#WBls_0000057"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#inheres_in"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBbt#WBbt_0007833"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0001003 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0001003">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/PATO#PATO_0000001"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#during"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBls#WBls_0000038"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#inheres_in"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBbt#WBbt_0007833"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#qualifier"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/PATO#PATO_0000718"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0001020 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0001020">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/PATO#PATO_0000001"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#during"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBls#WBls_0000021"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#inheres_in"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBbt#WBbt_0007833"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#qualifier"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/PATO#PATO_0000718"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0001024 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0001024">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/PATO#PATO_0000051"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#during"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBls#WBls_0000056"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#inheres_in"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBbt#WBbt_0007833"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0001100 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0001100">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/PATO#PATO_0000001"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#during"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBls#WBls_0000004"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#inheres_in"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBbt#WBbt_0007833"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#qualifier"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/PATO#PATO_0000718"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0001118 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0001118">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/PATO#PATO_0000140"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#during"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBls#WBls_0000004"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#inheres_in"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/CL#CL_0000000"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0001135 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0001135">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/PATO#PATO_0000051"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#during"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBls#WBls_0000004"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#inheres_in"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBbt#WBbt_0007833"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0001136 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0001136">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/PATO#PATO_0000051"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#during"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBls#WBls_0000003"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#inheres_in"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBbt#WBbt_0007833"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0001137 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0001137">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/PATO#PATO_0000587"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#during"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBls#WBls_0000004"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#inheres_in"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBbt#WBbt_0007833"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0001176 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0001176">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/PATO#PATO_0000052"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#during"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBls#WBls_0000006"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#inheres_in"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBbt#WBbt_0007833"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0001178 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0001178">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/PATO#PATO_0000460"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#during"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBls#WBls_0000004"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#inheres_in"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/CL#CL_0000025"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0001293 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0001293">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/PATO#PATO_0001912"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#during"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBls#WBls_0000023"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#inheres_in"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBbt#WBbt_0007833"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0001540 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0001540">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/PATO#PATO_0000050"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#during"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBls#WBls_0000032"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#inheres_in"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBbt#WBbt_0007833"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0001545 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0001545">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/PATO#PATO_0000051"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#during"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBls#WBls_0000032"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#inheres_in"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBbt#WBbt_0007833"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBPhenotype#WBPhenotype_000155 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBPhenotype#WBPhenotype_000155">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/PATO#PATO_0000051"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#during"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBls#WBls_0000032"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#inheres_in"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBbt#WBbt_0005196"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0001550 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0001550">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/PATO#PATO_0000051"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#during"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBls#WBls_0000032"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#inheres_in"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBbt#WBbt_0005255"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0001551 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0001551">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/PATO#PATO_0000051"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#during"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBls#WBls_0000032"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#inheres_in"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBbt#WBbt_000575"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0001552 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0001552">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/PATO#PATO_0000051"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#during"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBls#WBls_0000032"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#inheres_in"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBbt#WBbt_0003681"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0001556 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0001556">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/PATO#PATO_0000051"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#during"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBls#WBls_0000032"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#inheres_in"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBbt#WBbt_0006929"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0001557 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0001557">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/PATO#PATO_0000051"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#during"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBls#WBls_0000032"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#inheres_in"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBbt#WBbt_0005107"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0001558 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0001558">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/PATO#PATO_0000051"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#during"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBls#WBls_0000032"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#inheres_in"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBbt#WBbt_0005391"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0001559 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0001559">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/PATO#PATO_0000051"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#during"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBls#WBls_0000032"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#inheres_in"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBbt#WBbt_0006926"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0001561 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0001561">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/PATO#PATO_0000051"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#during"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBls#WBls_0000032"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#inheres_in"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBbt#WBbt_0005116"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0001562 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0001562">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/PATO#PATO_0000051"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#during"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBls#WBls_0000032"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#inheres_in"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBbt#WBbt_0005501"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0001563 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBPhenotype#WBPhenotype_0001563">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/PATO#PATO_0000051"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#during"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBls#WBls_0000032"/>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/obo#inheres_in"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/WBbt#WBbt_0006920"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBbt#WBbt_0000101 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBbt#WBbt_0000101"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBbt#WBbt_0003681 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBbt#WBbt_0003681"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBbt#WBbt_0005107 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBbt#WBbt_0005107"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBbt#WBbt_0005116 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBbt#WBbt_0005116"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBbt#WBbt_0005196 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBbt#WBbt_0005196"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBbt#WBbt_0005255 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBbt#WBbt_0005255"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBbt#WBbt_0005391 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBbt#WBbt_0005391"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBbt#WBbt_0005501 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBbt#WBbt_0005501"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBbt#WBbt_000575 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBbt#WBbt_000575"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBbt#WBbt_0006920 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBbt#WBbt_0006920"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBbt#WBbt_0006926 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBbt#WBbt_0006926"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBbt#WBbt_0006929 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBbt#WBbt_0006929"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBbt#WBbt_0007833 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBbt#WBbt_0007833"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBls#WBls_0000003 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBls#WBls_0000003"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBls#WBls_0000004 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBls#WBls_0000004"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBls#WBls_0000006 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBls#WBls_0000006"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBls#WBls_0000021 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBls#WBls_0000021"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBls#WBls_0000022 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBls#WBls_0000022"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBls#WBls_0000023 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBls#WBls_0000023"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBls#WBls_0000024 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBls#WBls_0000024"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBls#WBls_0000027 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBls#WBls_0000027"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBls#WBls_0000029 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBls#WBls_0000029"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBls#WBls_0000032 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBls#WBls_0000032"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBls#WBls_0000035 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBls#WBls_0000035"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBls#WBls_0000037 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBls#WBls_0000037"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBls#WBls_0000038 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBls#WBls_0000038"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBls#WBls_0000040 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBls#WBls_0000040"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBls#WBls_0000041 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBls#WBls_0000041"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBls#WBls_0000056 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBls#WBls_0000056"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/WBls#WBls_0000057 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/WBls#WBls_0000057"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#DbXref -->
+
+    <owl:Class rdf:about="http://www.geneontology.org/formats/oboInOwl#DbXref"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#Definition -->
+
+    <owl:Class rdf:about="http://www.geneontology.org/formats/oboInOwl#Definition"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#ObsoleteClass -->
+
+    <owl:Class rdf:about="http://www.geneontology.org/formats/oboInOwl#ObsoleteClass"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#Subset -->
+
+    <owl:Class rdf:about="http://www.geneontology.org/formats/oboInOwl#Subset"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#Synonym -->
+
+    <owl:Class rdf:about="http://www.geneontology.org/formats/oboInOwl#Synonym"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#SynonymType -->
+
+    <owl:Class rdf:about="http://www.geneontology.org/formats/oboInOwl#SynonymType"/>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.2.4.1806) http://owlapi.sourceforge.net -->
+

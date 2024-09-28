@@ -1,0 +1,768 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.cs.ox.ac.uk/isg/ontologies/UID/00577.owl#"
+     xml:base="http://www.cs.ox.ac.uk/isg/ontologies/UID/00577.owl"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:PD_ST="http://purl.org/obo/owl/PD_ST#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:OBO_REL="http://purl.org/obo/owl/OBO_REL#"
+     xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#">
+    <owl:Ontology rdf:about="http://www.cs.ox.ac.uk/isg/ontologies/UID/00577.owl"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasURI"/>
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasVersion"/>
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#inSubset"/>
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasSubset"/>
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#savedBy"/>
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasSynonym"/>
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasDate"/>
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#replacedBy"/>
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym"/>
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasSynonymType"/>
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasDefaultNamespace"/>
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#isCyclic"/>
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasAlternativeId"/>
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasOBONamespace"/>
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasNarrowSynonym"/>
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#consider"/>
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasDefinition"/>
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasBroadSynonym"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Datatypes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.org/obo/owl/OBO_REL#begins_at_end_of -->
+
+    <owl:ObjectProperty rdf:about="http://purl.org/obo/owl/OBO_REL#begins_at_end_of">
+        <rdfs:label xml:lang="en">begins at end of</rdfs:label>
+        <oboInOwl:hasOBONamespace>platynereis_stage</oboInOwl:hasOBONamespace>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#ObsoleteProperty -->
+
+    <owl:ObjectProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#ObsoleteProperty"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.org/obo/owl/PD_ST#PD_ST_0000090 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/PD_ST#PD_ST_0000090">
+        <rdfs:label xml:lang="en">Platynereis developmental stage</rdfs:label>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Developmental stages are typically demarcated by the timing of appearance, loss or transformation of specific anatomical structures.</rdfs:comment>
+        <oboInOwl:hasOBONamespace>platynereis_stage</oboInOwl:hasOBONamespace>
+        <oboInOwl:hasDefinition>
+            <oboInOwl:Definition>
+                <rdfs:label xml:lang="en">A Platynereis developmental stage is an occurrent that is a temporal subdivision of a Platynereis dumerilii development.</rdfs:label>
+                <oboInOwl:hasDbXref>
+                    <oboInOwl:DbXref>
+                        <rdfs:label>PLATY:T_Henrich</rdfs:label>
+                        <oboInOwl:hasURI rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://purl.org/obo/owl/PLATY#PLATY_T_Henrich</oboInOwl:hasURI>
+                    </oboInOwl:DbXref>
+                </oboInOwl:hasDbXref>
+            </oboInOwl:Definition>
+        </oboInOwl:hasDefinition>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/PD_ST#PD_ST_0000100 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/PD_ST#PD_ST_0000100">
+        <rdfs:label xml:lang="en">Zygote stage</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.org/obo/owl/PD_ST#PD_ST_0000090"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">At a temperature of 18 C this stages lasts from 0.00 hours till 2.00 hours.</rdfs:comment>
+        <oboInOwl:hasOBONamespace>platynereis_stage</oboInOwl:hasOBONamespace>
+        <oboInOwl:hasRelatedSynonym>
+            <oboInOwl:Synonym>
+                <rdfs:label xml:lang="en">0-2 zyg</rdfs:label>
+                <oboInOwl:hasDbXref>
+                    <oboInOwl:DbXref>
+                        <rdfs:label>PLATY:A.H.L.Fischer</rdfs:label>
+                        <oboInOwl:hasURI rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://purl.org/obo/owl/PLATY#PLATY_A.H.L.Fischer</oboInOwl:hasURI>
+                    </oboInOwl:DbXref>
+                </oboInOwl:hasDbXref>
+            </oboInOwl:Synonym>
+        </oboInOwl:hasRelatedSynonym>
+        <oboInOwl:hasDefinition>
+            <oboInOwl:Definition>
+                <rdfs:label xml:lang="en">First developmental stage with the following key events: Fertilized egg before the onset of cleavage. Jelly forms, cortical migration of lipid droplets.</rdfs:label>
+                <oboInOwl:hasDbXref>
+                    <oboInOwl:DbXref>
+                        <rdfs:label>PLATY:A.H.L.Fischer</rdfs:label>
+                        <oboInOwl:hasURI rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://purl.org/obo/owl/PLATY#PLATY_A.H.L.Fischer</oboInOwl:hasURI>
+                    </oboInOwl:DbXref>
+                </oboInOwl:hasDbXref>
+            </oboInOwl:Definition>
+        </oboInOwl:hasDefinition>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/PD_ST#PD_ST_0000200 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/PD_ST#PD_ST_0000200">
+        <rdfs:label xml:lang="en">Cleaving embryo stage</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.org/obo/owl/PD_ST#PD_ST_0000090"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.org/obo/owl/OBO_REL#begins_at_end_of"/>
+                <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/PD_ST#PD_ST_0000100"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">At a temperature of 18 C this stages lasts from 2.00 hours till 7.00 hours.</rdfs:comment>
+        <oboInOwl:hasOBONamespace>platynereis_stage</oboInOwl:hasOBONamespace>
+        <oboInOwl:hasDefinition>
+            <oboInOwl:Definition>
+                <rdfs:label xml:lang="en">Developmental stage following Zygote stage with the following key events: Spiral cleavage pattern with individually identifiable blastomeres. First and second cleavage inequal and meridional. Third cleavage forms micromeres and macromeres. Ends with the appearance of the fourth quartette of micromeres.</rdfs:label>
+                <oboInOwl:hasDbXref>
+                    <oboInOwl:DbXref>
+                        <rdfs:label>PLATY:A.H.L.Fischer</rdfs:label>
+                        <oboInOwl:hasURI rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://purl.org/obo/owl/PLATY#PLATY_A.H.L.Fischer</oboInOwl:hasURI>
+                    </oboInOwl:DbXref>
+                </oboInOwl:hasDbXref>
+            </oboInOwl:Definition>
+        </oboInOwl:hasDefinition>
+        <oboInOwl:hasRelatedSynonym>
+            <oboInOwl:Synonym>
+                <rdfs:label xml:lang="en">2-7 cle</rdfs:label>
+                <oboInOwl:hasDbXref>
+                    <oboInOwl:DbXref>
+                        <rdfs:label>PLATY:A.H.L.Fischer</rdfs:label>
+                        <oboInOwl:hasURI rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://purl.org/obo/owl/PLATY#PLATY_A.H.L.Fischer</oboInOwl:hasURI>
+                    </oboInOwl:DbXref>
+                </oboInOwl:hasDbXref>
+            </oboInOwl:Synonym>
+        </oboInOwl:hasRelatedSynonym>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/PD_ST#PD_ST_0000300 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/PD_ST#PD_ST_0000300">
+        <rdfs:label xml:lang="en">Stereoblastula - Stereogastrula stage</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.org/obo/owl/PD_ST#PD_ST_0000090"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.org/obo/owl/OBO_REL#begins_at_end_of"/>
+                <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/PD_ST#PD_ST_0000200"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">At a temperature of 18 C this stages lasts from 7.00 hours till 12.00 hours.</rdfs:comment>
+        <oboInOwl:hasOBONamespace>platynereis_stage</oboInOwl:hasOBONamespace>
+        <oboInOwl:hasRelatedSynonym>
+            <oboInOwl:Synonym>
+                <rdfs:label xml:lang="en">7-12 ste</rdfs:label>
+                <oboInOwl:hasDbXref>
+                    <oboInOwl:DbXref>
+                        <rdfs:label>PLATY:A.H.L.Fischer</rdfs:label>
+                        <oboInOwl:hasURI rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://purl.org/obo/owl/PLATY#PLATY_A.H.L.Fischer</oboInOwl:hasURI>
+                    </oboInOwl:DbXref>
+                </oboInOwl:hasDbXref>
+            </oboInOwl:Synonym>
+        </oboInOwl:hasRelatedSynonym>
+        <oboInOwl:hasDefinition>
+            <oboInOwl:Definition>
+                <rdfs:label xml:lang="en">Developmental stage following Cleaving embryo stage with the following key events: Spherical mass of dividing blastomeres whose cell lineage can no longer be followed by eye. Micromeres divide bilaterally. Epibody starts.</rdfs:label>
+                <oboInOwl:hasDbXref>
+                    <oboInOwl:DbXref>
+                        <rdfs:label>PLATY:A.H.L.Fischer</rdfs:label>
+                        <oboInOwl:hasURI rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://purl.org/obo/owl/PLATY#PLATY_A.H.L.Fischer</oboInOwl:hasURI>
+                    </oboInOwl:DbXref>
+                </oboInOwl:hasDbXref>
+            </oboInOwl:Definition>
+        </oboInOwl:hasDefinition>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/PD_ST#PD_ST_0000400 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/PD_ST#PD_ST_0000400">
+        <rdfs:label xml:lang="en">Protrochophore stage</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.org/obo/owl/PD_ST#PD_ST_0000090"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.org/obo/owl/OBO_REL#begins_at_end_of"/>
+                <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/PD_ST#PD_ST_0000300"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">At a temperature of 18 C this stages lasts from 13.00 hours till 24.00 hours.</rdfs:comment>
+        <oboInOwl:hasOBONamespace>platynereis_stage</oboInOwl:hasOBONamespace>
+        <oboInOwl:hasRelatedSynonym>
+            <oboInOwl:Synonym>
+                <rdfs:label xml:lang="en">13-24 pt</rdfs:label>
+                <oboInOwl:hasDbXref>
+                    <oboInOwl:DbXref>
+                        <rdfs:label>PLATY:A.H.L.Fischer</rdfs:label>
+                        <oboInOwl:hasURI rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://purl.org/obo/owl/PLATY#PLATY_A.H.L.Fischer</oboInOwl:hasURI>
+                    </oboInOwl:DbXref>
+                </oboInOwl:hasDbXref>
+            </oboInOwl:Synonym>
+        </oboInOwl:hasRelatedSynonym>
+        <oboInOwl:hasDefinition>
+            <oboInOwl:Definition>
+                <rdfs:label xml:lang="en">Developmental stage following Stereoblastula - Stereogastrula stage with the following key events: Pre-larva, slowly rotating in the jelly driven by the multi-ciliated equatorial prototroch cells. Apical tuft appears.</rdfs:label>
+                <oboInOwl:hasDbXref>
+                    <oboInOwl:DbXref>
+                        <rdfs:label>PLATY:A.H.L.Fischer</rdfs:label>
+                        <oboInOwl:hasURI rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://purl.org/obo/owl/PLATY#PLATY_A.H.L.Fischer</oboInOwl:hasURI>
+                    </oboInOwl:DbXref>
+                </oboInOwl:hasDbXref>
+            </oboInOwl:Definition>
+        </oboInOwl:hasDefinition>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/PD_ST#PD_ST_0000500 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/PD_ST#PD_ST_0000500">
+        <rdfs:label xml:lang="en">Early trochophore stage</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.org/obo/owl/PD_ST#PD_ST_0000090"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.org/obo/owl/OBO_REL#begins_at_end_of"/>
+                <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/PD_ST#PD_ST_0000400"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">At a temperature of 18 C this stages lasts from 24.00 hours till 26.00 hours.</rdfs:comment>
+        <oboInOwl:hasOBONamespace>platynereis_stage</oboInOwl:hasOBONamespace>
+        <oboInOwl:hasRelatedSynonym>
+            <oboInOwl:Synonym>
+                <rdfs:label xml:lang="en">24-26 et</rdfs:label>
+                <oboInOwl:hasDbXref>
+                    <oboInOwl:DbXref>
+                        <rdfs:label>PLATY:A.H.L.Fischer</rdfs:label>
+                        <oboInOwl:hasURI rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://purl.org/obo/owl/PLATY#PLATY_A.H.L.Fischer</oboInOwl:hasURI>
+                    </oboInOwl:DbXref>
+                </oboInOwl:hasDbXref>
+            </oboInOwl:Synonym>
+        </oboInOwl:hasRelatedSynonym>
+        <oboInOwl:hasDefinition>
+            <oboInOwl:Definition>
+                <rdfs:label xml:lang="en">Developmental stage following Protrochophore stage with the following key events: Hatching larvae actively swimming in the water column but yet without phototaxis. First pigment appears in the larval eyes. Telotroch forms. Apical ganglion forms. One serotonergic cell in the brain. First larval brain axon. Prototroch nerve develops. Ventral nerve cord is v-shaped.</rdfs:label>
+                <oboInOwl:hasDbXref>
+                    <oboInOwl:DbXref>
+                        <rdfs:label>PLATY:A.H.L.Fischer</rdfs:label>
+                        <oboInOwl:hasURI rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://purl.org/obo/owl/PLATY#PLATY_A.H.L.Fischer</oboInOwl:hasURI>
+                    </oboInOwl:DbXref>
+                </oboInOwl:hasDbXref>
+            </oboInOwl:Definition>
+        </oboInOwl:hasDefinition>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/PD_ST#PD_ST_0000600 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/PD_ST#PD_ST_0000600">
+        <rdfs:label xml:lang="en">Mid-trochophore stage</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.org/obo/owl/PD_ST#PD_ST_0000090"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.org/obo/owl/OBO_REL#begins_at_end_of"/>
+                <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/PD_ST#PD_ST_0000500"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">At a temperature of 18 C this stages lasts from 26.00 hours till 40.00 hours.</rdfs:comment>
+        <oboInOwl:hasOBONamespace>platynereis_stage</oboInOwl:hasOBONamespace>
+        <oboInOwl:hasRelatedSynonym>
+            <oboInOwl:Synonym>
+                <rdfs:label xml:lang="en">26-40 mt</rdfs:label>
+                <oboInOwl:hasDbXref>
+                    <oboInOwl:DbXref>
+                        <rdfs:label>PLATY:A.H.L.Fischer</rdfs:label>
+                        <oboInOwl:hasURI rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://purl.org/obo/owl/PLATY#PLATY_A.H.L.Fischer</oboInOwl:hasURI>
+                    </oboInOwl:DbXref>
+                </oboInOwl:hasDbXref>
+            </oboInOwl:Synonym>
+        </oboInOwl:hasRelatedSynonym>
+        <oboInOwl:hasDefinition>
+            <oboInOwl:Definition>
+                <rdfs:label xml:lang="en">Developmental stage following Early trochophore stage with the following key events: Free-swimming trochophores showing phototaxis. Increasing amount of shading pigment in the larval eyes. Stomodeal rosette starts forming and moves anteriorly. The body shape starts to change from spherical to conical. Variable: Red pigment spots around the prototroch cells. Second cerebral commissure, future nuchal organ nerve and asymmetric axon develop. Three more serotonergic cells around apical ganglion, first commissure in the ventral nerve cord, dorsal and ventral longitudinal muscles appear.</rdfs:label>
+                <oboInOwl:hasDbXref>
+                    <oboInOwl:DbXref>
+                        <rdfs:label>PLATY:A.H.L.Fischer</rdfs:label>
+                        <oboInOwl:hasURI rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://purl.org/obo/owl/PLATY#PLATY_A.H.L.Fischer</oboInOwl:hasURI>
+                    </oboInOwl:DbXref>
+                </oboInOwl:hasDbXref>
+            </oboInOwl:Definition>
+        </oboInOwl:hasDefinition>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/PD_ST#PD_ST_0000700 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/PD_ST#PD_ST_0000700">
+        <rdfs:label xml:lang="en">Late trochophore stage</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.org/obo/owl/PD_ST#PD_ST_0000090"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.org/obo/owl/OBO_REL#begins_at_end_of"/>
+                <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/PD_ST#PD_ST_0000600"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">At a temperature of 18 C this stages lasts from 40.00 hours till 48.00 hours.</rdfs:comment>
+        <oboInOwl:hasOBONamespace>platynereis_stage</oboInOwl:hasOBONamespace>
+        <oboInOwl:hasRelatedSynonym>
+            <oboInOwl:Synonym>
+                <rdfs:label xml:lang="en">40-48 lt</rdfs:label>
+                <oboInOwl:hasDbXref>
+                    <oboInOwl:DbXref>
+                        <rdfs:label>PLATY:A.H.L.Fischer</rdfs:label>
+                        <oboInOwl:hasURI rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://purl.org/obo/owl/PLATY#PLATY_A.H.L.Fischer</oboInOwl:hasURI>
+                    </oboInOwl:DbXref>
+                </oboInOwl:hasDbXref>
+            </oboInOwl:Synonym>
+        </oboInOwl:hasRelatedSynonym>
+        <oboInOwl:hasDefinition>
+            <oboInOwl:Definition>
+                <rdfs:label xml:lang="en">Developmental stage following Mid-trochophore stage with the following key events: Distinct stomodeal opening surrounded by stomodeal rosette. First chaetae visible inside the trunk. Three larval segments appear simultaneously identifiable by the developing chaetae in the trunk. Macromeres narrower towards the posterior. Second commissure forms in the ventral nerve cord. Dorsal and ventral longitudinal muscles elongate. First signs of oblique and parapodial muscles.</rdfs:label>
+                <oboInOwl:hasDbXref>
+                    <oboInOwl:DbXref>
+                        <rdfs:label>PLATY:A.H.L.Fischer</rdfs:label>
+                        <oboInOwl:hasURI rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://purl.org/obo/owl/PLATY#PLATY_A.H.L.Fischer</oboInOwl:hasURI>
+                    </oboInOwl:DbXref>
+                </oboInOwl:hasDbXref>
+            </oboInOwl:Definition>
+        </oboInOwl:hasDefinition>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/PD_ST#PD_ST_0000800 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/PD_ST#PD_ST_0000800">
+        <rdfs:label xml:lang="en">Early metatrochophore stage</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.org/obo/owl/PD_ST#PD_ST_0000090"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.org/obo/owl/OBO_REL#begins_at_end_of"/>
+                <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/PD_ST#PD_ST_0000700"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">At a temperature of 18 C this stages lasts from 48.00 hours till 51.00 hours.</rdfs:comment>
+        <oboInOwl:hasOBONamespace>platynereis_stage</oboInOwl:hasOBONamespace>
+        <oboInOwl:hasRelatedSynonym>
+            <oboInOwl:Synonym>
+                <rdfs:label xml:lang="en">48-51 emt</rdfs:label>
+                <oboInOwl:hasDbXref>
+                    <oboInOwl:DbXref>
+                        <rdfs:label>PLATY:A.H.L.Fischer</rdfs:label>
+                        <oboInOwl:hasURI rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://purl.org/obo/owl/PLATY#PLATY_A.H.L.Fischer</oboInOwl:hasURI>
+                    </oboInOwl:DbXref>
+                </oboInOwl:hasDbXref>
+            </oboInOwl:Synonym>
+        </oboInOwl:hasRelatedSynonym>
+        <oboInOwl:hasDefinition>
+            <oboInOwl:Definition>
+                <rdfs:label xml:lang="en">Developmental stage following Late trochophore stage with the following key events: Formation of the first paratroch at the posterior border of the second chaetigerous segment. Chaetae reach the body wall. The number of cells contributing to the stomodeal rosette is slowly increasing. Red pigment at the telotroch can appear. Third commissure forms in the ventral nerve cord. Second and third pair of serotonergic cells in the ventral nerve cord. Oblique and parapodial muscles more numerous and elongated.</rdfs:label>
+                <oboInOwl:hasDbXref>
+                    <oboInOwl:DbXref>
+                        <rdfs:label>PLATY:A.H.L.Fischer</rdfs:label>
+                        <oboInOwl:hasURI rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://purl.org/obo/owl/PLATY#PLATY_A.H.L.Fischer</oboInOwl:hasURI>
+                    </oboInOwl:DbXref>
+                </oboInOwl:hasDbXref>
+            </oboInOwl:Definition>
+        </oboInOwl:hasDefinition>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/PD_ST#PD_ST_0000900 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/PD_ST#PD_ST_0000900">
+        <rdfs:label xml:lang="en">Mid-metatrochophore stage</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.org/obo/owl/PD_ST#PD_ST_0000090"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.org/obo/owl/OBO_REL#begins_at_end_of"/>
+                <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/PD_ST#PD_ST_0000800"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">At a temperature of 18 C this stages lasts from 51.00 hours till 60.00 hours.</rdfs:comment>
+        <oboInOwl:hasOBONamespace>platynereis_stage</oboInOwl:hasOBONamespace>
+        <oboInOwl:hasDefinition>
+            <oboInOwl:Definition>
+                <rdfs:label xml:lang="en">Developmental stage following Early metatrochophore stage with the following key events: Pigment of the adult eyes clearly visible lateral-dorsally in the episphere. Chaetae outside the body wall. Amount of pigment in the adult eyes increases. Chaetae increase in length. The gut anlage becomes visible. Additional ring of cells surrounds the stomodeal opening from anterior to posterior. Lumen of the stomodeum starts to invaginate into the head. Second paratroch forms at the posterior border of the first chaetigerous trunk segments. Increasing number of axons in the commissures. Convergent extension movements start in the ventral neuroectoderm and continues until 72hpf (Steinmetz et al., 2007), Fourth pair of serotonergic cells in the ventral nerve cord. Ventral medial longitudinal muscle starts forming.</rdfs:label>
+                <oboInOwl:hasDbXref>
+                    <oboInOwl:DbXref>
+                        <rdfs:label>PLATY:A.H.L.Fischer</rdfs:label>
+                        <oboInOwl:hasURI rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://purl.org/obo/owl/PLATY#PLATY_A.H.L.Fischer</oboInOwl:hasURI>
+                    </oboInOwl:DbXref>
+                </oboInOwl:hasDbXref>
+            </oboInOwl:Definition>
+        </oboInOwl:hasDefinition>
+        <oboInOwl:hasRelatedSynonym>
+            <oboInOwl:Synonym>
+                <rdfs:label xml:lang="en">51-60 mmt</rdfs:label>
+                <oboInOwl:hasDbXref>
+                    <oboInOwl:DbXref>
+                        <rdfs:label>PLATY:A.H.L.Fischer</rdfs:label>
+                        <oboInOwl:hasURI rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://purl.org/obo/owl/PLATY#PLATY_A.H.L.Fischer</oboInOwl:hasURI>
+                    </oboInOwl:DbXref>
+                </oboInOwl:hasDbXref>
+            </oboInOwl:Synonym>
+        </oboInOwl:hasRelatedSynonym>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/PD_ST#PD_ST_0001000 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/PD_ST#PD_ST_0001000">
+        <rdfs:label xml:lang="en">Late metatrochophore stage</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.org/obo/owl/PD_ST#PD_ST_0000090"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.org/obo/owl/OBO_REL#begins_at_end_of"/>
+                <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/PD_ST#PD_ST_0000900"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">At a temperature of 18 C this stages lasts from 60.00 hours till 66.00 hours.</rdfs:comment>
+        <oboInOwl:hasOBONamespace>platynereis_stage</oboInOwl:hasOBONamespace>
+        <oboInOwl:hasDefinition>
+            <oboInOwl:Definition>
+                <rdfs:label xml:lang="en">Developmental stage following Mid-metatrochophore stage with the following key events: Formation of the parapodia and the chaetae of the third chaetigerous segment reach to the posterior end of the larvae. Body shape changes from conical to torpedo-like and slender. Formation of the akrotroch starts. Stomodeal opening becomes slit-like. Ventral medial longitudinal muscle elongates.</rdfs:label>
+                <oboInOwl:hasDbXref>
+                    <oboInOwl:DbXref>
+                        <rdfs:label>PLATY:A.H.L.Fischer</rdfs:label>
+                        <oboInOwl:hasURI rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://purl.org/obo/owl/PLATY#PLATY_A.H.L.Fischer</oboInOwl:hasURI>
+                    </oboInOwl:DbXref>
+                </oboInOwl:hasDbXref>
+            </oboInOwl:Definition>
+        </oboInOwl:hasDefinition>
+        <oboInOwl:hasRelatedSynonym>
+            <oboInOwl:Synonym>
+                <rdfs:label xml:lang="en">60-66 lmt</rdfs:label>
+                <oboInOwl:hasDbXref>
+                    <oboInOwl:DbXref>
+                        <rdfs:label>PLATY:A.H.L.Fischer</rdfs:label>
+                        <oboInOwl:hasURI rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://purl.org/obo/owl/PLATY#PLATY_A.H.L.Fischer</oboInOwl:hasURI>
+                    </oboInOwl:DbXref>
+                </oboInOwl:hasDbXref>
+            </oboInOwl:Synonym>
+        </oboInOwl:hasRelatedSynonym>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/PD_ST#PD_ST_0001100 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/PD_ST#PD_ST_0001100">
+        <rdfs:label xml:lang="en">Early nectochaete stage</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.org/obo/owl/PD_ST#PD_ST_0000090"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.org/obo/owl/OBO_REL#begins_at_end_of"/>
+                <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/PD_ST#PD_ST_0001000"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">At a temperature of 18 C this stages lasts from 66.00 hours till 75.00 hours.</rdfs:comment>
+        <oboInOwl:hasOBONamespace>platynereis_stage</oboInOwl:hasOBONamespace>
+        <oboInOwl:hasDefinition>
+            <oboInOwl:Definition>
+                <rdfs:label xml:lang="en">Developmental stage following Late metatrochophore stage with the following key events: Formation of the metatroch; formation of the akrotroch completed. The parapodia can be moved independently. Rapid trunk elongation. Anlage of the proctodeum becomes visible. Occasionally larvae crawl using their parapodia. Much stronger pigmentation in the adult eyes. Lipid droplets move posteriorly. 1-2 pigmented spots at the basis of each parapodium. Dorsal and ventral roots of the circumesophageal connectives approach each other. More serotonergic cells in the ventral nerve cord. Muscles form anteriorly to the stomodeum.</rdfs:label>
+                <oboInOwl:hasDbXref>
+                    <oboInOwl:DbXref>
+                        <rdfs:label>PLATY:A.H.L.Fischer</rdfs:label>
+                        <oboInOwl:hasURI rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://purl.org/obo/owl/PLATY#PLATY_A.H.L.Fischer</oboInOwl:hasURI>
+                    </oboInOwl:DbXref>
+                </oboInOwl:hasDbXref>
+            </oboInOwl:Definition>
+        </oboInOwl:hasDefinition>
+        <oboInOwl:hasRelatedSynonym>
+            <oboInOwl:Synonym>
+                <rdfs:label xml:lang="en">66-75 en</rdfs:label>
+                <oboInOwl:hasDbXref>
+                    <oboInOwl:DbXref>
+                        <rdfs:label>PLATY:A.H.L.Fischer</rdfs:label>
+                        <oboInOwl:hasURI rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://purl.org/obo/owl/PLATY#PLATY_A.H.L.Fischer</oboInOwl:hasURI>
+                    </oboInOwl:DbXref>
+                </oboInOwl:hasDbXref>
+            </oboInOwl:Synonym>
+        </oboInOwl:hasRelatedSynonym>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/PD_ST#PD_ST_0001200 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/PD_ST#PD_ST_0001200">
+        <rdfs:label xml:lang="en">Mid-nectochaete stage</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.org/obo/owl/PD_ST#PD_ST_0000090"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.org/obo/owl/OBO_REL#begins_at_end_of"/>
+                <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/PD_ST#PD_ST_0001100"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">At a temperature of 18 C this stages lasts from 75.00 hours till 144.00 hours.</rdfs:comment>
+        <oboInOwl:hasOBONamespace>platynereis_stage</oboInOwl:hasOBONamespace>
+        <oboInOwl:hasRelatedSynonym>
+            <oboInOwl:Synonym>
+                <rdfs:label xml:lang="en">75-6d mn</rdfs:label>
+                <oboInOwl:hasDbXref>
+                    <oboInOwl:DbXref>
+                        <rdfs:label>PLATY:A.H.L.Fischer</rdfs:label>
+                        <oboInOwl:hasURI rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://purl.org/obo/owl/PLATY#PLATY_A.H.L.Fischer</oboInOwl:hasURI>
+                    </oboInOwl:DbXref>
+                </oboInOwl:hasDbXref>
+            </oboInOwl:Synonym>
+        </oboInOwl:hasRelatedSynonym>
+        <oboInOwl:hasDefinition>
+            <oboInOwl:Definition>
+                <rdfs:label xml:lang="en">Developmental stage following Early nectochaete stage with the following key events: Formation of the antennae, antero-dorsal pair of tentacular cirri, and anal cirri. Palpae start forming. Progression from planktic to benthic lifestyle. Body shape changes from torpedo-like into worm-like. Head distinguishable from the trunk due to a constriction. Adult eyes grow in size and are only separated by a medial constriction. Jaws start forming. Macromeres start to cellularize and form midgut epithelium. Proctodeum develops a cylindrical tube shape. The stomodeum and proctodeum get in contact with the midgut.  Pigmented spots at the base of the parapodia increase in size. Additional pigment appears in the head region. Brain grows. Additional serotonergic cells in the brain. Segmental nerves can be identified. Pharynx musculature, muscles and nerves of the antennae, tentacular cirri, palpae and anal cirri develop.</rdfs:label>
+                <oboInOwl:hasDbXref>
+                    <oboInOwl:DbXref>
+                        <rdfs:label>PLATY:A.H.L.Fischer</rdfs:label>
+                        <oboInOwl:hasURI rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://purl.org/obo/owl/PLATY#PLATY_A.H.L.Fischer</oboInOwl:hasURI>
+                    </oboInOwl:DbXref>
+                </oboInOwl:hasDbXref>
+            </oboInOwl:Definition>
+        </oboInOwl:hasDefinition>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/PD_ST#PD_ST_0001300 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/PD_ST#PD_ST_0001300">
+        <rdfs:label xml:lang="en">Late nectochaete stage</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.org/obo/owl/PD_ST#PD_ST_0000090"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.org/obo/owl/OBO_REL#begins_at_end_of"/>
+                <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/PD_ST#PD_ST_0001200"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">At a temperature of 18 C this stages lasts from 144.00 hours.</rdfs:comment>
+        <oboInOwl:hasOBONamespace>platynereis_stage</oboInOwl:hasOBONamespace>
+        <oboInOwl:hasRelatedSynonym>
+            <oboInOwl:Synonym>
+                <rdfs:label xml:lang="en">6d-2w ln</rdfs:label>
+                <oboInOwl:hasDbXref>
+                    <oboInOwl:DbXref>
+                        <rdfs:label>PLATY:A.H.L.Fischer</rdfs:label>
+                        <oboInOwl:hasURI rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://purl.org/obo/owl/PLATY#PLATY_A.H.L.Fischer</oboInOwl:hasURI>
+                    </oboInOwl:DbXref>
+                </oboInOwl:hasDbXref>
+            </oboInOwl:Synonym>
+        </oboInOwl:hasRelatedSynonym>
+        <oboInOwl:hasDefinition>
+            <oboInOwl:Definition>
+                <rdfs:label xml:lang="en">Developmental stage following Mid-nectochaete stage with the following key events: Beginning of food intake. Lipid droplets are finally totally resorbed. Jaws rapidly increase in size. Additional teeth are added. End of synchronized development between individuals. Spinning glands develop and start to form mucus. Palpae elongate slowly. Antennae, antero-dorsal tentacular cirri and anal cirri elongate rapidly. At the end of this stage the forth chaetigerous segment is fully formed.</rdfs:label>
+                <oboInOwl:hasDbXref>
+                    <oboInOwl:DbXref>
+                        <rdfs:label>PLATY:A.H.L.Fischer</rdfs:label>
+                        <oboInOwl:hasURI rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://purl.org/obo/owl/PLATY#PLATY_A.H.L.Fischer</oboInOwl:hasURI>
+                    </oboInOwl:DbXref>
+                </oboInOwl:hasDbXref>
+            </oboInOwl:Definition>
+        </oboInOwl:hasDefinition>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/PD_ST#PD_ST_0001400 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/PD_ST#PD_ST_0001400">
+        <rdfs:label xml:lang="en">Praemetamorphic juvenile stage</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.org/obo/owl/PD_ST#PD_ST_0000090"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.org/obo/owl/OBO_REL#begins_at_end_of"/>
+                <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/PD_ST#PD_ST_0001300"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <oboInOwl:hasOBONamespace>platynereis_stage</oboInOwl:hasOBONamespace>
+        <oboInOwl:hasDefinition>
+            <oboInOwl:Definition>
+                <rdfs:label xml:lang="en">Developmental stage following Late nectochaete stage with the following key events: Fifth chaetigerous body segment forms. Swimming behavior changes from gliding using cilia to wiggling by undulatory body movements. The juveniles undergo second metamorphosis by transforming the first pair of parapodia into the posterior pair of tentacular cirri. Larval eyes disappear during metamorphosis. Palpae and antennae elongate slowly. The anal cirri elongate rapidly. The midgut elongates rapidly with the elongating body. Jaws grow in size. More teeth are added. Pharynx develops into an eversible proboscis. Larvae form characteristic tubes in which they live.</rdfs:label>
+                <oboInOwl:hasDbXref>
+                    <oboInOwl:DbXref>
+                        <rdfs:label>PLATY:A.H.L.Fischer</rdfs:label>
+                        <oboInOwl:hasURI rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://purl.org/obo/owl/PLATY#PLATY_A.H.L.Fischer</oboInOwl:hasURI>
+                    </oboInOwl:DbXref>
+                </oboInOwl:hasDbXref>
+            </oboInOwl:Definition>
+        </oboInOwl:hasDefinition>
+        <oboInOwl:hasRelatedSynonym>
+            <oboInOwl:Synonym>
+                <rdfs:label xml:lang="en">pre juv</rdfs:label>
+                <oboInOwl:hasDbXref>
+                    <oboInOwl:DbXref>
+                        <rdfs:label>PLATY:A.H.L.Fischer</rdfs:label>
+                        <oboInOwl:hasURI rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://purl.org/obo/owl/PLATY#PLATY_A.H.L.Fischer</oboInOwl:hasURI>
+                    </oboInOwl:DbXref>
+                </oboInOwl:hasDbXref>
+            </oboInOwl:Synonym>
+        </oboInOwl:hasRelatedSynonym>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/PD_ST#PD_ST_0001500 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/PD_ST#PD_ST_0001500">
+        <rdfs:label xml:lang="en">Postmetamorphic worm (atoke form) stage</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.org/obo/owl/PD_ST#PD_ST_0000090"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.org/obo/owl/OBO_REL#begins_at_end_of"/>
+                <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/PD_ST#PD_ST_0001400"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <oboInOwl:hasOBONamespace>platynereis_stage</oboInOwl:hasOBONamespace>
+        <oboInOwl:hasDefinition>
+            <oboInOwl:Definition>
+                <rdfs:label xml:lang="en">Developmental stage following Praemetamorphic juvenile stage with the following key events: Metamorphosis is finished and the posterior pair of tentacular cirri is formed. More segments are formed by the posterior growth zone. The more anterior segments grow in size. The diameter of the worm increases. Gamete production starts in the coelom at around 50 segments. Growth rate slows down until up to 70 segments. Gametes start to mature inside the body.</rdfs:label>
+                <oboInOwl:hasDbXref>
+                    <oboInOwl:DbXref>
+                        <rdfs:label>PLATY:A.H.L.Fischer</rdfs:label>
+                        <oboInOwl:hasURI rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://purl.org/obo/owl/PLATY#PLATY_A.H.L.Fischer</oboInOwl:hasURI>
+                    </oboInOwl:DbXref>
+                </oboInOwl:hasDbXref>
+            </oboInOwl:Definition>
+        </oboInOwl:hasDefinition>
+        <oboInOwl:hasRelatedSynonym>
+            <oboInOwl:Synonym>
+                <rdfs:label xml:lang="en">post juv</rdfs:label>
+                <oboInOwl:hasDbXref>
+                    <oboInOwl:DbXref>
+                        <rdfs:label>PLATY:A.H.L.Fischer</rdfs:label>
+                        <oboInOwl:hasURI rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://purl.org/obo/owl/PLATY#PLATY_A.H.L.Fischer</oboInOwl:hasURI>
+                    </oboInOwl:DbXref>
+                </oboInOwl:hasDbXref>
+            </oboInOwl:Synonym>
+        </oboInOwl:hasRelatedSynonym>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/PD_ST#PD_ST_0001600 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/PD_ST#PD_ST_0001600">
+        <rdfs:label xml:lang="en">Adult (Heteronereis) stage</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://purl.org/obo/owl/PD_ST#PD_ST_0000090"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.org/obo/owl/OBO_REL#begins_at_end_of"/>
+                <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/PD_ST#PD_ST_0001500"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <oboInOwl:hasOBONamespace>platynereis_stage</oboInOwl:hasOBONamespace>
+        <oboInOwl:hasRelatedSynonym>
+            <oboInOwl:Synonym>
+                <rdfs:label xml:lang="en">adult</rdfs:label>
+                <oboInOwl:hasDbXref>
+                    <oboInOwl:DbXref>
+                        <rdfs:label>PLATY:A.H.L.Fischer</rdfs:label>
+                        <oboInOwl:hasURI rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://purl.org/obo/owl/PLATY#PLATY_A.H.L.Fischer</oboInOwl:hasURI>
+                    </oboInOwl:DbXref>
+                </oboInOwl:hasDbXref>
+            </oboInOwl:Synonym>
+        </oboInOwl:hasRelatedSynonym>
+        <oboInOwl:hasDefinition>
+            <oboInOwl:Definition>
+                <rdfs:label xml:lang="en">Developmental stage following Postmetamorphic worm (atoke form) stage with the following key events: Epitoke metamorphosis. End of food intake resulting in an empty gut. Eyes increase in size. Part of the chromatophores degenerates inside the body. Maturing females become yellow and maturing males become white (anterior) and red (posterior). Posterior parapodia flatten and develop paddle-like chaetae. Major parts of the musculature degenerate and a new muscle type for rapid swimming develops. Mature animals become pelagic; deliver the gametes; eggs are fertilized in the water; males and females die after spawning.</rdfs:label>
+                <oboInOwl:hasDbXref>
+                    <oboInOwl:DbXref>
+                        <rdfs:label>PLATY:A.H.L.Fischer</rdfs:label>
+                        <oboInOwl:hasURI rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://purl.org/obo/owl/PLATY#PLATY_A.H.L.Fischer</oboInOwl:hasURI>
+                    </oboInOwl:DbXref>
+                </oboInOwl:hasDbXref>
+            </oboInOwl:Definition>
+        </oboInOwl:hasDefinition>
+    </owl:Class>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#DbXref -->
+
+    <owl:Class rdf:about="http://www.geneontology.org/formats/oboInOwl#DbXref"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#Definition -->
+
+    <owl:Class rdf:about="http://www.geneontology.org/formats/oboInOwl#Definition"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#ObsoleteClass -->
+
+    <owl:Class rdf:about="http://www.geneontology.org/formats/oboInOwl#ObsoleteClass"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#Subset -->
+
+    <owl:Class rdf:about="http://www.geneontology.org/formats/oboInOwl#Subset"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#Synonym -->
+
+    <owl:Class rdf:about="http://www.geneontology.org/formats/oboInOwl#Synonym"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#SynonymType -->
+
+    <owl:Class rdf:about="http://www.geneontology.org/formats/oboInOwl#SynonymType"/>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.2.4.1806) http://owlapi.sourceforge.net -->
+

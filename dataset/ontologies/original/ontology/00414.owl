@@ -1,0 +1,787 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.cs.ox.ac.uk/isg/ontologies/UID/00414.owl#"
+     xml:base="http://www.cs.ox.ac.uk/isg/ontologies/UID/00414.owl"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:GO="http://purl.org/obo/owl/GO#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:OBO_REL="http://purl.org/obo/owl/OBO_REL#"
+     xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#"
+     xmlns:CL="http://purl.org/obo/owl/CL#">
+    <owl:Ontology rdf:about="http://www.cs.ox.ac.uk/isg/ontologies/UID/00414.owl"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasURI"/>
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasVersion"/>
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#inSubset"/>
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasSubset"/>
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#savedBy"/>
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasSynonym"/>
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasDate"/>
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#expandAssertionTo"/>
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#replacedBy"/>
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym"/>
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasSynonymType"/>
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasDefaultNamespace"/>
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasAlternativeId"/>
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#isCyclic"/>
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasOBONamespace"/>
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#consider"/>
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasNarrowSynonym"/>
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasDefinition"/>
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasBroadSynonym"/>
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#expandExpressionTo"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.org/obo/owl/OBO_REL#part_of -->
+
+    <owl:ObjectProperty rdf:about="http://purl.org/obo/owl/OBO_REL#part_of"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#ObsoleteProperty -->
+
+    <owl:ObjectProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#ObsoleteProperty"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.org/obo/owl/CL#CL_0000015 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/CL#CL_0000015"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/CL#CL_0000021 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/CL#CL_0000021"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/CL#CL_0000023 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/CL#CL_0000023"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/CL#CL_0000084 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/CL#CL_0000084"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/CL#CL_0000097 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/CL#CL_0000097"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/CL#CL_0000187 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/CL#CL_0000187"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/CL#CL_0000192 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/CL#CL_0000192"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/CL#CL_0000233 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/CL#CL_0000233"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/CL#CL_0000236 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/CL#CL_0000236"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/CL#CL_0000248 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/CL#CL_0000248"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/CL#CL_0000280 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/CL#CL_0000280"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/CL#CL_0000286 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/CL#CL_0000286"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/CL#CL_0000320 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/CL#CL_0000320"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/CL#CL_0000522 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/CL#CL_0000522"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/CL#CL_0000537 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/CL#CL_0000537"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/CL#CL_0000540 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/CL#CL_0000540"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/CL#CL_0000563 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/CL#CL_0000563"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/CL#CL_0000586 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/CL#CL_0000586"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/CL#CL_0000654 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/CL#CL_0000654"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/CL#CL_0000726 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/CL#CL_0000726"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/CL#CL_0000746 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/CL#CL_0000746"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/CL#CL_0000775 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/CL#CL_0000775"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/CL#CL_0000789 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/CL#CL_0000789"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/CL#CL_0000798 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/CL#CL_0000798"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/GO#GO_0001673 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/GO#GO_0001673">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/GO#GO_0005634"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/OBO_REL#part_of"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/CL#CL_0000015"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/GO#GO_0001674 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/GO#GO_0001674">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/GO#GO_0005634"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/OBO_REL#part_of"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/CL#CL_0000021"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/GO#GO_0005618 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/GO#GO_0005618"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/GO#GO_0005634 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/GO#GO_0005634"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/GO#GO_0005737 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/GO#GO_0005737"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/GO#GO_0005764 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/GO#GO_0005764"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/GO#GO_0005886 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/GO#GO_0005886"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/GO#GO_0005911 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/GO#GO_0005911"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/GO#GO_0014704 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/GO#GO_0014704">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/GO#GO_0005911"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/OBO_REL#part_of"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/CL#CL_0000746"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/GO#GO_0016528 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/GO#GO_0016528">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/GO#GO_0005737"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/OBO_REL#part_of"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/CL#CL_0000187"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/GO#GO_0019815 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/GO#GO_0019815">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/GO#GO_0043235"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/OBO_REL#part_of"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/CL#CL_0000236"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/GO#GO_0030141 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/GO#GO_0030141"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/GO#GO_0030312 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/GO#GO_0030312"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/GO#GO_0030446 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/GO#GO_0030446">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/GO#GO_0005618"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/OBO_REL#part_of"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/CL#CL_0000286"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/GO#GO_0030485 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/GO#GO_0030485">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/GO#GO_0043292"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/OBO_REL#part_of"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/CL#CL_0000192"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/GO#GO_0031160 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/GO#GO_0031160">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/GO#GO_0005618"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/OBO_REL#part_of"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/CL#CL_0000522"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/GO#GO_0032160 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/GO#GO_0032160"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/GO#GO_0032166 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/GO#GO_0032166">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/GO#GO_0032160"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/OBO_REL#part_of"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/CL#CL_0000726"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/GO#GO_0042101 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/GO#GO_0042101">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/GO#GO_0043235"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/OBO_REL#part_of"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/CL#CL_0000084"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/GO#GO_0042105 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/GO#GO_0042105">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/GO#GO_0043235"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/OBO_REL#part_of"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/CL#CL_0000789"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/GO#GO_0042106 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/GO#GO_0042106">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/GO#GO_0043235"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/OBO_REL#part_of"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/CL#CL_0000798"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/GO#GO_0042383 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/GO#GO_0042383">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/GO#GO_0005886"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/OBO_REL#part_of"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/CL#CL_0000187"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/GO#GO_0042582 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/GO#GO_0042582">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/GO#GO_0030141"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/OBO_REL#part_of"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/CL#CL_0000775"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/GO#GO_0042585 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/GO#GO_0042585">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/GO#GO_0005634"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/OBO_REL#part_of"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/CL#CL_0000654"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/GO#GO_0042629 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/GO#GO_0042629">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/GO#GO_0005764"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/OBO_REL#part_of"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/CL#CL_0000097"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/GO#GO_0042827 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/GO#GO_0042827">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/GO#GO_0030141"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/OBO_REL#part_of"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/CL#CL_0000233"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/GO#GO_0042995 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/GO#GO_0042995"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/GO#GO_0043005 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/GO#GO_0043005">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/GO#GO_0042995"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/OBO_REL#part_of"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/CL#CL_0000540"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/GO#GO_0043073 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/GO#GO_0043073">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/GO#GO_0005634"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/OBO_REL#part_of"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/CL#CL_0000586"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/GO#GO_0043076 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/GO#GO_0043076">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/GO#GO_0005634"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/OBO_REL#part_of"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/CL#CL_0000320"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/GO#GO_0043079 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/GO#GO_0043079">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/GO#GO_0005634"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/OBO_REL#part_of"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/CL#CL_0000537"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/GO#GO_0043235 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/GO#GO_0043235"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/GO#GO_0043292 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/GO#GO_0043292"/>
+    
+
+
+    <!-- http://purl.org/obo/owl/GO#GO_0043591 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/GO#GO_0043591">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/GO#GO_0030312"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/OBO_REL#part_of"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/CL#CL_0000563"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/GO#GO_0045495 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/GO#GO_0045495">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/GO#GO_0005737"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/OBO_REL#part_of"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/CL#CL_0000023"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/GO#GO_0048555 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/GO#GO_0048555">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/GO#GO_0005634"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/OBO_REL#part_of"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/CL#CL_0000280"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.org/obo/owl/GO#GO_0048556 -->
+
+    <owl:Class rdf:about="http://purl.org/obo/owl/GO#GO_0048556">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://purl.org/obo/owl/GO#GO_0005634"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://purl.org/obo/owl/OBO_REL#part_of"/>
+                        <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/CL#CL_0000248"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#DbXref -->
+
+    <owl:Class rdf:about="http://www.geneontology.org/formats/oboInOwl#DbXref"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#Definition -->
+
+    <owl:Class rdf:about="http://www.geneontology.org/formats/oboInOwl#Definition"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#ObsoleteClass -->
+
+    <owl:Class rdf:about="http://www.geneontology.org/formats/oboInOwl#ObsoleteClass"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#Subset -->
+
+    <owl:Class rdf:about="http://www.geneontology.org/formats/oboInOwl#Subset"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#Synonym -->
+
+    <owl:Class rdf:about="http://www.geneontology.org/formats/oboInOwl#Synonym"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#SynonymType -->
+
+    <owl:Class rdf:about="http://www.geneontology.org/formats/oboInOwl#SynonymType"/>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.2.4.1806) http://owlapi.sourceforge.net -->
+
