@@ -6,8 +6,7 @@ These classes are dedicated to the generation of synthetic data and rules. Here,
 
 To generate a synthetic database using the Data Generator, use the following options when running the class:
 
-- `-dg`: Specifies data generation mode.
-- `-d`: The database configuration file includes key-value pairs for username, password, dbname, and url.
+- `-db`: The database configuration file includes key-value pairs for username, password, dbname, and url.
 - `-pr`: The number of predicates (relations) in the database.
 - `-tp`: The number of tuples (records).
 - `-min`: The minimum arity of predicates (relation columns).
@@ -19,9 +18,11 @@ The data generator makes a database using the given schema details and then fill
 ## Program Generator
 
 To generate synthetic rules, use the following options when running the class:
-- `-l`: (Optional) Indicates linear rule generation. By default, the generator creates simple linear rules.  
-- `-d`: (Optional) The database with an existing schema to be used as the schema for the rules.
-- `-ru`: The number of rules to be generated.
+- `-c`: (Optional) The database config with an existing schema to be used as the schema for the rules.
+- `-r`: The number of rules to be generated.
+- `-pr`: The number of predicates (relations) in the database.
+- `-min`: The minimum arity of predicates (relation columns).
+- `-max`: The maximum arity of predicates.
 - `-o`: (Optional) The output file for the rules. If not specified, the default is `rules.txt` in the current directory.
 
-The rule generator operates in two modes. In the first mode, it uses the schema information from an existing database, accessed through `-d dbconfig`, where the connection details are specified in dbconfig. In the second mode, it randomly generates the schema, with the additional parameters `-pr`, `-min`, and `-max` determining the predicates in the rules. 
+The rule generator operates in two modes. In the first mode, it uses the schema information from an existing database, accessed through `-c dbconfig`, where the connection details are specified in dbconfig. In the second mode, it randomly generates the schema, with the additional parameters `-r`, `-pr`, `-min`, and `-max` determining the predicates in the rules. 
