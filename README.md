@@ -9,14 +9,14 @@ The structure of the respository is as follows:
 - \"JarFiles\" contains the Jar file for the main analyzer.
 - \"src\" includes the complete implementation of the termination algorithm for guarded, simple-linear and linear rules.
 
-## Checking Chase Termination
+## Checking Chase Termination for TEL
 
-This work focuses on an algorithm called `Linearization`, which converts guarded set of rules to simple-linear set of rules, and based on the acyclicity of the dependency graph for the new set of rules, the algorithm decides whether chase terminates or not. To run the
+The main focus of this work is on an algorithm called `Linearization`, which converts guarded set of rules to simple-linear set of rules, and based on the acyclicity of the dependency graph for the new set of rules, the algorithm decides whether chase terminates or not. To run the
 algorithm for an ontology "ontology.owl", use the following command:
 
 ```
 cd JarFiles/
-java -jar ChaseTermination-jar-with-dependencies.jar [/path/to/owl/file]
+java -jar ChaseTermination-TEL.jar [/path/to/owl/file]
 ```
 
 The tool executes the chase termination algorithm and returns whether the chase terminates. Additionally, the output
@@ -35,3 +35,5 @@ file contains statistics about the program.
 - t_terminates-l: The end-to-end time to check termination.
 - t_linear_db-l: The time to linearize the database.
 - t_linea_rules-l: The time to linearize the set of rules.
+
+## Checking Chase Termination for Simple-Linear and Linear TGDs
