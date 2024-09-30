@@ -11,7 +11,7 @@ The structure of the respository is as follows:
 
 ## Checking Chase Termination for TEL
 
-The main focus of this work is on an algorithm called `Linearization`, which converts guarded set of rules to simple-linear set of rules, and based on the acyclicity of the dependency graph for the new set of rules, the algorithm decides whether chase terminates or not. To run the
+One of main focuses of this work is on an algorithm called `Linearization`, which converts guarded set of rules to simple-linear set of rules, and based on the acyclicity of the dependency graph for the new set of rules, the algorithm decides whether chase terminates or not. To run the
 algorithm for an ontology "ontology.owl", use the following command:
 
 ```
@@ -19,8 +19,8 @@ cd JarFiles/
 java -jar ChaseTermination-TEL.jar [/path/to/owl/file]
 ```
 
-The tool executes the chase termination algorithm and returns whether the chase terminates. Additionally, the output
-file contains statistics about the program.
+The tool executes the chase termination algorithm for the class of EL ontologies, runs the `Linearization` algorithm, and returns whether the chase terminates. Additionally, the output
+file contains statistics about the program before and after linearization.
 
 - terminates-l: true if the chase terminates; false otherwise.
 - avg_arity: The average arities of the predicates.
@@ -37,3 +37,21 @@ file contains statistics about the program.
 - t_linea_rules-l: The time to linearize the set of rules.
 
 ## Checking Chase Termination for Simple-Linear and Linear TGDs
+Another main focus of this work is on an algorithm called the `Simplification`. To run this algorithm for a file containing a linear or simple-linear program, use the following command:
+
+```
+cd JarFiles/
+java -jar ChaseTermination.jar [-f /path/to/rules] [-l] [-ln] [-d /path/to/db/config] [-o /output/file/address]
+```
+This tool runs the `Simplification` algorithm for linear programs and converts them to a simple-linear program, and then checks for the acyclicity of the program to decide whether chase terminates or not.
+
+The option `-f` is required and specifies the file containing the set of rules.
+
+The option `-l` is optional, and specifies whether the tool should run the termination algorithm for linear rules; if this option is
+missing, the tool will run the algorithm for simple-linear rules. However, if this option is missing and the specified set of rules are not simple-linear, the algorithm will not run.
+When `-l` is present, the tool requires a database whether the connection information is specified by `-d /path/to/db/config` which
+contains db address, username, password, etc, or the facts available in the specified input file with `-f`. However, when `-l` is not given for simple-linear rules, the database can either be based on the facts in the input file, given using `-d [/path/to/db/config]` option, or if the database is missing, the algorithm for simple-linear rules assumes that for each relation, there is at
+least one tuple in the database for that relation.
+
+To specify an output file name, use the option `-o output.res`. The default output file name is `rules.res` if the input
+file is `rules.txt`.
