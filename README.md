@@ -5,7 +5,7 @@ simple-linear existential rules. The repository also includes a dataset includin
 
 The structure of the respository is as follows:
 
-- \"dataset\" includes owl files from the oxford dataset.
+- \"dataset\" includes owl files from the oxford dataset, and programs containing linear and simple-linear set of rules.
 - \"JarFiles\" contains the Jar file for the main analyzer.
 - \"src\" includes the complete implementation of the termination algorithm for guarded, simple-linear and linear rules.
 
