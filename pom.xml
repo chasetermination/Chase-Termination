@@ -13,6 +13,7 @@
         <maven.compiler.target>20</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <mainClass.ontologyManager>ca.chaseTermination.engine.OntologyManager</mainClass.ontologyManager>
+        <mainClass.ontologyAnalayzer>ca.chaseTermination.executer.OntologyAnalyzer</mainClass.ontologyAnalayzer>
         <mainClass.execute>ca.chaseTermination.executer.Execute</mainClass.execute>
     </properties>
 
@@ -119,7 +120,7 @@
                             <archive>
                                 <manifest>
                                     <addClasspath>true</addClasspath>
-                                    <mainClass>${mainClass.ontologyManager}</mainClass>
+                                    <mainClass>${mainClass.ontologyAnalayzer}</mainClass>
                                 </manifest>
                             </archive>
                         </configuration>
