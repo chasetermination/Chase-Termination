@@ -19,10 +19,9 @@ cd JarFiles/
 java -jar ChaseTermination-TEL.jar [/path/to/owl/file]
 ```
 
+This tool requires no input options, and only requires a valid input file with the `.owl` extension to parse.
 The tool executes the chase termination algorithm for the class of EL ontologies, runs the `Linearization` algorithm, and returns whether the chase terminates. Additionally, the output
 file contains statistics about the program before and after linearization.
-
-This tool requires no input options, and only requires a valid input file with the `.owl` extension to parse.
 
 - terminates-l: true if the chase terminates; false otherwise.
 - avg_arity: The average arities of the predicates.
