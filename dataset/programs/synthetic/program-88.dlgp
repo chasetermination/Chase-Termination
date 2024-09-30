@@ -1,0 +1,1937 @@
+@facts
+p_1415(c,c,c).
+p_1132(c,c,c).
+p_1115(c,c).
+p_165(c,c,c,c,c,c,c,c,c,c,c).
+p_1428(c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1652(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1660(c,c,c,c,c,c,c,c,c,c,c).
+p_1935(c,c,c,c,c,c,c,c,c).
+p_1054(c,c,c,c,c,c,c,c,c,c).
+p_374(c,c,c,c,c,c).
+p_939(c,c).
+p_2104(c,c,c,c,c,c,c,c,c,c,c,c).
+p_666(c,c,c,c,c,c).
+p_183(c,c,c,c,c,c).
+p_1096(c,c,c,c,c,c,c,c).
+p_1570(c,c,c,c,c,c,c,c,c,c).
+p_1919(c,c,c,c,c,c).
+p_2279(c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1523(c).
+p_799(c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_2219(c,c,c).
+p_896(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_115(c,c,c,c,c,c,c,c,c,c,c,c).
+p_1171(c,c,c,c,c,c,c,c,c).
+p_2192(c,c,c,c).
+p_474(c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_853(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_564(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_266(c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_39(c,c,c).
+p_220(c,c,c,c,c,c,c,c).
+p_0(c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_2044(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1792(c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1916(c,c,c,c,c).
+p_2419(c,c,c,c,c,c,c,c,c).
+p_51(c,c,c,c,c).
+p_2311(c,c,c,c).
+p_1020(c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1410(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_2229(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1299(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_539(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_97(c,c,c,c).
+p_1182(c,c,c,c,c,c,c,c,c,c).
+p_683(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_283(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_675(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_2015(c,c,c,c,c,c).
+p_338(c,c,c,c,c,c,c,c,c,c,c,c).
+p_1673(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_2453(c,c,c,c,c,c,c,c,c,c,c,c).
+p_2099(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1584(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_2190(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1786(c,c,c,c).
+p_596(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_331(c).
+p_219(c,c,c,c,c,c,c,c,c,c).
+p_201(c,c,c,c,c,c,c,c,c).
+p_2068(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1392(c,c).
+p_1467(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1683(c).
+p_422(c,c,c,c,c,c,c).
+p_747(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1008(c).
+p_1981(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_2382(c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_349(c,c,c,c,c).
+p_1470(c,c,c,c,c,c,c,c,c,c,c,c).
+p_773(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_928(c,c,c,c,c,c,c,c,c,c,c).
+p_1700(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_147(c).
+p_1886(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1304(c,c,c).
+p_527(c,c,c,c,c,c,c,c,c,c).
+p_1131(c,c,c,c,c,c).
+p_1745(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1314(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1002(c,c,c,c,c,c,c,c,c,c).
+p_313(c,c,c,c).
+p_186(c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_955(c,c,c,c).
+p_2467(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_2172(c,c,c,c,c,c,c,c,c,c,c).
+p_2337(c,c,c).
+p_1438(c,c,c).
+p_1967(c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_2214(c,c,c,c).
+p_1040(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_288(c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1060(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1784(c,c,c).
+p_1885(c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_930(c,c,c,c,c,c,c,c).
+p_613(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_63(c,c).
+p_2122(c,c).
+p_2180(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_796(c,c,c,c).
+p_1646(c,c,c,c,c).
+p_1893(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_696(c,c,c,c,c,c,c,c,c,c).
+p_249(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_921(c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1841(c,c,c,c,c,c,c,c,c,c,c).
+p_2407(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_2200(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_2489(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1492(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_2349(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1010(c,c,c).
+p_758(c,c).
+p_1680(c,c,c,c,c,c).
+p_162(c,c,c,c,c,c,c).
+p_294(c,c,c,c,c).
+p_2261(c,c,c,c,c,c).
+p_1718(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_906(c,c).
+p_518(c,c,c,c,c,c,c,c,c).
+p_1435(c,c,c,c,c,c).
+p_865(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1843(c,c,c,c,c,c,c,c,c).
+p_926(c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1306(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_614(c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_2278(c,c,c).
+p_1675(c,c,c,c,c,c,c,c,c).
+p_360(c,c,c,c,c,c,c,c,c,c,c,c).
+p_155(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_2009(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_128(c,c,c,c,c,c,c,c,c,c).
+p_2087(c,c,c,c,c,c,c,c,c,c,c,c).
+p_601(c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1253(c,c,c,c).
+p_2388(c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_855(c,c,c,c,c).
+p_1212(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_382(c,c,c,c,c,c,c,c,c,c,c).
+p_2194(c,c,c,c,c,c,c,c,c).
+p_2052(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_289(c,c,c,c,c,c,c,c,c).
+p_398(c,c,c).
+p_439(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1966(c,c,c,c,c,c,c,c,c,c).
+p_248(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_213(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_757(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1862(c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_721(c,c,c,c,c,c,c,c,c,c,c).
+p_1486(c,c,c,c,c).
+p_1572(c,c,c,c).
+p_1631(c,c,c,c,c,c,c).
+p_325(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_79(c,c,c,c,c,c).
+p_301(c,c,c,c,c,c,c,c,c,c).
+p_2288(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1648(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_307(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1336(c,c,c,c,c).
+p_632(c).
+p_424(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1640(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1225(c,c,c,c,c,c,c,c).
+p_150(c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_2251(c,c,c).
+p_904(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1913(c,c,c,c,c,c,c,c,c).
+p_1075(c,c,c,c,c,c).
+p_215(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_486(c,c,c,c,c,c,c).
+p_2301(c,c,c,c,c).
+p_2362(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_2416(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1553(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_211(c,c,c,c,c,c,c,c,c,c).
+p_953(c,c).
+p_1633(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1134(c,c,c,c,c,c,c,c,c,c).
+p_324(c,c,c,c,c,c,c,c,c,c,c,c).
+p_1962(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_69(c,c,c,c,c,c).
+p_713(c,c,c,c,c,c,c,c,c).
+p_2111(c).
+p_528(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_554(c,c,c,c,c,c,c,c,c).
+p_2012(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_456(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1884(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_2485(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_88(c,c,c,c,c,c,c,c).
+p_2411(c,c,c,c,c,c,c,c,c,c,c,c).
+p_1167(c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_2142(c).
+p_1980(c,c,c,c,c,c,c,c,c).
+p_1667(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1814(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_291(c).
+p_1251(c,c,c,c,c,c,c,c,c,c,c).
+p_894(c,c,c).
+p_1226(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1694(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_14(c,c,c,c,c,c,c,c,c).
+p_2292(c).
+p_883(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_2310(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1970(c,c).
+p_1342(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1363(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_561(c,c,c,c,c,c,c,c,c).
+p_2436(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_2188(c,c,c,c,c,c,c,c).
+p_810(c,c,c,c,c,c,c,c,c,c,c,c).
+p_900(c).
+p_1593(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_520(c,c,c,c,c,c).
+p_479(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1936(c).
+p_838(c,c,c,c,c).
+p_631(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1236(c,c).
+p_2356(c,c,c,c,c,c,c,c).
+p_1391(c,c,c,c,c,c).
+p_74(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_168(c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1575(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_525(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_619(c,c).
+p_2369(c,c,c,c,c,c,c,c).
+p_1818(c,c,c).
+p_925(c,c,c,c,c,c,c,c,c).
+p_815(c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_2113(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1573(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_2138(c,c,c,c,c,c,c,c,c).
+p_511(c,c,c,c,c).
+p_2152(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1817(c,c,c,c,c,c,c).
+p_1113(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1979(c,c,c,c,c).
+p_2404(c,c,c,c,c,c).
+p_1590(c,c,c).
+p_397(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1006(c,c,c,c,c,c,c).
+p_1455(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_2136(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1199(c,c,c,c,c,c,c,c).
+p_1224(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_350(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1258(c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_50(c,c).
+p_1427(c,c).
+p_2208(c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_462(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_2338(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_768(c,c,c,c,c,c,c,c,c,c).
+p_736(c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_2442(c,c,c,c,c,c,c,c).
+p_445(c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_210(c,c,c,c,c,c,c,c,c,c,c).
+p_482(c,c,c,c,c,c,c,c,c,c,c).
+p_2126(c,c,c,c,c).
+p_1133(c).
+p_874(c,c,c,c,c,c,c,c,c,c,c,c).
+p_2332(c,c,c,c,c,c,c,c,c,c,c).
+p_77(c,c,c,c,c,c,c,c,c,c,c,c).
+p_2228(c,c).
+p_1254(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_2121(c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_217(c,c,c,c,c,c,c,c,c,c,c).
+p_2376(c,c,c,c,c).
+p_1597(c,c,c,c,c,c).
+p_1452(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1908(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_2095(c).
+p_2008(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_52(c,c,c,c,c,c,c).
+p_1409(c,c,c,c,c).
+p_2266(c,c,c,c,c,c,c,c).
+p_1422(c,c,c,c,c,c,c,c,c,c).
+p_2316(c,c,c).
+p_223(c,c,c,c,c,c).
+p_1563(c,c).
+p_763(c,c,c,c,c,c,c,c,c,c,c).
+p_1545(c,c,c,c,c,c,c,c,c,c,c,c).
+p_1661(c,c,c,c).
+p_2354(c,c,c,c,c,c,c).
+p_2048(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_395(c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1488(c,c,c,c,c,c,c,c).
+p_2268(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1554(c,c,c,c,c,c,c,c).
+p_416(c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_942(c,c).
+p_2092(c,c,c,c,c,c,c,c,c,c,c,c).
+p_348(c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_611(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_2046(c,c,c,c,c,c,c,c,c,c,c,c).
+p_2408(c,c,c,c,c,c,c).
+p_1444(c,c,c,c,c,c,c).
+p_1172(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1832(c,c,c).
+p_622(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_997(c,c,c,c,c,c).
+p_1099(c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_171(c,c,c,c,c,c,c).
+p_1992(c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1504(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1738(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_2094(c,c,c,c,c,c,c,c).
+p_1729(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_111(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_2165(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1407(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_2232(c,c,c,c,c,c,c,c,c).
+p_2045(c,c,c,c,c,c,c,c,c,c).
+p_2432(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_700(c,c,c).
+p_178(c,c,c,c,c,c,c,c).
+p_1326(c,c,c,c).
+p_2435(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1163(c,c,c,c,c,c,c,c,c,c).
+p_809(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1740(c,c,c,c,c).
+p_972(c,c,c,c,c,c,c,c,c,c).
+p_679(c,c,c,c).
+p_669(c,c,c).
+p_273(c,c,c,c,c,c,c,c,c,c).
+p_200(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1858(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1883(c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_974(c,c,c,c,c,c).
+p_698(c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_222(c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1943(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_400(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_913(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1721(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1969(c,c,c,c,c,c,c,c,c,c,c).
+p_1472(c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_688(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_2083(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_2155(c,c,c,c,c,c).
+p_788(c,c,c,c,c,c,c).
+p_1697(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1551(c,c,c,c,c,c,c,c).
+p_845(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1144(c,c,c,c,c,c,c).
+p_339(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1104(c,c,c,c,c,c).
+p_2007(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1088(c,c,c,c).
+p_1623(c,c,c).
+p_1579(c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1746(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1561(c,c,c).
+p_1206(c).
+p_1245(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_957(c,c,c,c,c,c,c,c).
+p_770(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_2133(c,c,c,c,c,c,c,c).
+p_1076(c,c,c,c,c,c,c,c,c,c,c).
+p_1889(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1931(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_148(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1050(c,c,c,c).
+p_323(c,c,c,c,c,c,c,c,c,c,c).
+p_2054(c,c,c,c,c,c,c,c,c,c,c).
+p_1920(c,c,c,c,c).
+p_2322(c,c,c,c).
+p_161(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1722(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_994(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1793(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_2195(c,c).
+p_1269(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_668(c,c,c,c,c,c,c).
+p_1679(c,c).
+p_1249(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_2204(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_33(c,c).
+p_1684(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1665(c,c,c,c,c,c,c,c,c,c,c).
+p_537(c,c,c,c,c,c).
+p_494(c,c,c,c,c,c,c,c,c,c).
+p_153(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_2394(c,c,c,c,c,c,c,c,c).
+p_887(c).
+p_2207(c,c,c,c,c,c,c,c,c).
+p_1852(c).
+p_2254(c,c,c,c,c,c,c,c).
+p_875(c,c,c,c,c,c,c,c,c).
+p_30(c,c,c,c,c,c).
+p_1912(c,c,c).
+p_1868(c,c,c,c,c,c,c,c,c).
+p_1476(c,c,c,c,c,c,c,c,c,c).
+p_208(c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_792(c,c,c,c).
+p_195(c,c,c,c).
+p_1227(c,c,c,c,c,c).
+p_1815(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1942(c,c,c).
+p_732(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1384(c,c,c).
+p_484(c,c,c,c,c).
+p_2420(c,c,c,c).
+p_1776(c,c,c,c,c,c,c,c).
+p_2364(c,c,c,c,c,c).
+p_1906(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_764(c,c,c,c).
+p_1137(c,c,c,c,c,c).
+p_1769(c,c,c,c,c,c,c).
+p_1156(c,c,c,c,c,c,c,c,c,c).
+p_1291(c,c,c,c,c).
+p_702(c,c,c,c,c,c).
+p_337(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_425(c,c,c,c,c,c,c,c,c,c,c,c).
+p_1566(c).
+p_2090(c).
+p_2176(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1375(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_212(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_385(c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_264(c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_2454(c,c,c,c,c,c,c,c,c,c,c,c).
+p_1077(c,c).
+p_1582(c,c,c).
+p_932(c,c,c,c,c,c,c).
+p_1283(c,c,c,c,c,c,c,c,c,c,c).
+p_2059(c,c,c,c,c,c,c,c).
+p_871(c,c,c,c,c,c,c,c,c,c).
+p_1255(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_857(c,c,c,c,c).
+p_1454(c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_836(c,c,c,c,c,c,c,c,c,c).
+p_526(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1777(c,c,c).
+p_467(c,c,c,c,c,c,c,c,c,c).
+p_1778(c,c).
+p_443(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1234(c).
+p_1876(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1312(c,c,c,c,c,c,c,c).
+p_829(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_2197(c,c,c,c,c,c,c).
+p_905(c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_581(c,c,c).
+p_274(c,c,c,c).
+p_1064(c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_145(c,c,c,c,c).
+p_64(c,c).
+p_1853(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_2148(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1287(c,c,c,c,c,c).
+p_832(c,c,c,c,c,c,c,c,c,c).
+p_743(c,c,c,c).
+p_1180(c,c,c,c,c,c,c,c,c,c,c,c).
+p_1048(c,c,c,c,c,c,c,c,c,c).
+p_2011(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1130(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1825(c,c,c,c,c,c).
+p_1032(c,c,c,c,c,c,c,c).
+p_1804(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1062(c,c,c,c,c,c,c,c,c,c).
+p_820(c,c,c,c,c).
+p_2224(c,c).
+p_2463(c,c,c,c,c,c,c,c).
+p_67(c,c,c,c,c,c).
+p_354(c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1947(c,c,c,c,c,c,c,c,c,c,c,c).
+p_1519(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_112(c,c,c,c,c,c,c,c,c).
+p_43(c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1370(c,c,c,c,c).
+p_1160(c,c,c,c).
+p_1376(c,c,c,c,c,c).
+p_807(c,c,c,c,c,c,c,c,c).
+p_1924(c,c,c,c,c,c,c,c).
+p_472(c,c,c,c,c,c,c,c,c).
+p_1501(c,c,c,c,c,c,c,c,c,c,c).
+p_132(c,c,c,c,c,c,c,c).
+p_1796(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1808(c,c,c,c,c,c,c,c,c).
+p_2377(c,c,c,c,c,c,c,c,c,c,c,c).
+p_1987(c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_962(c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1547(c).
+p_1788(c).
+p_1532(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_279(c,c,c,c,c,c).
+p_1328(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_967(c,c,c,c,c,c,c,c).
+p_1141(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1069(c,c,c,c,c,c,c,c,c,c).
+p_1607(c,c,c,c,c,c,c,c,c,c,c,c).
+p_1567(c,c,c,c,c,c,c,c,c,c,c,c).
+p_1724(c,c,c,c,c,c,c,c,c,c,c).
+p_1221(c,c,c,c,c,c,c).
+p_463(c,c,c,c,c,c,c,c,c,c).
+p_1038(c,c,c,c,c,c).
+p_1945(c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1543(c,c,c,c,c,c,c,c,c,c,c,c).
+p_1071(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1907(c,c,c).
+p_1403(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_110(c,c,c,c,c,c,c,c,c,c,c,c).
+p_1066(c,c,c,c,c,c,c,c,c,c,c).
+p_1819(c,c,c,c,c,c,c,c,c,c,c,c).
+p_1958(c,c,c,c,c,c,c,c,c,c,c,c).
+p_2118(c,c,c,c,c,c,c,c,c,c,c,c).
+p_2451(c,c).
+p_1053(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_672(c,c,c,c,c,c,c,c,c,c,c,c).
+p_751(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_2473(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_676(c,c,c,c,c,c,c,c,c,c).
+p_515(c,c).
+p_656(c,c,c,c,c,c,c,c).
+p_1023(c,c,c,c,c,c,c,c).
+p_158(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_2124(c,c,c,c,c,c).
+p_1870(c,c,c,c,c,c).
+p_1559(c,c,c,c,c,c,c,c,c,c,c,c).
+p_834(c).
+p_1836(c,c,c,c,c,c).
+p_2050(c,c,c,c).
+p_429(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_658(c,c,c,c,c,c,c,c,c,c).
+p_2284(c,c,c,c,c,c,c,c,c,c).
+p_531(c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_2079(c,c,c,c,c,c,c,c,c,c).
+p_2024(c,c,c,c,c,c).
+p_707(c,c,c,c,c,c,c,c).
+p_641(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_2444(c,c,c,c,c,c,c).
+p_2253(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_706(c,c,c).
+p_473(c,c,c,c).
+p_547(c,c,c,c).
+p_2049(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_2406(c,c,c,c,c,c,c,c,c,c,c,c).
+p_565(c,c,c,c,c,c,c).
+p_1855(c,c,c,c,c).
+p_821(c,c,c,c,c,c,c,c,c,c,c).
+p_498(c,c,c,c,c,c,c).
+p_1848(c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1507(c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1105(c).
+p_75(c).
+p_404(c,c,c,c,c,c,c,c,c,c).
+p_2270(c,c,c,c,c,c,c,c,c,c,c).
+p_253(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1278(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_412(c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_461(c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1894(c).
+p_306(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_366(c).
+p_599(c,c,c,c,c,c,c,c).
+p_1762(c,c,c,c,c,c,c,c,c).
+p_1148(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_804(c,c,c).
+p_1208(c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1715(c,c,c,c,c,c,c,c,c,c,c,c).
+p_1159(c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_897(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1905(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1854(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+p_1192(c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c).
+@rules
+p_1559(X10,X10,X1,X2,X2,X1,X8,X8,X11,X7,X2,X5) :- p_382(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11).
+p_1825(X2,X3,X1,X1,X2,X3) :- p_1582(X1,X2,X3).
+p_1492(X19,X2,X13,X12,X10,X4,X7,X5,X13,X10,X18,X13,X18,X14,X5,X17) :- p_688(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_412(X8,X9,X4,X3,X4,X6,X10,X11,X5,X10,X5,X11,X13) :- p_412(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_39(X1,X4,X10) :- p_2454(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12).
+p_397(X5,X8,X6,X6,X12,X4,X6,X9,X5,X3,X2,X8,X25,X8,X1,X12) :- p_2118(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12).
+p_1131(X9,X1,X7,X8,X7,X4) :- p_1808(X1,X2,X3,X4,X5,X6,X7,X8,X9).
+p_1438(X12,X6,X6) :- p_2362(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17).
+p_1023(X2,X2,X3,X1,X3,X1,X2,X2) :- p_2251(X1,X2,X3).
+p_2099(X12,X5,X12,X3,X15,X8,X5,X11,X14,X16,X15,X17,X17,X11,X14,X6) :- p_896(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_957(X6,X7,X15,X3,X9,X5,X10,X3) :- p_1729(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_1981(X5,X1,X5,X7,X4,X5,X1,X7,X1,X1,X2,X6,X5,X3,X5) :- p_1171(X1,X2,X3,X4,X5,X6,X7,X8,X9).
+p_150(X3,X3,X3,X3,X2,X3,X3,X1,X1,X2,X2,X15,X1,X2) :- p_1590(X1,X2,X3).
+p_2094(X9,X13,X6,X12,X1,X1,X1,X1) :- p_809(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_1254(X7,X9,X12,X15,X5,X4,X8,X12,X24,X5,X12,X11,X5,X8,X6,X9,X14,X8,X2,X1) :- p_1113(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_906(X13,X5) :- p_1208(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14).
+p_1543(X4,X1,X1,X2,X2,X2,X3,X3,X2,X3,X3,X2) :- p_1561(X1,X2,X3).
+p_2050(X1,X2,X7,X3) :- p_527(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_148(X1,X2,X1,X2,X2,X2,X1,X1,X2,X12,X2,X14,X1,X2,X1,X2) :- p_939(X1,X2).
+p_1054(X8,X14,X18,X15,X15,X10,X11,X5,X14,X7) :- p_2407(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_821(X13,X17,X12,X1,X14,X11,X13,X12,X3,X14,X3) :- p_1342(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_1675(X9,X1,X8,X7,X7,X3,X3,X6,X7) :- p_2045(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_1304(X10,X14,X2) :- p_1172(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_1814(X9,X11,X3,X3,X11,X9,X10,X10,X6,X6,X10,X5,X6,X5,X6,X5,X11,X3,X11) :- p_1251(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11).
+p_183(X6,X6,X5,X5,X2,X7) :- p_1048(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_2052(X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1) :- p_1008(X1).
+p_395(X16,X11,X6,X15,X2,X13,X7,X12,X24,X1,X4,X5,X8) :- p_2008(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_283(X10,X9,X9,X5,X8,X3,X6,X11,X9,X5,X2,X2,X5,X8,X11) :- p_323(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11).
+p_1226(X8,X11,X13,X5,X15,X3,X9,X8,X15,X14,X2,X5,X14,X8,X10) :- p_1226(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_1769(X7,X10,X9,X11,X6,X2,X10) :- p_1854(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_2382(X9,X9,X7,X3,X10,X9,X8,X10,X7,X12,X6,X10,X4,X12) :- p_1945(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_2362(X3,X3,X8,X3,X10,X1,X9,X4,X12,X3,X1,X11,X13,X2,X4,X13,X6) :- p_264(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_834(X6) :- p_165(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11).
+p_962(X3,X1,X5,X3,X1,X1,X3,X2,X2,X2,X2,X4,X5,X5) :- p_1740(X1,X2,X3,X4,X5).
+p_289(X3,X12,X15,X1,X11,X12,X7,X2,X11) :- p_324(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12).
+p_547(X18,X12,X6,X6) :- p_74(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17).
+p_1071(X7,X3,X6,X7,X7,X5,X9,X5,X1,X6,X7,X8,X9,X4,X3,X1,X4,X6,X1,X6) :- p_14(X1,X2,X3,X4,X5,X6,X7,X8,X9).
+p_1376(X3,X1,X1,X2,X1,X1) :- p_2224(X1,X2).
+p_845(X1,X1,X3,X1,X3,X9,X2,X11,X1,X2,X2,X1,X3,X2,X1,X3,X2,X1,X1) :- p_1784(X1,X2,X3).
+p_807(X4,X12,X1,X15,X1,X13,X8,X8,X12) :- p_1815(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_874(X4,X1,X4,X3,X4,X4,X3,X1,X1,X2,X3,X4) :- p_2050(X1,X2,X3,X4).
+p_1987(X4,X6,X1,X2,X3,X2,X6,X1,X3,X2,X7,X3,X7) :- p_1221(X1,X2,X3,X4,X5,X6,X7).
+p_1532(X9,X1,X8,X8,X1,X3,X6,X2,X5,X3,X5,X5,X2,X3,X4,X3,X5) :- p_561(X1,X2,X3,X4,X5,X6,X7,X8,X9).
+p_926(X9,X15,X17,X11,X14,X17,X9,X13,X13,X12,X15,X5,X16,X9) :- p_1718(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17).
+p_2229(X1,X13,X3,X17,X1,X11,X3,X8,X13,X1,X10,X10,X10,X9,X7,X1,X13,X4) :- p_531(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_1486(X2,X1,X5,X4,X4) :- p_1131(X1,X2,X3,X4,X5,X6).
+p_1582(X4,X9,X2) :- p_306(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18).
+p_398(X5,X3,X4) :- p_484(X1,X2,X3,X4,X5).
+p_1299(X11,X1,X2,X3,X8,X3,X6,X4,X7,X10,X12,X3,X3,X12,X12,X9,X2,X11,X12,X11) :- p_2454(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12).
+p_219(X1,X8,X3,X3,X2,X11,X7,X2,X2,X3) :- p_445(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_2208(X13,X2,X8,X7,X8,X10,X13,X9,X9,X12,X3,X13,X4,X6) :- p_962(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14).
+p_1572(X7,X8,X7,X7) :- p_622(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17).
+p_539(X8,X13,X2,X3,X2,X11,X2,X19,X10,X2,X5,X14,X33,X12,X9,X10,X1,X38) :- p_994(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_658(X8,X7,X3,X6,X8,X5,X8,X8,X1,X4) :- p_599(X1,X2,X3,X4,X5,X6,X7,X8).
+p_2463(X9,X7,X10,X10,X17,X7,X2,X1) :- p_1947(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12).
+p_397(X13,X9,X6,X7,X13,X10,X10,X5,X23,X4,X10,X8,X4,X7,X7,X5) :- p_208(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14).
+p_1862(X1,X2,X1,X2,X2,X2,X1,X1,X1,X2,X2,X1,X2,X1) :- p_1115(X1,X2).
+p_2197(X10,X1,X3,X14,X2,X7,X6) :- p_1069(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_1788(X8) :- p_2049(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_2188(X10,X8,X7,X3,X8,X11,X11,X3) :- p_2052(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_564(X2,X1,X2,X1,X2,X2,X1,X2,X2,X1,X1,X2,X2,X2,X1) :- p_953(X1,X2).
+p_1159(X4,X4,X4,X2,X2,X2,X3,X1,X2,X4,X1,X5,X7) :- p_1631(X1,X2,X3,X4,X5,X6,X7).
+p_153(X9,X3,X3,X4,X5,X7,X3,X3,X4,X12,X4,X10,X2,X6,X11,X10,X5,X1,X5) :- p_2104(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12).
+p_1667(X16,X14,X11,X11,X15,X1,X14,X16,X25,X13,X27,X15,X1,X9,X6,X6,X8,X10,X1) :- p_1697(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_1212(X17,X10,X12,X7,X12,X5,X5,X9,X5,X6,X16,X1,X4,X9,X12,X16) :- p_1452(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_1064(X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1) :- p_291(X1).
+p_1409(X10,X14,X12,X1,X14) :- p_1885(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14).
+p_751(X12,X7,X10,X9,X7,X6,X10,X6,X8,X14,X6,X7,X14,X8,X3,X3,X8,X9) :- p_461(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14).
+p_1410(X7,X3,X10,X3,X10,X2,X5,X3,X11,X7,X6,X2,X9,X7,X11,X2,X4) :- p_1665(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11).
+p_804(X2,X10,X10) :- p_2113(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_2111(X7) :- p_2207(X1,X2,X3,X4,X5,X6,X7,X8,X9).
+p_894(X3,X3,X8) :- p_836(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_2485(X9,X10,X6,X3,X1,X7,X5,X1,X14,X5,X10,X7,X5,X5,X4) :- p_2121(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14).
+p_301(X8,X4,X3,X7,X5,X8,X7,X6,X7,X8) :- p_220(X1,X2,X3,X4,X5,X6,X7,X8).
+p_1467(X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1) :- p_366(X1).
+p_2204(X3,X4,X3,X1,X6,X4,X2,X3,X5,X4,X2,X5,X2,X4,X7,X6,X2,X4) :- p_967(X1,X2,X3,X4,X5,X6,X7,X8).
+p_972(X7,X3,X8,X5,X7,X9,X9,X3,X5,X3) :- p_2232(X1,X2,X3,X4,X5,X6,X7,X8,X9).
+p_974(X3,X1,X1,X2,X1,X2) :- p_706(X1,X2,X3).
+p_1886(X5,X7,X5,X12,X6,X8,X5,X6,X13,X4,X9,X8,X7,X11,X11,X9,X10,X8) :- p_1113(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_2420(X4,X3,X3,X3) :- p_398(X1,X2,X3).
+p_2489(X9,X1,X5,X19,X12,X18,X14,X5,X9,X8,X16,X3,X6,X9,X3,X16,X14,X14) :- p_1652(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_2138(X6,X9,X2,X1,X9,X7,X6,X2,X8) :- p_875(X1,X2,X3,X4,X5,X6,X7,X8,X9).
+p_1192(X5,X2,X1,X16,X8,X16,X18,X7,X20,X10,X20,X32,X3,X11,X35,X11,X3,X20) :- p_1633(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_147(X1) :- p_2090(X1).
+p_596(X2,X2,X6,X3,X3,X2,X3,X1,X2,X1,X1,X1,X1,X3,X1,X2,X2,X1,X2,X1) :- p_2219(X1,X2,X3).
+p_679(X14,X3,X13,X14) :- p_1908(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_1729(X6,X5,X9,X1,X4,X6,X6,X14,X8,X15,X8,X2,X9,X11,X1,X14) :- p_1113(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_2012(X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X15,X1,X1,X1,X1,X1) :- p_2090(X1).
+p_294(X1,X15,X15,X4,X10) :- p_1667(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_581(X2,X1,X2) :- p_1010(X1,X2,X3).
+p_1916(X6,X18,X6,X7,X23) :- p_1640(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18).
+p_1943(X9,X9,X10,X7,X6,X3,X7,X6,X4,X8,X7,X7,X5,X9,X6,X5,X3,X5) :- p_2454(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12).
+p_613(X7,X10,X1,X10,X1,X11,X9,X2,X2,X10,X9,X1,X9,X1,X2) :- p_2407(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_2419(X1,X1,X1,X1,X1,X1,X1,X1,X1) :- p_632(X1).
+p_1724(X9,X12,X1,X2,X2,X13,X4,X1,X6,X5,X1) :- p_1815(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_2435(X1,X1,X1,X1,X1,X1,X1,X9,X10,X1,X1,X1,X1,X1,X1) :- p_1206(X1).
+p_2121(X1,X2,X1,X1,X8,X9,X1,X1,X1,X1,X3,X1,X2,X3) :- p_1832(X1,X2,X3).
+p_2251(X3,X8,X15) :- p_1545(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12).
+p_1328(X8,X9,X13,X13,X12,X7,X1,X5,X1,X3,X2,X9,X8,X6,X4,X6,X10,X1,X3,X4) :- p_921(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_913(X3,X1,X2,X2,X4,X5,X2,X1,X5,X2,X2,X1,X2,X6,X3) :- p_1597(X1,X2,X3,X4,X5,X6).
+p_1023(X11,X1,X7,X7,X4,X2,X3,X16) :- p_2288(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_395(X6,X8,X1,X6,X3,X2,X2,X2,X3,X3,X3,X2,X19) :- p_1836(X1,X2,X3,X4,X5,X6).
+p_494(X2,X7,X6,X4,X8,X9,X8,X8,X10,X8) :- p_2284(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_1167(X13,X3,X14,X2,X3,X15,X9,X5,X3,X3,X12,X8,X18) :- p_1633(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_668(X4,X11,X19,X3,X4,X9,X15) :- p_1269(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_1936(X20) :- p_200(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_2338(X6,X11,X9,X9,X14,X3,X2,X1,X4,X12,X6,X3,X3,X14,X13,X3,X8,X10,X3) :- p_1507(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14).
+p_1746(X4,X6,X6,X1,X6,X2,X7,X6,X4,X6,X18,X4,X4,X5,X3,X3,X1) :- p_162(X1,X2,X3,X4,X5,X6,X7).
+p_928(X2,X3,X2,X5,X5,X1,X1,X6,X5,X5,X3) :- p_374(X1,X2,X3,X4,X5,X6).
+p_1796(X11,X1,X10,X2,X4,X4,X15,X11,X3,X7,X15,X12,X9,X7,X12,X7,X15,X1,X34,X9) :- p_2083(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_1444(X14,X12,X16,X9,X3,X8,X16) :- p_2310(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18).
+p_2301(X5,X2,X5,X10,X2) :- p_1137(X1,X2,X3,X4,X5,X6).
+p_1894(X3) :- p_1970(X1,X2).
+p_64(X6,X16) :- p_150(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14).
+p_1224(X1,X6,X2,X2,X6,X4,X2,X4,X5,X4,X6,X1,X19,X6,X5,X4) :- p_67(X1,X2,X3,X4,X5,X6).
+p_1454(X17,X5,X13,X14,X2,X18,X16,X15,X8,X9,X6,X9,X1,X17) :- p_2148(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_1843(X5,X8,X9,X6,X3,X1,X9,X3,X4) :- p_518(X1,X2,X3,X4,X5,X6,X7,X8,X9).
+p_955(X4,X3,X2,X4) :- p_1160(X1,X2,X3,X4).
+p_1278(X9,X7,X5,X5,X4,X1,X3,X6,X2,X4,X2,X1,X3,X3,X5,X8,X1,X10,X5) :- p_301(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_1435(X1,X5,X3,X3,X5,X5) :- p_2015(X1,X2,X3,X4,X5,X6).
+p_52(X3,X1,X2,X3,X2,X3,X3) :- p_1907(X1,X2,X3).
+p_696(X12,X17,X17,X1,X4,X14,X20,X18,X6,X16) :- p_732(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_2436(X4,X1,X6,X6,X6,X2,X8,X2,X1,X5,X2,X2,X1,X4,X8,X5,X5,X4) :- p_656(X1,X2,X3,X4,X5,X6,X7,X8).
+p_2009(X9,X6,X7,X10,X8,X10,X15,X14,X2,X4,X14,X12,X15,X14,X9,X13) :- p_479(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_400(X1,X1,X3,X2,X2,X3,X2,X1,X2,X3,X3,X3,X2,X2,X2,X2,X3,X1) :- p_2251(X1,X2,X3).
+p_220(X1,X1,X1,X1,X1,X1,X1,X1) :- p_75(X1).
+p_807(X6,X9,X2,X9,X5,X8,X9,X2,X5) :- p_925(X1,X2,X3,X4,X5,X6,X7,X8,X9).
+p_2207(X15,X3,X7,X14,X10,X2,X6,X15,X1) :- p_1575(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_770(X4,X3,X3,X5,X5,X5,X3,X1,X2,X4,X2,X5,X6,X5,X21) :- p_1435(X1,X2,X3,X4,X5,X6).
+p_1648(X2,X2,X2,X5,X1,X2,X4,X5,X6,X4,X6,X6,X19,X5,X3,X2,X4,X3,X1,X26) :- p_2015(X1,X2,X3,X4,X5,X6).
+p_1920(X2,X1,X6,X7,X9) :- p_1935(X1,X2,X3,X4,X5,X6,X7,X8,X9).
+p_2152(X13,X15,X16,X11,X11,X3,X12,X12,X1,X12,X19,X7,X13,X11,X3,X4,X14,X13,X15,X18) :- p_1254(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_219(X11,X9,X4,X12,X2,X8,X14,X23,X3,X6) :- p_1815(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_2087(X4,X10,X5,X10,X9,X16,X8,X18,X4,X7,X10,X8) :- p_2079(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_622(X1,X1,X2,X1,X1,X2,X2,X1,X2,X1,X2,X2,X2,X1,X1,X2,X1) :- p_1392(X1,X2).
+p_2104(X1,X2,X2,X1,X2,X1,X2,X1,X1,X1,X13,X1) :- p_33(X1,X2).
+p_713(X13,X12,X4,X10,X12,X6,X11,X8,X4) :- p_0(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_1470(X5,X7,X3,X5,X4,X3,X1,X1,X14,X5,X1,X3) :- p_349(X1,X2,X3,X4,X5).
+p_836(X8,X6,X14,X19,X14,X20,X18,X20,X11,X20) :- p_248(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_815(X1,X2,X3,X1,X2,X2,X2,X1,X3,X1,X2,X3,X2) :- p_1907(X1,X2,X3).
+p_158(X16,X13,X3,X5,X3,X13,X7,X16,X12,X7,X17,X3,X9,X2,X14,X5) :- p_1455(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17).
+p_77(X2,X9,X2,X4,X6,X5,X5,X2,X3,X9,X5,X3) :- p_1966(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_1916(X8,X6,X7,X13,X11) :- p_1992(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_1784(X6,X21,X6) :- p_1278(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_1886(X3,X2,X1,X1,X3,X3,X3,X2,X3,X2,X1,X3,X3,X2,X1,X2,X2,X2) :- p_894(X1,X2,X3).
+p_2224(X6,X7) :- p_115(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12).
+p_348(X1,X3,X2,X1,X2,X1,X3,X2,X2,X2,X3,X3,X3) :- p_2337(X1,X2,X3).
+p_641(X13,X7,X7,X8,X14,X6,X14,X23,X14,X1,X9,X3,X28,X14,X6,X7,X12,X10,X14,X15) :- p_1226(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_820(X1,X2,X3,X6,X2) :- p_1287(X1,X2,X3,X4,X5,X6).
+p_688(X14,X12,X2,X7,X3,X12,X4,X20,X13,X12,X2,X18,X15,X11,X20,X8,X8,X18,X15) :- p_1738(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_1020(X3,X3,X2,X5,X5,X4,X5,X1,X4,X5,X5,X2,X4) :- p_1855(X1,X2,X3,X4,X5).
+p_1071(X4,X5,X12,X5,X2,X4,X9,X3,X5,X12,X2,X1,X3,X3,X10,X7,X12,X7,X9,X5) :- p_1947(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12).
+p_832(X1,X1,X1,X1,X1,X1,X1,X1,X1,X1) :- p_2095(X1).
+p_2382(X7,X5,X10,X7,X10,X2,X4,X2,X2,X4,X3,X10,X5,X6) :- p_1069(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_865(X12,X9,X2,X11,X16,X4,X4,X7,X1,X4,X4,X10,X3,X9,X6,X10) :- p_1660(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11).
+p_374(X3,X5,X4,X3,X1,X8) :- p_1551(X1,X2,X3,X4,X5,X6,X7,X8).
+p_2148(X5,X3,X1,X4,X4,X4,X1,X2,X7,X4,X7,X4,X2,X3,X1,X7,X4,X1,X1) :- p_932(X1,X2,X3,X4,X5,X6,X7).
+p_2104(X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1) :- p_834(X1).
+p_1172(X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1) :- p_1547(X1).
+p_932(X3,X2,X2,X2,X1,X2,X2) :- p_2195(X1,X2).
+p_1868(X9,X15,X6,X7,X14,X14,X7,X12,X11) :- p_1532(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17).
+p_2251(X5,X1,X4) :- p_2214(X1,X2,X3,X4).
+p_443(X7,X7,X4,X2,X2,X4,X10,X1,X2,X6,X7,X4,X9,X2,X1) :- p_1156(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_939(X19,X3) :- p_1804(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_2454(X2,X2,X5,X5,X1,X3,X2,X5,X3,X3,X2,X1) :- p_1646(X1,X2,X3,X4,X5).
+p_2349(X2,X18,X14,X15,X14,X11,X17,X12,X10,X12,X12,X8,X12,X13,X8) :- p_1908(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_1269(X2,X8,X8,X1,X5,X9,X4,X1,X1,X6,X2,X6,X1,X23,X7,X25) :- p_518(X1,X2,X3,X4,X5,X6,X7,X8,X9).
+p_178(X11,X4,X10,X13,X3,X8,X9,X16) :- p_853(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17).
+p_1553(X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1) :- p_331(X1).
+p_473(X18,X4,X14,X17) :- p_1249(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_1776(X19,X1,X2,X9,X24,X13,X3,X5) :- p_1889(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_69(X2,X4,X8,X5,X2,X5) :- p_1913(X1,X2,X3,X4,X5,X6,X7,X8,X9).
+p_1665(X6,X1,X7,X8,X9,X11,X2,X3,X5,X1,X25) :- p_698(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14).
+p_467(X6,X3,X12,X4,X2,X12,X9,X2,X10,X5) :- p_1819(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12).
+p_1804(X17,X15,X14,X3,X21,X14,X6,X13,X3,X14,X13,X6,X7,X1,X2,X10,X7,X9,X8,X6) :- p_1729(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_1665(X3,X1,X4,X3,X2,X1,X4,X4,X3,X1,X4) :- p_195(X1,X2,X3,X4).
+p_1470(X1,X2,X2,X1,X1,X1,X2,X1,X2,X1,X2,X2) :- p_953(X1,X2).
+p_768(X4,X6,X3,X6,X10,X2,X1,X1,X3,X4) :- p_768(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_821(X1,X10,X10,X11,X9,X8,X3,X9,X10,X1,X11) :- p_2054(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11).
+p_1808(X12,X19,X14,X19,X20,X3,X1,X12,X19) :- p_1633(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_904(X8,X6,X15,X14,X12,X8,X15,X17,X3,X10,X13,X8,X11,X12,X6,X14) :- p_2362(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17).
+p_1792(X6,X10,X12,X7,X6,X7,X8,X22,X11,X7,X8,X9,X27) :- p_1862(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14).
+p_896(X2,X2,X1,X1,X2,X2,X1,X2,X2,X2,X3,X2,X3,X2,X1,X1,X1,X2,X2) :- p_1010(X1,X2,X3).
+p_1854(X2,X7,X15,X5,X13,X6,X10,X23,X2,X3,X9,X9,X3,X5,X12,X31,X6,X11,X3) :- p_1407(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_2416(X11,X11,X4,X11,X12,X15,X5,X5,X15,X16,X16,X4,X2,X4,X15,X8,X14) :- p_1519(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_1523(X2) :- p_770(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_51(X1,X9,X6,X6,X6) :- p_52(X1,X2,X3,X4,X5,X6,X7).
+p_799(X3,X1,X2,X1,X2,X2,X2,X2,X2,X2,X1,X2,X2) :- p_63(X1,X2).
+p_792(X1,X3,X1,X1) :- p_1942(X1,X2,X3).
+p_1631(X8,X2,X13,X10,X10,X9,X3) :- p_354(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_1818(X1,X2,X3) :- p_792(X1,X2,X3,X4).
+p_349(X3,X3,X7,X4,X4) :- p_2254(X1,X2,X3,X4,X5,X6,X7,X8).
+p_1697(X2,X12,X13,X6,X7,X7,X5,X15,X1,X7,X11,X9,X11,X14,X10,X15) :- p_1403(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_1438(X1,X7,X10) :- p_1006(X1,X2,X3,X4,X5,X6,X7).
+p_339(X13,X9,X4,X1,X10,X4,X10,X6,X5,X13,X1,X6,X14,X5,X11,X4,X11,X6,X12) :- p_1172(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_1104(X9,X9,X16,X1,X4,X12) :- p_2099(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_64(X3,X11) :- p_1501(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11).
+p_2095(X10) :- p_412(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_622(X3,X17,X6,X1,X11,X8,X6,X12,X17,X1,X1,X6,X2,X4,X16,X17,X17) :- p_1718(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17).
+p_1236(X1,X1) :- p_2090(X1).
+p_2200(X9,X8,X3,X6,X3,X2,X5,X9,X8,X9,X13,X10,X3,X2,X2,X5) :- p_1167(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_1966(X1,X1,X1,X1,X1,X1,X1,X1,X1,X1) :- p_1788(X1).
+p_1684(X12,X11,X13,X18,X7,X2,X10,X16,X4,X13,X10,X3,X8,X11,X10,X12,X7) :- p_1886(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18).
+p_2268(X17,X2,X7,X10,X7,X10,X6,X4,X12,X15,X8,X12,X13,X3,X10,X11) :- p_2416(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17).
+p_619(X5,X10) :- p_474(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_1392(X11,X3) :- p_972(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_382(X11,X2,X7,X5,X4,X2,X17,X2,X1,X2,X6) :- p_1048(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_1920(X6,X7,X3,X2,X14) :- p_1113(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_874(X3,X2,X2,X6,X1,X2,X6,X5,X15,X1,X17,X1) :- p_374(X1,X2,X3,X4,X5,X6).
+p_1167(X5,X7,X6,X1,X1,X10,X8,X4,X4,X7,X1,X10,X23) :- p_972(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_1148(X3,X2,X8,X10,X8,X1,X9,X9,X3,X11,X5,X7,X3,X11,X1) :- p_165(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11).
+p_1776(X3,X2,X3,X1,X3,X2,X1,X2) :- p_2316(X1,X2,X3).
+p_700(X1,X2,X1) :- p_619(X1,X2).
+p_2268(X10,X2,X12,X3,X11,X12,X1,X6,X2,X13,X24,X25,X6,X10,X7,X1) :- p_0(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_482(X7,X5,X8,X1,X7,X14,X3,X1,X1,X6,X3) :- p_132(X1,X2,X3,X4,X5,X6,X7,X8).
+p_147(X15) :- p_2288(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_2190(X4,X11,X14,X4,X3,X11,X6,X5,X9,X5,X10,X8,X2,X11,X9) :- p_165(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11).
+p_810(X5,X6,X4,X7,X12,X15,X12,X2,X2,X11,X3,X8) :- p_1269(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_683(X10,X10,X3,X7,X10,X9,X4,X11,X2,X8,X7,X11,X2,X5,X2) :- p_1501(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11).
+p_668(X6,X5,X5,X1,X2,X14,X1) :- p_220(X1,X2,X3,X4,X5,X6,X7,X8).
+p_1547(X3) :- p_186(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_462(X1,X2,X1,X3,X2,X3,X3,X3,X1,X2,X1,X2,X2,X2,X3,X1,X3,X2) :- p_2337(X1,X2,X3).
+p_757(X1,X2,X1,X1,X2,X1,X1,X2,X2,X1,X2,X2,X2,X2,X1) :- p_953(X1,X2).
+p_2190(X14,X2,X1,X18,X16,X4,X7,X26,X16,X28,X15,X10,X15,X2,X5) :- p_456(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18).
+p_33(X4,X3) :- p_1452(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_732(X1,X3,X3,X1,X2,X3,X2,X3,X3,X2,X2,X3,X3,X1,X1,X3,X2,X1,X3,X3) :- p_1582(X1,X2,X3).
+p_2467(X1,X1,X1,X1,X1,X1,X1,X9,X1,X1,X1,X1,X1,X1,X1,X1) :- p_1788(X1).
+p_611(X15,X11,X10,X13,X9,X15,X9,X14,X5,X9,X13,X6,X14,X15,X13,X31,X12,X9,X4,X8) :- p_1375(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_467(X1,X1,X1,X1,X1,X1,X1,X1,X1,X1) :- p_1852(X1).
+p_2322(X4,X11,X1,X15) :- p_161(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_815(X2,X14,X10,X18,X10,X12,X13,X10,X11,X10,X13,X1,X8) :- p_2208(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14).
+p_1697(X3,X2,X1,X1,X8,X3,X2,X3,X3,X2,X1,X3,X1,X17,X3,X2) :- p_2251(X1,X2,X3).
+p_1444(X2,X8,X5,X5,X3,X8,X1) :- p_2059(X1,X2,X3,X4,X5,X6,X7,X8).
+p_1582(X15,X11,X4) :- p_153(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_641(X4,X1,X5,X3,X7,X6,X2,X3,X5,X6,X2,X2,X2,X5,X5,X3,X1,X1,X6,X6) :- p_932(X1,X2,X3,X4,X5,X6,X7).
+p_2354(X2,X4,X7,X2,X10,X7,X2) :- p_219(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_700(X7,X22,X14) :- p_248(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_2197(X5,X2,X10,X3,X4,X5,X3) :- p_1006(X1,X2,X3,X4,X5,X6,X7).
+p_1836(X9,X15,X6,X19,X7,X15) :- p_2152(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_1532(X2,X3,X3,X3,X4,X6,X4,X5,X1,X6,X2,X2,X5,X5,X6,X2,X6) :- p_666(X1,X2,X3,X4,X5,X6).
+p_1796(X6,X9,X3,X1,X19,X8,X2,X8,X12,X9,X2,X11,X4,X11,X12,X30,X9,X11,X8,X3) :- p_2121(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14).
+p_463(X6,X9,X3,X11,X3,X1,X4,X3,X10,X3) :- p_821(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11).
+p_1832(X6,X7,X12) :- p_1675(X1,X2,X3,X4,X5,X6,X7,X8,X9).
+p_147(X4) :- p_2124(X1,X2,X3,X4,X5,X6).
+p_1304(X3,X11,X6) :- p_307(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_463(X4,X14,X9,X15,X5,X11,X6,X9,X11,X8) :- p_2083(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_1729(X8,X6,X10,X7,X12,X4,X10,X2,X8,X3,X5,X6,X5,X5,X4,X1) :- p_395(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_554(X1,X2,X1,X1,X1,X8,X1,X2,X1) :- p_2451(X1,X2).
+p_1980(X6,X16,X2,X17,X6,X4,X16,X5,X29) :- p_732(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_339(X8,X4,X6,X7,X3,X7,X2,X17,X9,X9,X1,X4,X1,X1,X8,X1,X1,X27,X7) :- p_472(X1,X2,X3,X4,X5,X6,X7,X8,X9).
+p_974(X3,X13,X13,X11,X14,X1) :- p_904(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_1913(X1,X1,X1,X1,X1,X1,X1,X1,X1) :- p_1936(X1).
+p_2050(X10,X1,X9,X3) :- p_658(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_2337(X4,X9,X5) :- p_962(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14).
+p_2113(X8,X5,X2,X2,X3,X16,X7,X19,X20,X20,X20,X4,X10,X15,X15,X3,X8,X3,X9,X14) :- p_1648(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_815(X8,X2,X14,X1,X1,X15,X4,X5,X5,X10,X8,X6,X2) :- p_2190(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_1907(X1,X4,X4) :- p_274(X1,X2,X3,X4).
+p_1115(X6,X2) :- p_836(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_1208(X2,X1,X5,X2,X1,X2,X2,X10,X1,X2,X1,X2,X2,X1) :- p_1115(X1,X2).
+p_2122(X10,X4) :- p_1792(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_2136(X8,X3,X20,X13,X4,X5,X4,X5,X4,X8,X8,X8,X2,X1,X14,X5,X15,X12) :- p_2362(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17).
+p_743(X7,X3,X4,X23) :- p_2049(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_679(X15,X11,X11,X5) :- p_773(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_1171(X14,X2,X13,X4,X17,X18,X9,X1,X9) :- p_161(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_2311(X3,X9,X6,X13) :- p_1159(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_486(X10,X8,X3,X6,X8,X9,X6) :- p_2045(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_747(X12,X14,X7,X3,X10,X19,X18,X11,X6,X2,X19,X10,X11,X15,X4,X2,X2,X1,X6) :- p_424(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_1131(X14,X7,X4,X19,X8,X17) :- p_732(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_1561(X3,X3,X10) :- p_921(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_1452(X1,X1,X1,X2,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X2,X2,X1,X1,X1) :- p_1115(X1,X2).
+p_2292(X9) :- p_683(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_528(X4,X2,X5,X2,X3,X2,X3,X5,X4,X3,X2,X4,X5,X5,X5,X1,X4) :- p_855(X1,X2,X3,X4,X5).
+p_564(X16,X2,X9,X15,X10,X14,X14,X2,X12,X14,X11,X10,X9,X13,X7) :- p_1492(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_479(X6,X9,X7,X8,X3,X6,X9,X8,X7,X3,X7,X8,X4,X6,X8) :- p_1171(X1,X2,X3,X4,X5,X6,X7,X8,X9).
+p_1575(X1,X1,X6,X1,X4,X4,X2,X6,X2,X6,X4,X4,X1,X6,X5,X4) :- p_1836(X1,X2,X3,X4,X5,X6).
+p_698(X2,X3,X1,X5,X2,X1,X4,X3,X5,X3,X3,X4,X1,X1) :- p_838(X1,X2,X3,X4,X5).
+p_1088(X19,X2,X15,X5) :- p_1854(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_2207(X2,X4,X2,X1,X1,X2,X2,X1,X2) :- p_1392(X1,X2).
+p_1958(X1,X2,X3,X2,X3,X1,X3,X3,X1,X1,X2,X1) :- p_39(X1,X2,X3).
+p_2436(X18,X6,X15,X12,X15,X11,X3,X17,X18,X8,X8,X9,X14,X8,X14,X14,X15,X18) :- p_1931(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_150(X1,X3,X4,X5,X4,X5,X6,X6,X3,X3,X4,X6,X5,X5) :- p_183(X1,X2,X3,X4,X5,X6).
+p_1884(X5,X8,X9,X8,X1,X15,X11,X7,X11,X4,X13,X6,X13,X13,X15,X5) :- p_1245(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_1422(X2,X1,X2,X3,X1,X3,X2,X1,X2,X3) :- p_398(X1,X2,X3).
+p_994(X18,X5,X14,X7,X14,X18,X4,X8,X7,X4,X16,X10,X16,X5,X14,X12,X14,X16,X12,X2) :- p_462(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18).
+p_707(X1,X1,X2,X2,X2,X2,X2,X3) :- p_2251(X1,X2,X3).
+p_1916(X1,X3,X3,X2,X1) :- p_1253(X1,X2,X3,X4).
+p_1561(X2,X1,X10) :- p_416(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_128(X3,X2,X5,X2,X1,X6,X6,X3,X4,X5) :- p_1919(X1,X2,X3,X4,X5,X6).
+p_2219(X11,X1,X4) :- p_1966(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_675(X8,X9,X9,X7,X15,X17,X13,X8,X11,X4,X15,X8,X2,X7,X13,X4) :- p_747(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_398(X1,X1,X1) :- p_1133(X1).
+p_212(X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1) :- p_2111(X1).
+p_2121(X2,X1,X2,X1,X3,X3,X1,X2,X3,X3,X1,X3,X1,X3) :- p_581(X1,X2,X3).
+p_547(X8,X2,X1,X7) :- p_930(X1,X2,X3,X4,X5,X6,X7,X8).
+p_1793(X10,X18,X11,X6,X17,X14,X19,X15,X2,X3,X14,X8,X16,X2,X4,X9,X13) :- p_688(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_2376(X6,X11,X18,X10,X17) :- p_525(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_425(X2,X4,X2,X5,X11,X5,X5,X3,X1,X6,X4,X2) :- p_974(X1,X2,X3,X4,X5,X6).
+p_1225(X12,X1,X7,X7,X8,X6,X2,X8) :- p_1064(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_1590(X3,X11,X11) :- p_324(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12).
+p_1912(X8,X7,X8) :- p_1062(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_751(X17,X9,X1,X14,X16,X3,X4,X3,X9,X10,X7,X8,X9,X16,X6,X9,X16,X9) :- p_1224(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_2008(X8,X6,X10,X5,X9,X8,X13,X1,X14,X5,X6,X1,X4,X1,X6) :- p_1504(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_1507(X3,X5,X6,X9,X7,X4,X8,X5,X3,X9,X5,X3,X1,X5) :- p_1843(X1,X2,X3,X4,X5,X6,X7,X8,X9).
+p_1966(X3,X5,X5,X6,X5,X4,X1,X1,X3,X5) :- p_2364(X1,X2,X3,X4,X5,X6).
+p_857(X8,X7,X1,X7,X1) :- p_1032(X1,X2,X3,X4,X5,X6,X7,X8).
+p_2197(X13,X12,X8,X1,X3,X5,X9) :- p_1567(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12).
+p_1291(X1,X1,X1,X1,X1) :- p_291(X1).
+p_1476(X5,X10,X3,X15,X3,X3,X7,X10,X3,X5) :- p_770(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_2266(X1,X5,X2,X4,X5,X1,X2,X3) :- p_2126(X1,X2,X3,X4,X5).
+p_1724(X1,X4,X2,X2,X2,X3,X3,X5,X4,X7,X3) :- p_2133(X1,X2,X3,X4,X5,X6,X7,X8).
+p_1291(X6,X16,X11,X1,X17) :- p_350(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17).
+p_1883(X5,X1,X4,X1,X7,X3,X8,X8,X3,X3,X7,X2,X8) :- p_2266(X1,X2,X3,X4,X5,X6,X7,X8).
+p_1010(X4,X5,X7) :- p_1554(X1,X2,X3,X4,X5,X6,X7,X8).
+p_925(X4,X7,X5,X8,X9,X2,X1,X9,X5) :- p_201(X1,X2,X3,X4,X5,X6,X7,X8,X9).
+p_2316(X14,X16,X7) :- p_150(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14).
+p_1409(X1,X14,X1,X10,X6) :- p_874(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12).
+p_2432(X4,X1,X6,X6,X9,X3,X7,X11,X11,X10,X5,X10,X3,X3,X10,X1) :- p_217(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11).
+p_360(X6,X7,X5,X4,X1,X1,X2,X5,X4,X1,X4,X2) :- p_511(X1,X2,X3,X4,X5).
+p_1428(X6,X2,X5,X1,X5,X6,X3,X5,X1,X9,X2,X5,X4) :- p_1913(X1,X2,X3,X4,X5,X6,X7,X8,X9).
+p_768(X1,X1,X1,X1,X1,X1,X8,X1,X1,X1) :- p_1894(X1).
+p_611(X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1) :- p_2111(X1).
+p_2048(X2,X6,X14,X15,X6,X11,X1,X4,X5,X5,X6,X2,X5,X5,X10,X3,X2) :- p_323(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11).
+p_1796(X1,X11,X4,X3,X8,X7,X8,X6,X11,X3,X7,X4,X2,X2,X6,X11,X5,X2,X2,X4) :- p_1567(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12).
+p_1392(X4,X1) :- p_1906(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_39(X1,X1,X1) :- p_1133(X1).
+p_2148(X2,X4,X2,X3,X3,X2,X5,X1,X4,X2,X5,X1,X1,X1,X3,X2,X1,X3,X3) :- p_820(X1,X2,X3,X4,X5).
+p_2190(X8,X1,X6,X1,X8,X5,X3,X4,X5,X3,X8,X6,X5,X8,X3) :- p_656(X1,X2,X3,X4,X5,X6,X7,X8).
+p_2419(X7,X11,X3,X1,X5,X20,X18,X13,X14) :- p_161(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_1182(X6,X3,X2,X6,X5,X4,X5,X5,X6,X4) :- p_1825(X1,X2,X3,X4,X5,X6).
+p_1144(X8,X9,X9,X10,X4,X7,X9) :- p_768(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_215(X4,X11,X10,X20,X20,X15,X2,X10,X11,X2,X14,X20,X15,X17,X17,X3,X4) :- p_1553(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_211(X9,X7,X8,X6,X10,X16,X1,X6,X9,X8) :- p_404(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_1814(X19,X2,X3,X8,X12,X19,X9,X14,X12,X15,X10,X18,X16,X14,X17,X11,X4,X5,X9) :- p_1278(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_1819(X10,X7,X3,X2,X1,X4,X7,X4,X10,X3,X5,X2) :- p_2270(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11).
+p_425(X1,X9,X8,X17,X11,X16,X13,X17,X18,X2,X13,X2) :- p_2136(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18).
+p_2138(X6,X2,X2,X1,X5,X5,X2,X4,X5) :- p_1409(X1,X2,X3,X4,X5).
+p_539(X3,X19,X7,X5,X1,X6,X14,X6,X14,X12,X1,X10,X17,X14,X17,X7,X10,X35) :- p_631(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17).
+p_1199(X20,X17,X13,X7,X5,X16,X6,X12) :- p_2152(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_462(X1,X22,X15,X13,X7,X5,X7,X5,X14,X5,X9,X17,X2,X20,X16,X11,X13,X15) :- p_2288(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_1916(X9,X10,X5,X2,X6) :- p_1002(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_2453(X16,X10,X13,X3,X2,X12,X22,X3,X7,X13,X11,X12) :- p_757(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_2337(X10,X17,X5) :- p_564(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_1913(X8,X5,X19,X2,X10,X12,X16,X8,X8) :- p_1519(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_547(X1,X1,X2,X1) :- p_1144(X1,X2,X3,X4,X5,X6,X7).
+p_1410(X4,X10,X8,X5,X15,X16,X12,X1,X4,X3,X11,X14,X9,X12,X4,X9,X11) :- p_337(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_666(X2,X1,X2,X8,X5,X2) :- p_554(X1,X2,X3,X4,X5,X6,X7,X8,X9).
+p_1553(X7,X6,X11,X2,X1,X4,X2,X7,X17,X4,X1,X6,X3,X4,X5,X6,X5,X3,X2,X6) :- p_1488(X1,X2,X3,X4,X5,X6,X7,X8).
+p_1920(X6,X13,X22,X10,X6) :- p_1278(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_2007(X11,X16,X3,X15,X6,X6,X8,X4,X11,X6,X16,X9,X6,X5,X16,X10) :- p_2165(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_1936(X16) :- p_2204(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18).
+p_1729(X1,X6,X1,X5,X2,X6,X4,X5,X2,X1,X6,X3,X1,X1,X3,X6) :- p_1391(X1,X2,X3,X4,X5,X6).
+p_2207(X10,X11,X7,X13,X10,X4,X7,X8,X5) :- p_153(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_1020(X9,X1,X7,X10,X4,X3,X9,X12,X6,X8,X11,X3,X13) :- p_1159(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_1032(X7,X9,X12,X5,X7,X8,X8,X8) :- p_925(X1,X2,X3,X4,X5,X6,X7,X8,X9).
+p_1584(X8,X17,X13,X1,X4,X15,X9,X14,X27,X9,X3,X7,X13,X1,X5,X4,X8,X7) :- p_2436(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18).
+p_1141(X13,X12,X8,X5,X6,X3,X14,X13,X19,X15,X9,X19,X5,X11,X8,X12,X19,X4,X19,X13) :- p_1876(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_128(X6,X1,X5,X5,X3,X5,X3,X2,X5,X1) :- p_1291(X1,X2,X3,X4,X5).
+p_1936(X1) :- p_939(X1,X2).
+p_2229(X13,X4,X12,X13,X4,X7,X12,X7,X2,X2,X5,X1,X10,X3,X6,X14,X2,X12) :- p_1208(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14).
+p_1597(X2,X5,X5,X3,X1,X5) :- p_1740(X1,X2,X3,X4,X5).
+p_2432(X7,X3,X19,X9,X8,X20,X13,X3,X13,X1,X3,X1,X11,X16,X18,X13) :- p_1700(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_2224(X18,X16) :- p_2049(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_1137(X2,X10,X6,X8,X3,X4) :- p_2411(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12).
+p_1467(X2,X1,X1,X1,X2,X2,X2,X11,X1,X2,X3,X2,X2,X17,X1,X2) :- p_1438(X1,X2,X3).
+p_1814(X5,X1,X2,X4,X2,X8,X5,X8,X2,X18,X3,X8,X5,X3,X4,X3,X6,X1,X7) :- p_1032(X1,X2,X3,X4,X5,X6,X7,X8).
+p_416(X5,X11,X5,X1,X4,X15,X6,X16,X8,X4,X14,X6,X2) :- p_350(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17).
+p_721(X2,X15,X5,X2,X20,X3,X18,X16,X2,X15,X18) :- p_2113(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_1444(X11,X13,X3,X10,X1,X6,X16) :- p_215(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17).
+p_1967(X4,X3,X2,X2,X2,X4,X3,X2,X3,X4,X1,X4,X17,X18) :- p_1050(X1,X2,X3,X4).
+p_1740(X17,X17,X17,X15,X25) :- p_1141(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_1032(X4,X1,X6,X4,X4,X4,X1,X5) :- p_2354(X1,X2,X3,X4,X5,X6,X7).
+p_672(X1,X1,X1,X2,X1,X2,X2,X2,X2,X1,X1,X2) :- p_1563(X1,X2).
+p_150(X3,X9,X4,X2,X15,X3,X7,X4,X13,X6,X8,X5,X8,X10) :- p_439(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_921(X8,X2,X10,X4,X1,X7,X7,X8,X8,X9,X10,X1,X8) :- p_273(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_1680(X1,X7,X17,X13,X10,X11) :- p_2416(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17).
+p_30(X7,X3,X6,X10,X18,X11) :- p_1064(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_201(X16,X21,X6,X3,X12,X15,X9,X6,X6) :- p_2012(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_1519(X1,X1,X1,X1,X1,X1,X1,X1,X1,X11,X1,X1,X1,X1,X1,X1) :- p_331(X1).
+p_97(X1,X10,X5,X2) :- p_1002(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_900(X11) :- p_404(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_354(X4,X11,X2,X10,X2,X2,X13,X10,X15,X6,X1,X4,X14) :- p_865(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_463(X6,X6,X13,X7,X2,X13,X5,X13,X3,X3) :- p_288(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_2407(X7,X6,X7,X4,X12,X5,X14,X2,X7,X6,X1,X5,X2,X5,X1) :- p_2197(X1,X2,X3,X4,X5,X6,X7).
+p_211(X1,X4,X3,X3,X2,X3,X4,X3,X4,X2) :- p_1370(X1,X2,X3,X4,X5).
+p_2362(X7,X7,X1,X3,X2,X7,X2,X5,X5,X1,X5,X5,X3,X22,X6,X2,X7) :- p_1225(X1,X2,X3,X4,X5,X6,X7,X8).
+p_1253(X10,X6,X10,X17) :- p_905(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_1573(X15,X2,X1,X13,X3,X11,X13,X8,X15,X8,X4,X7,X1,X8,X6,X3,X14,X14,X14) :- p_2407(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_564(X2,X3,X2,X1,X2,X9,X1,X2,X3,X2,X1,X3,X3,X3,X2) :- p_581(X1,X2,X3).
+p_1488(X7,X10,X3,X14,X8,X6,X9,X7) :- p_1062(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_1532(X3,X3,X1,X3,X2,X2,X1,X2,X3,X3,X1,X3,X1,X3,X1,X1,X2) :- p_1582(X1,X2,X3).
+p_788(X15,X5,X10,X12,X17,X14,X14) :- p_751(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18).
+p_1566(X2) :- p_416(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_223(X18,X20,X11,X5,X15,X19) :- p_248(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_1762(X18,X16,X2,X18,X3,X16,X17,X7,X14) :- p_539(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18).
+p_2467(X5,X15,X2,X6,X15,X7,X12,X2,X3,X9,X5,X12,X4,X5,X11,X4) :- p_1981(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_2050(X1,X1,X1,X1) :- p_1566(X1).
+p_1575(X12,X12,X7,X12,X14,X5,X15,X10,X7,X4,X11,X1,X14,X6,X3,X10) :- p_283(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_974(X1,X1,X1,X1,X1,X1) :- p_1133(X1).
+p_1077(X12,X15) :- p_675(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_1180(X12,X11,X2,X4,X9,X16,X4,X10,X13,X7,X16,X19) :- p_525(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_248(X12,X15,X13,X10,X10,X15,X4,X13,X1,X10,X12,X2,X9,X2,X13,X11,X16,X16,X14,X8) :- p_865(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_815(X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1) :- p_887(X1).
+p_1326(X4,X3,X2,X2) :- p_1159(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_2261(X1,X5,X1,X21,X6,X14) :- p_1684(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17).
+p_688(X7,X9,X16,X2,X9,X15,X10,X9,X6,X14,X6,X12,X2,X12,X8,X16,X15,X7,X5) :- p_865(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_2436(X1,X5,X4,X2,X2,X6,X5,X4,X1,X2,X5,X1,X4,X6,X3,X5,X3,X5) :- p_1435(X1,X2,X3,X4,X5,X6).
+p_2232(X3,X1,X3,X1,X2,X3,X2,X3,X4) :- p_1786(X1,X2,X3,X4).
+p_397(X5,X1,X12,X7,X13,X3,X4,X10,X10,X3,X7,X5,X10,X10,X1,X11) :- p_1167(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_921(X17,X7,X11,X14,X11,X2,X9,X2,X1,X5,X17,X16,X3) :- p_1192(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18).
+p_930(X1,X8,X7,X2,X8,X8,X6,X5) :- p_220(X1,X2,X3,X4,X5,X6,X7,X8).
+p_2052(X11,X20,X9,X7,X3,X1,X12,X5,X5,X6,X8,X14,X12,X7,X2,X18) :- p_1796(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_1269(X8,X3,X6,X4,X16,X10,X18,X7,X4,X6,X6,X6,X4,X6,X9,X9) :- p_1724(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11).
+p_527(X4,X3,X2,X3,X3,X1,X3,X4,X5,X3) :- p_2376(X1,X2,X3,X4,X5).
+p_1697(X12,X5,X9,X6,X6,X9,X1,X3,X3,X10,X6,X8,X10,X10,X14,X3) :- p_1507(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14).
+p_832(X6,X2,X4,X3,X4,X2,X2,X14,X6,X4) :- p_223(X1,X2,X3,X4,X5,X6).
+p_1253(X15,X11,X8,X17) :- p_2416(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17).
+p_2133(X4,X9,X1,X1,X9,X1,X7,X4) :- p_1171(X1,X2,X3,X4,X5,X6,X7,X8,X9).
+p_2214(X1,X8,X2,X7) :- p_1040(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18).
+p_1905(X6,X6,X8,X6,X4,X7,X3,X5,X4,X4,X3,X3,X9,X8,X8,X6,X6) :- p_925(X1,X2,X3,X4,X5,X6,X7,X8,X9).
+p_2118(X12,X7,X1,X11,X18,X17,X11,X14,X8,X29,X7,X9) :- p_153(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_1454(X2,X18,X6,X14,X17,X7,X15,X1,X5,X3,X30,X11,X6,X33) :- p_1249(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_397(X1,X2,X7,X2,X7,X6,X1,X7,X17,X1,X5,X20,X2,X5,X1,X7) :- p_1488(X1,X2,X3,X4,X5,X6,X7,X8).
+p_1563(X15,X2) :- p_1885(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14).
+p_675(X2,X2,X1,X2,X2,X2,X1,X2,X2,X2,X1,X1,X1,X2,X1,X2) :- p_953(X1,X2).
+p_1048(X6,X3,X8,X5,X5,X7,X1,X7,X1,X8) :- p_1554(X1,X2,X3,X4,X5,X6,X7,X8).
+p_264(X3,X1,X5,X6,X5,X4,X4,X14,X6,X3,X17,X3,X5) :- p_997(X1,X2,X3,X4,X5,X6).
+p_1038(X14,X17,X13,X5,X1,X8) :- p_1455(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17).
+p_473(X2,X2,X2,X2) :- p_63(X1,X2).
+p_526(X4,X16,X4,X13,X5,X6,X23,X12,X2,X13,X9,X11,X12,X12,X12,X2,X1) :- p_1884(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_494(X5,X7,X5,X13,X4,X3,X14,X11,X9,X14) :- p_2008(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_1236(X5,X8) :- p_768(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_905(X2,X4,X1,X1,X2,X2,X2,X2,X1,X2,X2,X1,X2) :- p_906(X1,X2).
+p_1722(X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1) :- p_2142(X1).
+p_809(X10,X9,X4,X3,X6,X7,X7,X5,X10,X2,X6,X1,X5,X2,X10,X6) :- p_2284(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_1778(X3,X3) :- p_398(X1,X2,X3).
+p_1868(X1,X1,X1,X3,X5,X5,X3,X6,X3) :- p_279(X1,X2,X3,X4,X5,X6).
+p_33(X1,X1) :- p_887(X1).
+p_896(X3,X1,X1,X2,X2,X3,X3,X2,X1,X1,X3,X15,X3,X17,X1,X1,X1,X1,X1) :- p_1415(X1,X2,X3).
+p_1572(X17,X6,X19,X12) :- p_747(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_1852(X18) :- p_161(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_2284(X2,X1,X2,X3,X9,X4,X2,X4,X2,X1) :- p_796(X1,X2,X3,X4).
+p_1980(X9,X2,X7,X7,X4,X3,X3,X8,X8) :- p_2463(X1,X2,X3,X4,X5,X6,X7,X8).
+p_484(X1,X4,X4,X8,X3) :- p_1661(X1,X2,X3,X4).
+p_1255(X1,X1,X1,X1,X1,X1,X8,X1,X1,X1,X1,X1,X1,X1,X1,X17,X1,X1) :- p_147(X1).
+p_79(X6,X12,X13,X3,X12,X8) :- p_531(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_1435(X1,X16,X12,X4,X1,X10) :- p_161(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_350(X1,X12,X2,X14,X3,X6,X10,X4,X12,X6,X9,X8,X8,X10,X12,X14,X8) :- p_2382(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14).
+p_932(X1,X1,X3,X3,X1,X1,X3) :- p_1438(X1,X2,X3).
+p_838(X12,X1,X10,X11,X8) :- p_1792(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_1452(X19,X1,X5,X3,X14,X6,X9,X5,X18,X16,X10,X13,X1,X11,X14,X35,X10,X17,X15) :- p_1573(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_821(X14,X4,X16,X19,X6,X12,X9,X1,X9,X19,X30) :- p_1452(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_702(X17,X22,X2,X12,X2,X16) :- p_1328(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_2094(X3,X4,X3,X4,X5,X2,X2,X3) :- p_51(X1,X2,X3,X4,X5).
+p_220(X12,X6,X2,X12,X11,X7,X8,X15) :- p_1697(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_2046(X13,X3,X5,X11,X4,X10,X6,X21,X10,X9,X3,X7) :- p_1064(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_1885(X1,X2,X1,X10,X6,X2,X3,X1,X6,X1,X8,X4,X6,X4) :- p_463(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_2454(X7,X7,X6,X5,X7,X2,X4,X4,X7,X5,X1,X4) :- p_2444(X1,X2,X3,X4,X5,X6,X7).
+p_1924(X3,X1,X7,X1,X11,X4,X6,X23) :- p_613(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_1547(X2) :- p_1992(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_1410(X2,X11,X6,X13,X5,X7,X12,X12,X9,X5,X5,X6,X7,X9,X9,X6,X12) :- p_962(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14).
+p_171(X11,X10,X18,X18,X4,X2,X7) :- p_306(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18).
+p_1492(X5,X8,X5,X4,X8,X9,X7,X6,X5,X6,X7,X4,X2,X2,X2,X1) :- p_1843(X1,X2,X3,X4,X5,X6,X7,X8,X9).
+p_2489(X5,X4,X1,X4,X3,X13,X12,X3,X13,X1,X5,X4,X12,X5,X6,X10,X3,X13) :- p_799(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_150(X6,X14,X9,X11,X12,X12,X7,X12,X15,X3,X16,X7,X1,X8) :- p_212(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18).
+p_63(X1,X14) :- p_994(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_810(X2,X3,X1,X1,X3,X1,X1,X2,X1,X13,X2,X2) :- p_1590(X1,X2,X3).
+p_1283(X2,X1,X1,X1,X1,X1,X1,X2,X2,X1,X1) :- p_2122(X1,X2).
+p_1907(X1,X11,X8) :- p_1931(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_1943(X4,X2,X2,X2,X4,X3,X1,X3,X5,X5,X2,X3,X5,X3,X2,X5,X2,X6) :- p_79(X1,X2,X3,X4,X5,X6).
+p_211(X3,X7,X1,X4,X1,X1,X3,X5,X3,X1) :- p_1486(X1,X2,X3,X4,X5).
+p_804(X11,X11,X11) :- p_1507(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14).
+p_732(X19,X18,X9,X2,X5,X20,X15,X5,X20,X5,X19,X18,X4,X10,X12,X15,X12,X18,X14,X10) :- p_1648(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_1312(X3,X4,X3,X1,X4,X1,X3,X3) :- p_1572(X1,X2,X3,X4).
+p_1099(X5,X9,X4,X9,X2,X3,X2,X9,X3,X6,X10,X8,X9,X6) :- p_273(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_289(X1,X1,X1,X1,X1,X1,X1,X1,X1) :- p_1894(X1).
+p_1076(X9,X4,X15,X10,X14,X9,X4,X24,X10,X3,X2) :- p_2253(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_2219(X8,X8,X8) :- p_967(X1,X2,X3,X4,X5,X6,X7,X8).
+p_162(X16,X8,X2,X12,X14,X3,X15) :- p_148(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_1048(X7,X7,X4,X7,X3,X2,X2,X1,X6,X2) :- p_1631(X1,X2,X3,X4,X5,X6,X7).
+p_668(X15,X7,X1,X15,X18,X11,X15) :- p_1573(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_1492(X2,X2,X2,X2,X3,X2,X1,X1,X3,X3,X2,X2,X1,X1,X1,X2) :- p_1623(X1,X2,X3).
+p_416(X9,X15,X10,X15,X25,X11,X12,X28,X4,X15,X15,X14,X2) :- p_1700(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_422(X4,X4,X3,X1,X3,X3,X2) :- p_1786(X1,X2,X3,X4).
+p_1652(X14,X9,X6,X11,X7,X14,X3,X1,X13,X10,X4,X3,X11,X10,X2,X10,X9,X9,X1,X8) :- p_443(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_619(X19,X14) :- p_1667(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_360(X7,X10,X6,X4,X9,X8,X3,X5,X3,X9,X6,X9) :- p_467(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_325(X6,X15,X7,X13,X9,X19,X13,X3,X1,X15,X17,X16,X10,X2,X13,X14,X19,X11,X8) :- p_829(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_213(X12,X15,X8,X14,X9,X9,X13,X14,X7,X13,X11,X5,X13,X13,X4,X10,X9) :- p_1407(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_2406(X1,X1,X5,X3,X3,X5,X3,X2,X5,X4,X2,X1) :- p_820(X1,X2,X3,X4,X5).
+p_462(X7,X7,X18,X17,X1,X13,X7,X11,X12,X2,X1,X11,X6,X11,X10,X3,X1,X12) :- p_2204(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18).
+p_1435(X3,X1,X1,X2,X1,X2) :- p_1777(X1,X2,X3).
+p_537(X7,X9,X5,X5,X1,X3) :- p_289(X1,X2,X3,X4,X5,X6,X7,X8,X9).
+p_1160(X6,X1,X3,X3) :- p_1631(X1,X2,X3,X4,X5,X6,X7).
+p_511(X8,X10,X13,X8,X14) :- p_601(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14).
+p_688(X2,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1) :- p_1234(X1).
+p_1893(X12,X8,X11,X5,X9,X12,X2,X1,X8,X11,X8,X16,X13,X8,X15,X14,X2,X17,X13,X2) :- p_1853(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17).
+p_74(X2,X6,X7,X3,X3,X8,X4,X4,X17,X7,X3,X2,X7,X2,X23,X8,X5) :- p_2188(X1,X2,X3,X4,X5,X6,X7,X8).
+p_1212(X10,X16,X8,X5,X6,X16,X10,X1,X18,X10,X4,X13,X7,X20,X5,X18) :- p_1893(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_2194(X11,X8,X2,X3,X11,X4,X4,X6,X9) :- p_821(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11).
+p_97(X2,X1,X7,X13) :- p_112(X1,X2,X3,X4,X5,X6,X7,X8,X9).
+p_875(X1,X9,X5,X7,X3,X9,X8,X14,X10) :- p_222(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14).
+p_219(X19,X11,X20,X11,X12,X13,X2,X5,X10,X7) :- p_1893(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_1492(X11,X1,X1,X9,X8,X10,X10,X3,X6,X8,X10,X7,X6,X5,X10,X1) :- p_1724(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11).
+p_736(X1,X4,X9,X10,X11,X2,X8,X4,X12,X12,X2,X8,X1,X11) :- p_338(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12).
+p_1920(X8,X11,X10,X3,X11) :- p_770(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_913(X6,X12,X6,X10,X9,X5,X3,X4,X3,X2,X7,X1,X7,X24,X6) :- p_676(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_1156(X9,X12,X4,X5,X1,X1,X3,X7,X9,X13) :- p_1403(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_1409(X2,X7,X4,X1,X5) :- p_1144(X1,X2,X3,X4,X5,X6,X7).
+p_416(X20,X5,X9,X2,X1,X26,X27,X7,X19,X7,X7,X2,X11) :- p_1906(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_1633(X7,X6,X2,X1,X9,X2,X1,X5,X6,X8,X2,X7,X9,X9,X6,X5,X4,X4,X6,X8) :- p_1054(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_249(X7,X7,X4,X7,X3,X2,X5,X4,X4,X4,X3,X6,X2,X5,X1,X2,X7,X2) :- p_171(X1,X2,X3,X4,X5,X6,X7).
+p_416(X3,X1,X2,X2,X2,X3,X3,X1,X1,X1,X2,X1,X3) :- p_1623(X1,X2,X3).
+p_2382(X3,X1,X12,X12,X7,X18,X7,X7,X3,X12,X9,X8,X25,X11) :- p_2046(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12).
+p_0(X1,X1,X1,X2,X2,X2,X2,X2,X1,X2,X2,X1,X2) :- p_939(X1,X2).
+p_1862(X7,X15,X10,X11,X8,X13,X1,X9,X14,X12,X12,X13,X4,X5) :- p_443(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_2045(X1,X11,X7,X3,X15,X2,X5,X3,X7,X13) :- p_1071(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_75(X19) :- p_2152(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_1225(X10,X1,X10,X11,X9,X9,X10,X8) :- p_385(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14).
+p_900(X3) :- p_398(X1,X2,X3).
+p_962(X3,X5,X2,X5,X1,X1,X8,X5,X5,X3,X4,X3,X8,X5) :- p_2369(X1,X2,X3,X4,X5,X6,X7,X8).
+p_1486(X8,X6,X14,X9,X7) :- p_1931(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_926(X11,X8,X6,X2,X10,X13,X3,X6,X12,X1,X1,X1,X13,X13) :- p_412(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_215(X8,X4,X11,X11,X3,X11,X6,X4,X21,X2,X1,X4,X1,X10,X8,X3,X11) :- p_874(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12).
+p_479(X3,X1,X15,X4,X10,X13,X3,X13,X8,X14,X3,X11,X13,X34,X9) :- p_1804(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_498(X2,X3,X4,X2,X3,X1,X2) :- p_838(X1,X2,X3,X4,X5).
+p_1409(X8,X15,X5,X13,X1) :- p_913(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_1796(X8,X8,X3,X7,X4,X6,X4,X3,X1,X1,X8,X1,X8,X6,X8,X8,X9,X8,X1,X1) :- p_807(X1,X2,X3,X4,X5,X6,X7,X8,X9).
+p_857(X2,X1,X1,X1,X1) :- p_1936(X1).
+p_439(X5,X11,X7,X3,X4,X4,X6,X5,X10,X1,X5,X7,X10,X11,X9) :- p_2054(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11).
+p_1597(X2,X2,X2,X2,X3,X1) :- p_1415(X1,X2,X3).
+p_2155(X17,X7,X18,X9,X15,X1) :- p_1314(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_2200(X10,X10,X5,X3,X7,X3,X7,X8,X7,X5,X4,X1,X10,X24,X6,X7) :- p_2079(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_422(X4,X2,X7,X5,X6,X5,X5) :- p_1631(X1,X2,X3,X4,X5,X6,X7).
+p_1684(X16,X13,X11,X12,X5,X3,X2,X12,X4,X2,X5,X14,X6,X9,X16,X8,X13) :- p_350(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17).
+p_162(X5,X5,X4,X12,X11,X2,X1) :- p_1673(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18).
+p_1199(X3,X1,X1,X7,X2,X1,X1,X3) :- p_894(X1,X2,X3).
+p_632(X7) :- p_288(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_2165(X7,X6,X10,X10,X10,X3,X7,X2,X1,X6,X4,X6,X9,X5,X7,X8,X9,X1,X8,X7) :- p_676(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_518(X2,X5,X7,X2,X3,X7,X4,X6,X1) :- p_565(X1,X2,X3,X4,X5,X6,X7).
+p_1804(X3,X1,X1,X4,X4,X1,X4,X1,X3,X1,X1,X4,X4,X4,X1,X2,X4,X4,X4,X5) :- p_349(X1,X2,X3,X4,X5).
+p_1391(X2,X16,X6,X14,X6,X12) :- p_2253(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_1776(X12,X11,X8,X9,X5,X18,X5,X18) :- p_2436(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18).
+p_2432(X7,X12,X3,X7,X4,X5,X13,X14,X5,X6,X3,X2,X10,X15,X3,X2) :- p_613(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_1504(X3,X2,X12,X13,X14,X11,X9,X12,X14,X11,X16,X10,X10,X12,X14) :- p_631(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17).
+p_482(X9,X4,X8,X4,X4,X16,X25,X5,X8,X2,X4) :- p_1886(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18).
+p_350(X2,X16,X12,X11,X2,X11,X7,X7,X7,X14,X11,X5,X5,X15,X7,X7,X11) :- p_675(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_288(X4,X3,X15,X11,X6,X4,X16,X14,X16,X17,X1,X15,X5) :- p_994(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_2416(X16,X12,X16,X4,X15,X1,X10,X18,X13,X1,X4,X9,X8,X4,X10,X7,X12) :- p_539(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18).
+p_2095(X1) :- p_788(X1,X2,X3,X4,X5,X6,X7).
+p_1062(X3,X3,X1,X3,X2,X3,X3,X1,X2,X3) :- p_1384(X1,X2,X3).
+p_702(X2,X3,X3,X1,X1,X2) :- p_669(X1,X2,X3).
+p_1886(X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1) :- p_1788(X1).
+p_834(X1) :- p_1131(X1,X2,X3,X4,X5,X6).
+p_456(X2,X6,X3,X7,X10,X3,X10,X3,X10,X7,X4,X10,X3,X1,X10,X26,X9,X2) :- p_696(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_743(X3,X6,X7,X16) :- p_2453(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12).
+p_374(X19,X10,X7,X3,X5,X17) :- p_2136(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18).
+p_942(X4,X1) :- p_1326(X1,X2,X3,X4).
+p_212(X1,X2,X2,X1,X1,X2,X2,X2,X5,X1,X1,X4,X5,X5,X1,X2,X4,X2) :- p_1486(X1,X2,X3,X4,X5).
+p_1077(X1,X1) :- p_1523(X1).
+p_1199(X12,X10,X10,X6,X10,X8,X5,X7) :- p_531(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_518(X9,X9,X2,X6,X4,X8,X4,X4,X5) :- p_472(X1,X2,X3,X4,X5,X6,X7,X8,X9).
+p_1255(X1,X1,X1,X1,X1,X7,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1) :- p_1894(X1).
+p_1979(X5,X8,X5,X6,X6) :- p_666(X1,X2,X3,X4,X5,X6).
+p_1633(X8,X5,X7,X2,X2,X3,X10,X2,X2,X7,X6,X10,X10,X4,X10,X3,X10,X6,X3,X4) :- p_2045(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_1054(X6,X4,X2,X13,X2,X4,X2,X15,X2,X12) :- p_1403(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_1966(X3,X1,X3,X3,X2,X3,X3,X3,X2,X2) :- p_2316(X1,X2,X3).
+p_324(X10,X1,X9,X13,X3,X2,X8,X3,X8,X17,X8,X15) :- p_2489(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18).
+p_957(X17,X15,X22,X15,X7,X15,X9,X10) :- p_337(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_925(X12,X1,X6,X5,X11,X3,X11,X9,X5) :- p_1076(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11).
+p_350(X9,X11,X4,X16,X17,X11,X6,X6,X3,X10,X5,X17,X30,X14,X1,X14,X8) :- p_1793(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17).
+p_1788(X19) :- p_525(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_14(X1,X10,X11,X15,X4,X9,X10,X9,X11) :- p_1212(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_676(X1,X1,X7,X1,X5,X7,X6,X9,X9,X2) :- p_1808(X1,X2,X3,X4,X5,X6,X7,X8,X9).
+p_2454(X15,X14,X11,X10,X2,X10,X6,X4,X1,X8,X4,X16) :- p_1452(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_834(X13) :- p_416(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_611(X6,X3,X8,X9,X6,X6,X16,X4,X1,X4,X2,X4,X5,X5,X5,X2,X2,X3,X7,X1) :- p_2419(X1,X2,X3,X4,X5,X6,X7,X8,X9).
+p_1304(X6,X8,X5) :- p_702(X1,X2,X3,X4,X5,X6).
+p_1299(X7,X8,X1,X3,X7,X6,X5,X11,X8,X3,X8,X9,X2,X5,X1,X11,X2,X9,X3,X33) :- p_1848(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_425(X4,X1,X2,X3,X3,X3,X3,X3,X10,X9,X8,X3) :- p_1476(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_792(X14,X6,X15,X11) :- p_1648(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_279(X7,X15,X1,X3,X13,X16) :- p_2049(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_1172(X3,X3,X8,X7,X3,X9,X8,X5,X6,X8,X2,X1,X1,X2,X5) :- p_713(X1,X2,X3,X4,X5,X6,X7,X8,X9).
+p_614(X1,X7,X7,X7,X2,X10,X1,X8,X7,X2,X1,X3,X7,X5) :- p_871(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_183(X3,X4,X1,X4,X3,X3) :- p_820(X1,X2,X3,X4,X5).
+p_2349(X17,X6,X7,X3,X3,X26,X6,X3,X15,X20,X7,X18,X9,X16,X20) :- p_2113(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_1002(X4,X4,X10,X11,X4,X7,X7,X3,X5,X2) :- p_2172(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11).
+p_79(X9,X7,X5,X2,X15,X12) :- p_1858(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_666(X1,X1,X1,X1,X1,X1) :- p_1894(X1).
+p_1226(X11,X5,X6,X1,X11,X6,X12,X11,X12,X10,X12,X6,X4,X4,X4) :- p_736(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14).
+p_1563(X11,X20) :- p_248(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_1306(X1,X3,X3,X3,X3,X1,X1,X3,X1,X2,X2,X3,X1,X3,X1) :- p_2337(X1,X2,X3).
+p_905(X13,X14,X6,X17,X12,X23,X11,X1,X4,X17,X7,X11,X15) :- p_853(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17).
+p_249(X7,X11,X1,X3,X9,X5,X1,X3,X7,X7,X1,X7,X1,X8,X9,X1,X3,X3) :- p_925(X1,X2,X3,X4,X5,X6,X7,X8,X9).
+p_1249(X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1) :- p_331(X1).
+p_1278(X4,X18,X2,X7,X8,X14,X9,X16,X11,X3,X15,X4,X14,X1,X10,X32,X9,X13,X5) :- p_148(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_1992(X6,X4,X1,X7,X2,X8,X15,X7,X5,X3,X7,X1,X6) :- p_1554(X1,X2,X3,X4,X5,X6,X7,X8).
+p_1099(X1,X3,X1,X1,X1,X1,X1,X1,X1,X1,X12,X1,X1,X1) :- p_1566(X1).
+p_274(X8,X2,X10,X4) :- p_721(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11).
+p_2192(X5,X8,X11,X1) :- p_43(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_115(X12,X3,X16,X6,X6,X13,X13,X7,X2,X3,X4,X10) :- p_0(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_1931(X2,X3,X1,X4,X2,X3,X1,X4,X2,X3,X3,X4,X2,X4,X4,X2,X1,X4,X2) :- p_1786(X1,X2,X3,X4).
+p_1163(X1,X1,X5,X7,X14,X7,X8,X2,X1,X4) :- p_518(X1,X2,X3,X4,X5,X6,X7,X8,X9).
+p_773(X4,X11,X1,X8,X9,X1,X5,X3,X21,X5,X5,X4,X1,X12,X10) :- p_425(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12).
+p_398(X4,X4,X3) :- p_1023(X1,X2,X3,X4,X5,X6,X7,X8).
+p_921(X6,X6,X6,X13,X15,X21,X22,X3,X8,X13,X5,X8,X1) :- p_283(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_153(X12,X3,X6,X13,X16,X6,X13,X14,X15,X15,X3,X10,X8,X12,X2,X13,X15,X4,X1) :- p_2012(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_581(X4,X12,X6) :- p_698(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14).
+p_809(X5,X3,X5,X5,X9,X15,X3,X10,X19,X18,X16,X17,X2,X2,X7,X14) :- p_2012(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_925(X2,X15,X1,X7,X10,X12,X1,X16,X9) :- p_641(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_1738(X12,X5,X7,X12,X14,X7,X5,X13,X9,X9,X9,X5,X7,X15,X4,X5,X10,X7,X4,X10) :- p_1342(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_325(X1,X7,X3,X2,X7,X4,X4,X1,X3,X7,X5,X4,X10,X5,X4,X1,X7,X9,X2) :- p_527(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_1652(X8,X11,X10,X5,X3,X12,X12,X2,X12,X5,X7,X1,X9,X4,X5,X10,X7,X5,X6,X6) :- p_2087(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12).
+p_1467(X4,X1,X7,X1,X4,X3,X1,X4,X13,X4,X4,X4,X3,X1,X3,X4) :- p_313(X1,X2,X3,X4).
+p_1919(X4,X6,X10,X9,X7,X7) :- p_1966(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_1818(X2,X2,X6) :- p_1570(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_1947(X17,X4,X2,X16,X8,X18,X19,X17,X11,X19,X8,X10) :- p_337(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_1979(X5,X11,X8,X4,X7) :- p_360(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12).
+p_2316(X3,X9,X5) :- p_422(X1,X2,X3,X4,X5,X6,X7).
+p_2419(X8,X3,X6,X13,X10,X5,X27,X14,X14) :- p_1738(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_249(X16,X10,X12,X4,X11,X1,X2,X5,X5,X25,X1,X1,X5,X10,X10,X9,X2,X3) :- p_2473(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_50(X11,X18) :- p_111(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_1199(X3,X2,X1,X2,X1,X3,X3,X1) :- p_1907(X1,X2,X3).
+p_925(X6,X15,X1,X1,X3,X13,X7,X8,X6) :- p_1053(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_834(X10) :- p_1814(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_539(X9,X11,X17,X18,X7,X4,X10,X12,X12,X6,X6,X13,X17,X11,X5,X17,X2,X13) :- p_1255(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18).
+p_398(X8,X2,X6) :- p_486(X1,X2,X3,X4,X5,X6,X7).
+p_2090(X4) :- p_2337(X1,X2,X3).
+p_921(X4,X14,X7,X18,X3,X8,X19,X12,X6,X5,X17,X11,X9) :- p_1071(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_2377(X9,X20,X11,X4,X3,X3,X3,X8,X15,X4,X18,X16) :- p_2229(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18).
+p_561(X5,X6,X4,X2,X13,X8,X3,X8,X2) :- p_1148(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_1269(X3,X2,X1,X3,X3,X3,X4,X2,X4,X2,X3,X1,X3,X1,X1,X4) :- p_2214(X1,X2,X3,X4).
+p_385(X8,X10,X13,X10,X14,X14,X9,X14,X9,X13,X8,X1,X3,X11) :- p_736(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14).
+p_2364(X1,X2,X2,X5,X2,X7) :- p_2188(X1,X2,X3,X4,X5,X6,X7,X8).
+p_2176(X10,X2,X1,X7,X5,X4,X8,X6,X15,X13,X8,X9,X1,X4,X12,X2) :- p_2435(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_2270(X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X12) :- p_147(X1).
+p_67(X10,X8,X2,X7,X3,X1) :- p_658(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_2442(X7,X8,X12,X3,X5,X25,X16,X4) :- p_829(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_1567(X14,X7,X17,X17,X2,X5,X13,X12,X2,X1,X5,X11) :- p_1455(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17).
+p_2176(X11,X15,X18,X17,X5,X8,X2,X18,X12,X18,X3,X19,X7,X3,X8,X12) :- p_1071(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_2489(X2,X11,X3,X10,X6,X12,X10,X12,X15,X1,X2,X3,X14,X14,X11,X14,X13,X4) :- p_2008(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_1607(X15,X1,X8,X12,X19,X14,X4,X7,X13,X8,X12,X14) :- p_222(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14).
+p_2311(X9,X2,X6,X2) :- p_658(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_2048(X11,X8,X11,X14,X7,X15,X8,X11,X7,X10,X15,X12,X7,X3,X5,X9,X13) :- p_2435(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_1980(X2,X4,X5,X4,X4,X4,X3,X6,X3) :- p_1836(X1,X2,X3,X4,X5,X6).
+p_2049(X13,X12,X9,X6,X1,X7,X3,X28,X1,X16,X5,X32,X12,X20,X17,X11,X17,X17,X14) :- p_2165(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_1729(X8,X13,X2,X10,X11,X7,X3,X11,X27,X4,X4,X9,X17,X13,X13,X34) :- p_1886(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18).
+p_2435(X11,X13,X11,X2,X5,X13,X3,X13,X12,X7,X11,X8,X1,X1,X9) :- p_186(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_1547(X21) :- p_1804(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_1486(X3,X1,X4,X13,X9) :- p_2394(X1,X2,X3,X4,X5,X6,X7,X8,X9).
+p_69(X2,X2,X5,X3,X2,X9) :- p_875(X1,X2,X3,X4,X5,X6,X7,X8,X9).
+p_1561(X10,X10,X4) :- p_1054(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_77(X5,X8,X9,X12,X9,X11,X13,X13,X15,X25,X9,X27) :- p_2190(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_669(X3,X1,X8) :- p_925(X1,X2,X3,X4,X5,X6,X7,X8,X9).
+p_2136(X10,X3,X4,X3,X2,X16,X7,X5,X7,X10,X2,X6,X7,X9,X2,X5,X2,X4) :- p_2284(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_2432(X6,X8,X1,X4,X9,X9,X1,X2,X8,X7,X3,X5,X6,X1,X1,X9) :- p_554(X1,X2,X3,X4,X5,X6,X7,X8,X9).
+p_1476(X4,X7,X5,X2,X11,X18,X11,X18,X16,X11) :- p_829(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_1002(X1,X1,X1,X2,X2,X1,X2,X2,X2,X1) :- p_619(X1,X2).
+p_208(X16,X15,X4,X16,X8,X11,X4,X16,X3,X10,X6,X17,X7,X18) :- p_456(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18).
+p_1554(X11,X4,X4,X8,X3,X7,X8,X5) :- p_219(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_213(X12,X9,X2,X9,X3,X3,X3,X2,X11,X2,X6,X12,X10,X14,X1,X12,X12) :- p_1363(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_770(X3,X3,X5,X5,X2,X4,X1,X3,X2,X1,X1,X2,X4,X4,X5) :- p_1370(X1,X2,X3,X4,X5).
+p_875(X5,X6,X4,X12,X9,X10,X19,X3,X3) :- p_1700(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_147(X4) :- p_1066(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11).
+p_1501(X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1) :- p_1008(X1).
+p_2310(X3,X4,X1,X3,X4,X3,X12,X1,X2,X1,X5,X5,X5,X5,X4,X5,X4,X2) :- p_820(X1,X2,X3,X4,X5).
+p_526(X12,X6,X5,X20,X3,X14,X11,X7,X7,X2,X12,X16,X10,X9,X7,X32,X7) :- p_2009(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_1942(X3,X5,X7) :- p_14(X1,X2,X3,X4,X5,X6,X7,X8,X9).
+p_792(X9,X12,X3,X7) :- p_416(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_350(X6,X5,X10,X7,X12,X8,X1,X13,X10,X9,X6,X1,X8,X3,X2,X13,X7) :- p_2152(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_0(X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1) :- p_887(X1).
+p_809(X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1) :- p_834(X1).
+p_1718(X2,X7,X4,X4,X1,X4,X5,X1,X3,X3,X2,X3,X3,X5,X1,X3,X1) :- p_1916(X1,X2,X3,X4,X5).
+p_2111(X1) :- p_2463(X1,X2,X3,X4,X5,X6,X7,X8).
+p_2049(X4,X3,X1,X4,X5,X4,X2,X7,X4,X5,X4,X3,X1,X21,X3,X4,X3,X3,X1) :- p_1817(X1,X2,X3,X4,X5,X6,X7).
+p_1553(X20,X11,X23,X24,X16,X19,X16,X16,X18,X9,X3,X5,X5,X16,X18,X6,X11,X8,X11,X7) :- p_1141(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_1700(X4,X6,X7,X1,X1,X6,X2,X3,X5,X7,X10,X10,X6,X1,X7,X5,X7,X7,X6,X2) :- p_721(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11).
+p_2192(X9,X11,X4,X3) :- p_1099(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14).
+p_1415(X10,X4,X7) :- p_1099(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14).
+p_747(X6,X2,X4,X15,X7,X15,X2,X3,X15,X10,X8,X13,X7,X14,X1,X7,X12,X13,X10) :- p_1148(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_1958(X9,X11,X16,X16,X11,X14,X1,X13,X15,X11,X14,X13) :- p_1492(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_2436(X13,X6,X5,X11,X1,X2,X10,X10,X6,X3,X5,X3,X6,X11,X9,X8,X1,X9) :- p_412(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_1547(X5) :- p_472(X1,X2,X3,X4,X5,X6,X7,X8,X9).
+p_479(X4,X3,X7,X19,X15,X4,X12,X2,X11,X15,X18,X16,X11,X7,X17) :- p_1130(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_906(X1,X12) :- p_832(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_2382(X19,X1,X12,X20,X13,X1,X18,X8,X3,X13,X13,X2,X4,X10) :- p_1796(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_1943(X7,X5,X6,X7,X7,X7,X3,X6,X5,X6,X2,X6,X6,X7,X2,X4,X1,X3) :- p_1221(X1,X2,X3,X4,X5,X6,X7).
+p_1454(X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X14,X1) :- p_1788(X1).
+p_2411(X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1) :- p_900(X1).
+p_2104(X7,X1,X6,X7,X5,X1,X7,X2,X1,X8,X9,X7) :- p_1868(X1,X2,X3,X4,X5,X6,X7,X8,X9).
+p_274(X1,X2,X3,X5) :- p_2463(X1,X2,X3,X4,X5,X6,X7,X8).
+p_294(X2,X1,X1,X1,X2) :- p_906(X1,X2).
+p_2015(X6,X4,X3,X3,X3,X2) :- p_1855(X1,X2,X3,X4,X5).
+p_494(X1,X4,X5,X9,X7,X6,X21,X4,X8,X10) :- p_736(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14).
+p_0(X10,X7,X9,X12,X4,X2,X12,X20,X5,X7,X5,X24,X12) :- p_1567(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12).
+p_494(X6,X11,X1,X8,X7,X11,X9,X24,X1,X7) :- p_1884(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_1885(X2,X1,X4,X5,X5,X5,X2,X1,X5,X4,X3,X5,X5,X5) :- p_820(X1,X2,X3,X4,X5).
+p_2278(X2,X1,X2) :- p_619(X1,X2).
+p_1924(X1,X1,X1,X1,X6,X1,X1,X1) :- p_2090(X1).
+p_1563(X2,X2) :- p_1312(X1,X2,X3,X4,X5,X6,X7,X8).
+p_1422(X6,X18,X7,X4,X8,X2,X7,X7,X13,X16) :- p_904(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_2485(X2,X2,X1,X2,X2,X2,X2,X1,X1,X1,X2,X1,X1,X1,X1) :- p_2228(X1,X2).
+p_2180(X7,X11,X15,X10,X6,X12,X17,X19,X3,X18,X2,X15,X16,X4,X3,X10,X1,X8,X12,X10) :- p_829(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_1375(X8,X8,X4,X4,X3,X2,X11,X15,X12,X7,X8,X12,X14,X8,X10) :- p_2052(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_1652(X2,X5,X4,X3,X7,X1,X2,X7,X2,X4,X4,X3,X5,X3,X2,X4,X6,X5,X8,X8) :- p_2188(X1,X2,X3,X4,X5,X6,X7,X8).
+p_561(X2,X6,X3,X7,X1,X7,X11,X9,X4) :- p_360(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12).
+p_461(X10,X7,X7,X4,X7,X10,X3,X7,X8,X14,X14,X6,X10,X5) :- p_1575(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_857(X11,X1,X6,X8,X8) :- p_467(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_1631(X1,X10,X3,X10,X6,X5,X2) :- p_763(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11).
+p_253(X3,X4,X11,X10,X1,X2,X13,X3,X7,X5,X10,X4,X3,X11,X6,X1,X10,X12,X13,X2) :- p_1454(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14).
+p_2095(X13) :- p_2362(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17).
+p_1559(X2,X2,X1,X1,X2,X1,X9,X2,X1,X12,X1,X2) :- p_2122(X1,X2).
+p_967(X9,X1,X5,X2,X7,X5,X13,X8) :- p_1167(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_1648(X2,X4,X3,X3,X4,X3,X1,X1,X3,X2,X4,X4,X3,X2,X4,X2,X4,X2,X1,X3) :- p_2050(X1,X2,X3,X4).
+p_486(X6,X9,X4,X11,X2,X5,X4) :- p_482(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11).
+p_1680(X1,X1,X2,X2,X2,X3) :- p_1384(X1,X2,X3).
+p_539(X18,X12,X10,X24,X15,X13,X12,X6,X7,X19,X4,X12,X15,X2,X12,X2,X12,X9) :- p_1652(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_1010(X5,X8,X11) :- p_155(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_147(X2) :- p_656(X1,X2,X3,X4,X5,X6,X7,X8).
+p_1697(X4,X2,X5,X2,X4,X1,X6,X5,X1,X5,X1,X3,X2,X2,X6,X1) :- p_520(X1,X2,X3,X4,X5,X6).
+p_212(X2,X5,X13,X9,X4,X1,X13,X2,X6,X6,X7,X6,X15,X18,X8,X14,X2,X13) :- p_2049(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_2316(X1,X9,X13) :- p_611(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_266(X14,X9,X9,X11,X14,X14,X15,X6,X6,X9,X9,X8,X11) :- p_913(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_2138(X1,X5,X3,X2,X5,X1,X5,X4,X1) :- p_1370(X1,X2,X3,X4,X5).
+p_921(X16,X5,X11,X1,X13,X10,X3,X8,X10,X13,X9,X5,X5) :- p_526(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17).
+p_1064(X3,X5,X1,X2,X10,X4,X9,X6,X8,X6,X3,X8,X6) :- p_832(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_1715(X1,X1,X3,X4,X5,X9,X2,X4,X5,X7,X8,X9) :- p_2394(X1,X2,X3,X4,X5,X6,X7,X8,X9).
+p_1208(X14,X12,X5,X7,X11,X14,X11,X23,X5,X3,X15,X13,X8,X4) :- p_1148(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_494(X3,X6,X9,X10,X4,X7,X7,X8,X7,X9) :- p_43(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_1071(X1,X4,X5,X3,X2,X3,X5,X3,X1,X1,X1,X5,X3,X3,X5,X1,X1,X5,X2,X1) :- p_511(X1,X2,X3,X4,X5).
+p_1066(X8,X13,X12,X13,X13,X13,X13,X3,X15,X5,X3) :- p_631(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17).
+p_751(X2,X2,X2,X1,X1,X1,X1,X2,X1,X1,X2,X1,X2,X2,X1,X2,X2,X1) :- p_2451(X1,X2).
+p_2133(X9,X2,X7,X7,X8,X15,X15,X9) :- p_337(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_2292(X2) :- p_2349(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_1099(X11,X6,X12,X7,X14,X11,X3,X14,X11,X11,X28,X11,X5,X8) :- p_1532(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17).
+p_773(X1,X6,X2,X5,X1,X4,X4,X15,X1,X7,X7,X1,X4,X2,X22) :- p_1006(X1,X2,X3,X4,X5,X6,X7).
+p_1486(X10,X4,X7,X1,X4) :- p_1467(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_1818(X6,X5,X7) :- p_1221(X1,X2,X3,X4,X5,X6,X7).
+p_404(X9,X10,X5,X6,X4,X6,X6,X8,X7,X8) :- p_1966(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_2473(X2,X3,X3,X3,X3,X1,X2,X3,X2,X2,X6,X5,X3,X1,X3) :- p_974(X1,X2,X3,X4,X5,X6).
+p_1370(X10,X14,X10,X6,X25) :- p_994(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_1532(X13,X3,X2,X11,X13,X17,X9,X2,X19,X16,X2,X15,X14,X16,X1,X19,X5) :- p_1908(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_473(X2,X1,X1,X1) :- p_1133(X1).
+p_1255(X7,X10,X1,X11,X1,X11,X13,X13,X9,X6,X10,X7,X1,X13,X11,X15,X2,X14) :- p_1363(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_416(X13,X7,X7,X1,X7,X8,X7,X4,X4,X2,X10,X9,X7) :- p_1245(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_599(X2,X2,X1,X3,X2,X2,X3,X3) :- p_1384(X1,X2,X3).
+p_721(X11,X12,X9,X14,X10,X1,X3,X2,X12,X10,X5) :- p_2208(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14).
+p_1858(X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1) :- p_366(X1).
+p_1032(X8,X1,X7,X2,X7,X7,X5,X6) :- p_2463(X1,X2,X3,X4,X5,X6,X7,X8).
+p_2473(X9,X4,X2,X4,X3,X7,X9,X2,X5,X7,X1,X3,X3,X12,X4) :- p_2104(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12).
+p_1894(X5) :- p_1409(X1,X2,X3,X4,X5).
+p_855(X1,X1,X1,X2,X1) :- p_700(X1,X2,X3).
+p_1415(X5,X10,X1) :- p_1422(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_1391(X10,X6,X10,X8,X7,X16) :- p_219(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_1148(X10,X19,X19,X8,X7,X6,X5,X11,X13,X14,X14,X8,X14,X7,X9) :- p_1667(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_1182(X12,X11,X9,X8,X3,X9,X9,X6,X1,X9) :- p_1715(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12).
+p_1048(X4,X9,X8,X5,X3,X9,X9,X9,X3,X8) :- p_217(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11).
+p_2376(X1,X1,X11,X14,X8) :- p_1721(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_2190(X7,X11,X9,X1,X9,X7,X5,X12,X9,X5,X10,X2,X5,X10,X6) :- p_1545(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12).
+p_707(X8,X2,X2,X5,X11,X7,X11,X5) :- p_1724(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11).
+p_484(X1,X3,X1,X1,X3) :- p_1010(X1,X2,X3).
+p_1467(X1,X3,X3,X2,X1,X3,X3,X2,X3,X3,X2,X2,X3,X3,X3,X2) :- p_1784(X1,X2,X3).
+p_111(X1,X4,X12,X5,X6,X6,X7,X5,X4,X8,X3,X3,X7,X5,X8,X4) :- p_925(X1,X2,X3,X4,X5,X6,X7,X8,X9).
+p_248(X1,X4,X4,X2,X4,X4,X1,X4,X3,X3,X1,X3,X3,X1,X3,X1,X2,X22,X3,X3) :- p_2420(X1,X2,X3,X4).
+p_1843(X7,X10,X5,X15,X2,X15,X5,X7,X15) :- p_2011(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_1006(X1,X3,X5,X9,X1,X2,X2) :- p_349(X1,X2,X3,X4,X5).
+p_528(X2,X4,X4,X5,X6,X2,X3,X4,X4,X3,X1,X6,X6,X4,X4,X2,X3) :- p_1227(X1,X2,X3,X4,X5,X6).
+p_1255(X7,X8,X7,X2,X5,X5,X5,X11,X7,X3,X1,X8,X7,X10,X6,X8,X5,X1) :- p_928(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11).
+p_900(X7) :- p_564(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_2204(X9,X11,X15,X15,X3,X4,X10,X15,X1,X2,X6,X15,X10,X3,X32,X6,X15,X1) :- p_853(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17).
+p_472(X1,X1,X1,X5,X4,X4,X6,X2,X3) :- p_997(X1,X2,X3,X4,X5,X6).
+p_2118(X11,X15,X12,X12,X2,X13,X13,X12,X7,X2,X8,X9) :- p_1403(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_1452(X15,X1,X13,X16,X5,X4,X10,X10,X11,X5,X17,X8,X17,X6,X19,X11,X1,X13,X8) :- p_896(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_1054(X8,X3,X13,X4,X2,X11,X3,X15,X10,X11) :- p_526(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17).
+p_395(X4,X2,X2,X2,X6,X5,X6,X6,X2,X3,X5,X4,X5) :- p_2444(X1,X2,X3,X4,X5,X6,X7).
+p_1050(X2,X2,X1,X2) :- p_1077(X1,X2).
+p_564(X5,X12,X1,X9,X11,X3,X9,X4,X1,X8,X1,X10,X6,X2,X13) :- p_962(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14).
+p_1889(X3,X1,X3,X3,X3,X3,X3,X1,X3,X3,X3,X1,X1,X2,X2,X2,X1,X2,X1) :- p_1438(X1,X2,X3).
+p_2012(X5,X1,X6,X5,X5,X4,X3,X3,X4,X4,X1,X5,X2,X6,X3,X2,X2,X3,X5) :- p_520(X1,X2,X3,X4,X5,X6).
+p_222(X14,X14,X11,X23,X2,X14,X10,X7,X19,X17,X1,X31,X18,X2) :- p_1314(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_162(X1,X1,X1,X2,X1,X1,X2) :- p_942(X1,X2).
+p_1236(X1,X1) :- p_2126(X1,X2,X3,X4,X5).
+p_1221(X1,X1,X1,X1,X1,X1,X1) :- p_2111(X1).
+p_1667(X7,X8,X8,X6,X11,X8,X7,X2,X21,X2,X8,X2,X11,X11,X6,X10,X12,X8,X11) :- p_1947(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12).
+p_2049(X7,X9,X12,X4,X13,X3,X5,X5,X13,X10,X6,X1,X11,X9,X1,X3,X2,X3,X2) :- p_1579(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_526(X3,X3,X8,X2,X1,X3,X1,X3,X3,X2,X1,X4,X2,X2,X2,X5,X2) :- p_1225(X1,X2,X3,X4,X5,X6,X7,X8).
+p_871(X7,X2,X6,X6,X4,X5,X9,X12,X12,X5) :- p_474(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_743(X6,X1,X1,X8) :- p_1721(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_2404(X8,X8,X3,X8,X3,X9) :- p_1171(X1,X2,X3,X4,X5,X6,X7,X8,X9).
+p_955(X6,X10,X2,X7) :- p_962(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14).
+p_1916(X5,X5,X3,X1,X4) :- p_838(X1,X2,X3,X4,X5).
+p_1115(X3,X2) :- p_1942(X1,X2,X3).
+p_1966(X1,X2,X3,X1,X2,X3,X1,X1,X3,X1) :- p_1561(X1,X2,X3).
+p_1579(X9,X9,X2,X2,X9,X7,X5,X3,X7,X11,X5,X12,X1) :- p_2377(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12).
+p_2489(X8,X12,X18,X8,X1,X11,X3,X3,X10,X10,X4,X11,X12,X6,X17,X11,X9,X3) :- p_1192(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18).
+p_1336(X13,X9,X7,X2,X10) :- p_2104(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12).
+p_1182(X6,X6,X12,X13,X9,X9,X12,X11,X5,X9) :- p_264(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_531(X1,X1,X2,X1,X1,X1,X1,X1,X1,X1,X2,X1,X1) :- p_1077(X1,X2).
+p_1006(X16,X8,X2,X11,X13,X3,X14) :- p_2204(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18).
+p_2083(X4,X4,X2,X5,X5,X5,X2,X13,X5,X5,X1,X3,X3,X1,X3) :- p_1291(X1,X2,X3,X4,X5).
+p_698(X6,X4,X3,X1,X3,X1,X4,X1,X3,X2,X1,X1,X4,X3) :- p_1916(X1,X2,X3,X4,X5).
+p_473(X7,X12,X5,X1) :- p_921(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_1936(X1) :- p_75(X1).
+p_736(X5,X7,X3,X4,X2,X3,X7,X4,X3,X2,X5,X3,X6,X2) :- p_1006(X1,X2,X3,X4,X5,X6,X7).
+p_43(X15,X5,X8,X16,X9,X14,X9,X5,X3,X9,X13,X4,X15) :- p_1224(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_200(X13,X10,X10,X7,X2,X2,X4,X5,X4,X9,X24,X9,X2,X3,X1,X29,X5,X8,X6) :- p_1792(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_838(X1,X3,X4,X4,X3) :- p_313(X1,X2,X3,X4).
+p_768(X1,X1,X4,X2,X5,X1,X2,X2,X5,X5) :- p_79(X1,X2,X3,X4,X5,X6).
+p_821(X6,X3,X11,X18,X9,X15,X7,X15,X2,X19,X5) :- p_1314(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_1852(X8) :- p_2094(X1,X2,X3,X4,X5,X6,X7,X8).
+p_1660(X6,X1,X11,X5,X3,X1,X15,X5,X1,X7,X3) :- p_1776(X1,X2,X3,X4,X5,X6,X7,X8).
+p_424(X2,X2,X1,X2,X2,X1,X1,X4,X1,X3,X1,X4,X4,X3,X4,X4,X1,X3,X4) :- p_955(X1,X2,X3,X4).
+p_307(X1,X9,X14,X13,X19,X3,X7,X22,X14,X9,X7,X11,X6,X2,X8,X13) :- p_385(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14).
+p_2266(X2,X1,X1,X6,X1,X1,X2,X2) :- p_64(X1,X2).
+p_1454(X6,X4,X2,X6,X12,X4,X7,X1,X3,X7,X3,X4,X6,X7) :- p_486(X1,X2,X3,X4,X5,X6,X7).
+p_161(X3,X2,X3,X3,X1,X3,X3,X4,X3,X4,X3,X4,X2,X3,X2,X2,X2,X3,X1,X4) :- p_1572(X1,X2,X3,X4).
+p_112(X1,X17,X4,X13,X18,X10,X12,X3,X5) :- p_1796(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_829(X13,X10,X10,X4,X7,X2,X10,X9,X8,X11,X11,X13,X7,X5,X13,X6,X10,X1,X8) :- p_445(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_1646(X1,X1,X1,X1,X1) :- p_75(X1).
+p_1715(X1,X3,X9,X7,X8,X16,X17,X1,X9,X5,X5,X9) :- p_2284(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_1980(X1,X1,X1,X1,X1,X1,X8,X1,X1) :- p_2292(X1).
+p_1920(X15,X14,X5,X20,X11) :- p_1633(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_1593(X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X14,X1,X1,X17,X1,X1) :- p_1788(X1).
+p_875(X11,X1,X7,X13,X9,X8,X14,X6,X3) :- p_770(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_631(X18,X1,X1,X19,X16,X2,X17,X4,X15,X11,X1,X2,X5,X16,X5,X13,X15) :- p_1796(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_520(X13,X11,X3,X4,X2,X7) :- p_1172(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_1172(X2,X3,X2,X3,X3,X3,X3,X3,X1,X1,X2,X2,X2,X3,X2) :- p_1132(X1,X2,X3).
+p_1403(X6,X11,X13,X5,X10,X7,X10,X9,X15,X3,X13,X14,X4,X2,X7) :- p_809(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_219(X6,X11,X13,X8,X7,X6,X1,X16,X14,X17) :- p_2362(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17).
+p_2382(X18,X6,X13,X3,X11,X13,X14,X15,X18,X13,X14,X13,X4,X7) :- p_462(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18).
+p_1141(X2,X4,X4,X4,X3,X1,X4,X2,X4,X1,X3,X3,X2,X3,X2,X3,X1,X1,X3,X2) :- p_796(X1,X2,X3,X4).
+p_1590(X1,X1,X1) :- p_834(X1).
+p_2136(X11,X5,X5,X10,X8,X6,X13,X12,X6,X7,X17,X17,X10,X15,X5,X6,X15,X1) :- p_1673(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18).
+p_145(X6,X3,X5,X6,X4) :- p_601(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14).
+p_2338(X7,X8,X1,X3,X5,X6,X1,X4,X1,X7,X1,X1,X1,X4,X2,X1,X6,X3,X8) :- p_132(X1,X2,X3,X4,X5,X6,X7,X8).
+p_1694(X1,X9,X13,X2,X8,X3,X1,X2,X13,X16,X9,X1,X16,X7,X6,X13,X8,X14,X11) :- p_1212(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_168(X2,X1,X1,X2,X2,X1,X1,X1,X2,X2,X1,X1,X1,X2) :- p_2122(X1,X2).
+p_2113(X3,X3,X1,X1,X1,X3,X3,X1,X1,X3,X3,X3,X1,X2,X2,X1,X1,X3,X2,X1) :- p_1818(X1,X2,X3).
+p_2453(X3,X14,X12,X4,X2,X11,X14,X9,X4,X11,X9,X1) :- p_1172(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_2356(X3,X6,X2,X12,X1,X1,X3,X12) :- p_1848(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_1966(X20,X19,X12,X4,X9,X13,X11,X14,X20,X18) :- p_897(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_1987(X1,X1,X1,X1,X1,X1,X1,X9,X1,X1,X1,X1,X1) :- p_147(X1).
+p_1131(X3,X6,X9,X3,X1,X8) :- p_1002(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_675(X6,X3,X4,X4,X1,X3,X4,X18,X2,X5,X8,X6,X7,X7,X25,X4) :- p_1476(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_461(X15,X11,X5,X2,X16,X2,X13,X4,X7,X13,X14,X3,X8,X6) :- p_1697(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_111(X5,X4,X1,X11,X11,X10,X6,X10,X5,X11,X3,X9,X9,X4,X5,X6) :- p_1180(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12).
+p_2489(X7,X11,X5,X12,X10,X18,X10,X8,X6,X22,X2,X5,X12,X10,X7,X10,X10,X9) :- p_1470(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12).
+p_201(X2,X1,X1,X1,X2,X2,X2,X1,X2) :- p_953(X1,X2).
+p_770(X6,X6,X1,X4,X9,X3,X6,X4,X2,X4,X2,X8,X11,X7,X9) :- p_1066(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11).
+p_360(X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1) :- p_887(X1).
+p_1075(X9,X17,X9,X12,X15,X4) :- p_1667(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_1832(X5,X1,X4) :- p_1825(X1,X2,X3,X4,X5,X6).
+p_1130(X4,X4,X4,X3,X2,X4,X1,X4,X5,X2,X3,X1,X1,X4,X3,X2,X5,X6,X6,X4) :- p_374(X1,X2,X3,X4,X5,X6).
+p_208(X14,X16,X3,X4,X9,X15,X14,X2,X8,X15,X4,X8,X12,X4) :- p_2052(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_1648(X4,X1,X7,X3,X7,X4,X3,X8,X4,X6,X8,X3,X1,X2,X6,X9,X7,X2,X7,X2) :- p_763(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11).
+p_2473(X5,X1,X1,X5,X4,X2,X1,X3,X1,X2,X2,X2,X5,X3,X2) :- p_294(X1,X2,X3,X4,X5).
+p_425(X7,X5,X4,X20,X15,X1,X12,X9,X14,X13,X13,X13) :- p_865(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_2113(X1,X2,X1,X1,X2,X3,X4,X4,X3,X1,X1,X4,X4,X3,X4,X1,X1,X2,X1,X1) :- p_2214(X1,X2,X3,X4).
+p_1206(X3) :- p_997(X1,X2,X3,X4,X5,X6).
+p_147(X8) :- p_1947(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12).
+p_424(X3,X18,X1,X6,X9,X8,X9,X4,X4,X8,X10,X11,X8,X7,X10,X32,X3,X8,X10) :- p_1697(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_494(X6,X15,X6,X11,X2,X21,X1,X10,X2,X14) :- p_443(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_1077(X3,X4) :- p_2284(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_1159(X19,X18,X8,X2,X4,X11,X25,X15,X5,X6,X4,X4,X18) :- p_400(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18).
+p_2138(X4,X3,X2,X6,X3,X1,X1,X6,X6) :- p_1032(X1,X2,X3,X4,X5,X6,X7,X8).
+p_2408(X4,X9,X9,X8,X2,X9,X4) :- p_1883(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_2059(X5,X1,X9,X8,X14,X5,X2,X9) :- p_2394(X1,X2,X3,X4,X5,X6,X7,X8,X9).
+p_1724(X8,X9,X12,X6,X3,X1,X3,X5,X9,X19,X6) :- p_472(X1,X2,X3,X4,X5,X6,X7,X8,X9).
+p_2015(X7,X3,X1,X4,X5,X4) :- p_932(X1,X2,X3,X4,X5,X6,X7).
+p_799(X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1) :- p_2111(X1).
+p_1683(X4) :- p_804(X1,X2,X3).
+p_1667(X19,X10,X7,X4,X4,X15,X3,X17,X2,X4,X18,X17,X7,X17,X4,X10,X12,X2,X12) :- p_424(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_1778(X3,X5) :- p_565(X1,X2,X3,X4,X5,X6,X7).
+p_2126(X1,X1,X1,X1,X1) :- p_1683(X1).
+p_1054(X1,X10,X2,X1,X20,X15,X8,X3,X10,X3) :- p_770(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_2473(X3,X8,X17,X7,X2,X14,X5,X10,X18,X15,X17,X20,X17,X13,X3) :- p_1141(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_631(X4,X1,X1,X5,X6,X1,X4,X6,X4,X3,X2,X6,X5,X1,X2,X1,X1) :- p_1227(X1,X2,X3,X4,X5,X6).
+p_897(X1,X3,X3,X3,X3,X2,X2,X1,X3,X13,X2,X2,X3,X3,X2,X1,X3,X3,X1,X2) :- p_2219(X1,X2,X3).
+p_1141(X16,X4,X3,X15,X10,X3,X8,X1,X6,X10,X7,X3,X17,X12,X4,X5,X5,X8,X5,X2) :- p_1532(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17).
+p_688(X3,X2,X3,X3,X1,X1,X1,X3,X4,X14,X4,X1,X2,X4,X4,X2,X1,X4,X23) :- p_313(X1,X2,X3,X4).
+p_1640(X5,X1,X10,X6,X7,X2,X1,X12,X12,X10,X6,X10,X27,X1,X9,X13,X11,X2) :- p_150(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14).
+p_210(X4,X11,X14,X4,X1,X5,X4,X2,X6,X8,X7) :- p_1208(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14).
+p_2048(X7,X4,X7,X3,X2,X6,X6,X5,X6,X7,X2,X4,X5,X1,X7,X5,X2) :- p_2408(X1,X2,X3,X4,X5,X6,X7).
+p_183(X1,X3,X1,X1,X1,X1) :- p_1234(X1).
+p_1064(X2,X6,X5,X6,X5,X3,X2,X4,X2,X4,X4,X6,X1) :- p_1597(X1,X2,X3,X4,X5,X6).
+p_2204(X7,X10,X14,X3,X7,X11,X2,X5,X9,X12,X7,X27,X5,X29,X14,X8,X3,X12) :- p_2008(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_1784(X6,X12,X2) :- p_1403(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_2044(X6,X3,X1,X3,X8,X5,X1,X5,X3,X3,X4,X4,X2,X7,X4,X6,X7,X1,X6) :- p_2232(X1,X2,X3,X4,X5,X6,X7,X8,X9).
+p_429(X20,X5,X7,X3,X2,X14,X27,X3,X14,X17,X13,X14,X4,X19,X12,X10,X1,X19,X7,X9) :- p_994(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_1745(X3,X1,X3,X3,X1,X1,X1,X1,X2,X3,X1,X3,X2,X3,X2) :- p_1010(X1,X2,X3).
+p_926(X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1) :- p_291(X1).
+p_1144(X3,X4,X4,X2,X3,X4,X2) :- p_97(X1,X2,X3,X4).
+p_1804(X9,X5,X7,X9,X10,X10,X1,X2,X21,X4,X7,X24,X6,X10,X5,X4,X1,X2,X12,X12) :- p_1947(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12).
+p_2451(X3,X7) :- p_2092(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12).
+p_2270(X14,X10,X16,X9,X3,X12,X5,X5,X16,X26,X14) :- p_2007(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_467(X8,X7,X15,X12,X2,X4,X13,X1,X10,X5) :- p_1410(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17).
+p_115(X4,X4,X3,X9,X2,X1,X5,X5,X4,X7,X1,X10) :- p_404(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_926(X4,X6,X4,X1,X1,X4,X5,X1,X1,X5,X7,X5,X7,X2) :- p_930(X1,X2,X3,X4,X5,X6,X7,X8).
+p_412(X3,X4,X7,X3,X4,X1,X4,X1,X3,X2,X2,X3,X3) :- p_764(X1,X2,X3,X4).
+p_397(X5,X5,X1,X1,X7,X7,X1,X1,X1,X4,X3,X1,X4,X1,X4,X7) :- p_2444(X1,X2,X3,X4,X5,X6,X7).
+p_337(X18,X4,X9,X3,X10,X6,X1,X9,X9,X8,X7,X4,X13,X13,X10,X6,X18,X19,X3) :- p_325(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_486(X2,X5,X11,X12,X12,X9,X14) :- p_962(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14).
+p_2408(X16,X11,X5,X5,X16,X1,X12) :- p_1492(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_2356(X1,X2,X3,X4,X2,X4,X4,X1) :- p_855(X1,X2,X3,X4,X5).
+p_1486(X3,X2,X2,X4,X6) :- p_1376(X1,X2,X3,X4,X5,X6).
+p_178(X1,X5,X12,X6,X15,X7,X12,X15) :- p_2165(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_1415(X1,X1,X1) :- p_1852(X1).
+p_1234(X15) :- p_1575(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_1804(X7,X3,X3,X3,X6,X2,X3,X3,X4,X3,X3,X3,X5,X7,X5,X3,X7,X1,X3,X6) :- p_1631(X1,X2,X3,X4,X5,X6,X7).
+p_1854(X17,X16,X18,X15,X8,X10,X13,X27,X13,X19,X7,X31,X14,X7,X5,X15,X10,X12,X14) :- p_1889(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_2232(X2,X1,X2,X1,X2,X2,X1,X2,X2) :- p_515(X1,X2).
+p_2194(X19,X19,X18,X13,X11,X6,X8,X12,X17) :- p_248(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_1227(X3,X3,X3,X2,X1,X2) :- p_1818(X1,X2,X3).
+p_1958(X12,X7,X10,X1,X10,X5,X2,X12,X8,X22,X23,X11) :- p_1470(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12).
+p_498(X5,X7,X4,X2,X1,X3,X2) :- p_838(X1,X2,X3,X4,X5).
+p_581(X9,X6,X11) :- p_2118(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12).
+p_1883(X8,X9,X6,X8,X4,X20,X11,X14,X4,X11,X14,X26,X14) :- p_222(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14).
+p_161(X4,X11,X7,X1,X6,X1,X2,X8,X12,X7,X5,X8,X6,X11,X11,X7,X13,X1,X10,X5) :- p_2388(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_1566(X3) :- p_1226(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_249(X4,X3,X1,X4,X3,X4,X2,X1,X2,X4,X2,X3,X3,X3,X19,X2,X4,X22) :- p_2192(X1,X2,X3,X4).
+p_1454(X2,X3,X4,X14,X14,X19,X18,X4,X11,X4,X10,X14,X12,X19) :- p_248(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_1006(X9,X8,X7,X4,X3,X2,X1) :- p_2138(X1,X2,X3,X4,X5,X6,X7,X8,X9).
+p_928(X1,X10,X10,X9,X14,X4,X13,X11,X4,X5,X6) :- p_913(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_1221(X12,X13,X10,X3,X10,X9,X9) :- p_736(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14).
+p_957(X12,X1,X2,X11,X11,X5,X6,X7) :- p_2200(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_2362(X7,X3,X2,X17,X13,X13,X18,X15,X18,X6,X3,X3,X8,X5,X17,X14,X2) :- p_1886(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18).
+p_171(X3,X5,X8,X4,X8,X5,X6) :- p_2394(X1,X2,X3,X4,X5,X6,X7,X8,X9).
+p_1870(X3,X2,X2,X2,X1,X2) :- p_1077(X1,X2).
+p_1255(X3,X6,X10,X10,X4,X15,X12,X15,X1,X28,X2,X12,X1,X14,X11,X8,X1,X17) :- p_462(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18).
+p_1023(X7,X13,X8,X19,X1,X6,X10,X10) :- p_1745(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_1148(X7,X4,X7,X12,X7,X2,X1,X8,X8,X4,X2,X3,X4,X4,X2) :- p_1776(X1,X2,X3,X4,X5,X6,X7,X8).
+p_1943(X2,X2,X3,X1,X7,X5,X5,X8,X7,X3,X6,X6,X7,X3,X8,X1,X1,X3) :- p_957(X1,X2,X3,X4,X5,X6,X7,X8).
+p_494(X1,X3,X1,X2,X2,X3,X1,X1,X3,X1) :- p_1912(X1,X2,X3).
+p_2207(X6,X7,X3,X3,X6,X8,X7,X7,X5) :- p_2059(X1,X2,X3,X4,X5,X6,X7,X8).
+p_1403(X10,X4,X15,X11,X16,X3,X6,X17,X10,X1,X17,X15,X15,X3,X8) :- p_213(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17).
+p_325(X1,X3,X2,X2,X3,X2,X1,X3,X3,X1,X1,X1,X2,X2,X1,X19,X3,X2,X3) :- p_804(X1,X2,X3).
+p_829(X10,X10,X6,X8,X9,X12,X3,X6,X7,X1,X10,X10,X2,X12,X6,X3,X12,X6,X5) :- p_2406(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12).
+p_820(X7,X8,X10,X12,X12) :- p_1815(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_611(X17,X6,X6,X1,X6,X8,X3,X5,X8,X15,X8,X5,X1,X18,X12,X9,X15,X12,X17,X14) :- p_747(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_904(X4,X5,X3,X1,X1,X3,X6,X5,X1,X6,X6,X3,X5,X2,X4,X5) :- p_69(X1,X2,X3,X4,X5,X6).
+p_1427(X1,X3) :- p_804(X1,X2,X3).
+p_63(X6,X14) :- p_896(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_2118(X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1) :- p_1234(X1).
+p_1894(X3) :- p_1254(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_1234(X3) :- p_484(X1,X2,X3,X4,X5).
+p_1064(X18,X5,X19,X18,X8,X14,X26,X10,X17,X4,X2,X8,X11) :- p_424(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_416(X10,X4,X8,X13,X6,X2,X13,X10,X13,X2,X12,X9,X13) :- p_1987(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_829(X1,X8,X12,X3,X12,X13,X5,X12,X1,X4,X2,X3,X4,X1,X11,X3,X3,X4,X3) :- p_799(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_1935(X5,X1,X3,X3,X2,X9,X1,X11,X3) :- p_264(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_1660(X1,X1,X1,X1,X1,X2,X1,X1,X1,X1,X2) :- p_63(X1,X2).
+p_1409(X1,X1,X5,X2,X1) :- p_2228(X1,X2).
+p_288(X5,X12,X14,X23,X14,X13,X2,X13,X28,X1,X18,X4,X13) :- p_2012(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_896(X2,X2,X1,X2,X1,X1,X2,X2,X1,X2,X2,X1,X2,X2,X2,X1,X1,X2,X2) :- p_1679(X1,X2).
+p_283(X7,X1,X1,X2,X4,X3,X4,X7,X1,X9,X6,X9,X9,X8,X1) :- p_2232(X1,X2,X3,X4,X5,X6,X7,X8,X9).
+p_211(X5,X5,X5,X5,X4,X16,X5,X10,X8,X2) :- p_1134(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_77(X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1) :- p_1105(X1).
+p_1981(X4,X4,X3,X1,X4,X5,X3,X3,X1,X2,X4,X4,X5,X2,X1) :- p_1486(X1,X2,X3,X4,X5).
+p_564(X3,X2,X2,X3,X2,X1,X3,X2,X3,X2,X2,X3,X1,X2,X3) :- p_1623(X1,X2,X3).
+p_1208(X8,X5,X7,X3,X2,X5,X7,X8,X7,X2,X3,X4,X4,X1) :- p_527(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_74(X3,X3,X5,X9,X7,X9,X8,X7,X5,X2,X7,X8,X5,X3,X5,X9,X2) :- p_112(X1,X2,X3,X4,X5,X6,X7,X8,X9).
+p_622(X6,X17,X1,X4,X16,X14,X6,X9,X7,X15,X4,X2,X17,X32,X4,X15,X2) :- p_2436(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18).
+p_223(X6,X10,X4,X2,X9,X8) :- p_217(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11).
+p_323(X1,X3,X1,X2,X1,X3,X3,X2,X3,X2,X1) :- p_1623(X1,X2,X3).
+p_165(X12,X11,X1,X9,X8,X12,X1,X15,X15,X4,X9) :- p_1981(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_1572(X7,X5,X2,X4) :- p_537(X1,X2,X3,X4,X5,X6).
+p_2292(X16) :- p_325(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_2364(X3,X1,X1,X2,X2,X2) :- p_1582(X1,X2,X3).
+p_2007(X7,X2,X7,X13,X7,X5,X6,X7,X5,X4,X7,X9,X1,X7,X7,X9) :- p_713(X1,X2,X3,X4,X5,X6,X7,X8,X9).
+p_900(X1) :- p_942(X1,X2).
+p_1832(X13,X13,X1) :- p_354(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_1254(X1,X19,X5,X10,X7,X13,X19,X2,X11,X4,X16,X13,X11,X9,X9,X19,X1,X15,X17,X6) :- p_596(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_1597(X4,X2,X2,X8,X4,X4) :- p_679(X1,X2,X3,X4).
+p_2467(X3,X5,X4,X4,X5,X4,X2,X3,X5,X15,X3,X2,X1,X4,X2,X3) :- p_1916(X1,X2,X3,X4,X5).
+p_747(X1,X1,X8,X12,X1,X11,X10,X6,X12,X6,X3,X1,X5,X6,X11,X12,X29,X10,X1) :- p_2377(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12).
+p_1675(X1,X2,X8,X3,X1,X2,X1,X7,X3) :- p_2232(X1,X2,X3,X4,X5,X6,X7,X8,X9).
+p_1660(X18,X9,X19,X10,X1,X15,X14,X13,X4,X19,X13) :- p_1694(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_43(X3,X13,X5,X10,X12,X10,X3,X2,X8,X3,X1,X9,X14) :- p_2253(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_1675(X12,X8,X14,X12,X3,X2,X9,X1,X7) :- p_439(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_1391(X3,X4,X1,X1,X1,X4) :- p_1786(X1,X2,X3,X4).
+p_217(X2,X4,X3,X3,X9,X3,X2,X3,X4,X2,X15) :- p_1160(X1,X2,X3,X4).
+p_2270(X8,X3,X5,X6,X18,X19,X1,X7,X11,X12,X8) :- p_412(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_2049(X10,X10,X1,X10,X1,X10,X3,X9,X10,X1,X2,X10,X4,X9,X6,X3,X9,X6,X9) :- p_768(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_2253(X1,X1,X1,X1,X1,X1,X1,X1,X10,X1,X1,X1,X1,X1,X1,X1) :- p_2292(X1).
+p_1876(X8,X7,X9,X2,X7,X8,X11,X13,X15,X2,X26,X9,X6,X14,X15,X11,X14,X4,X34) :- p_1815(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_554(X2,X6,X4,X6,X10,X2,X10,X9,X6) :- p_2284(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_2009(X9,X19,X10,X4,X1,X25,X26,X19,X16,X12,X8,X15,X1,X12,X1,X12) :- p_1889(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_1640(X7,X1,X2,X7,X14,X7,X14,X3,X6,X13,X5,X1,X7,X29,X6,X31,X5,X13) :- p_1245(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_1050(X18,X15,X17,X6) :- p_1249(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_1962(X4,X2,X5,X2,X2,X4,X1,X10,X10,X2,X6,X8,X1,X25,X7,X10) :- p_1665(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11).
+p_1543(X5,X9,X7,X12,X8,X10,X6,X10,X6,X22,X9,X11) :- p_1470(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12).
+p_1159(X3,X2,X2,X1,X2,X2,X2,X3,X1,X3,X3,X3,X2) :- p_1132(X1,X2,X3).
+p_1206(X12) :- p_1793(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17).
+p_721(X1,X1,X3,X1,X1,X1,X2,X3,X3,X4,X4) :- p_1160(X1,X2,X3,X4).
+p_398(X5,X8,X5) :- p_1422(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_2436(X5,X3,X6,X1,X3,X4,X5,X1,X5,X8,X7,X7,X9,X1,X5,X9,X6,X5) :- p_518(X1,X2,X3,X4,X5,X6,X7,X8,X9).
+p_1784(X4,X17,X14) :- p_1584(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18).
+p_397(X3,X2,X1,X1,X2,X3,X2,X3,X1,X1,X3,X2,X2,X3,X3,X3) :- p_2278(X1,X2,X3).
+p_1075(X3,X15,X8,X9,X1,X9) :- p_1363(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_97(X12,X6,X7,X16) :- p_1947(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12).
+p_804(X1,X1,X1) :- p_1894(X1).
+p_1075(X6,X4,X1,X9,X6,X1) :- p_1808(X1,X2,X3,X4,X5,X6,X7,X8,X9).
+p_2136(X17,X11,X14,X4,X12,X5,X9,X28,X29,X20,X3,X20,X9,X11,X3,X16,X2,X19) :- p_1130(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_294(X11,X9,X6,X7,X1) :- p_2008(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_2083(X6,X10,X5,X3,X7,X7,X1,X8,X1,X8,X5,X3,X5,X6,X5) :- p_2369(X1,X2,X3,X4,X5,X6,X7,X8).
+p_1646(X2,X2,X2,X1,X1) :- p_2195(X1,X2).
+p_758(X19,X11) :- p_1040(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18).
+p_883(X7,X3,X8,X3,X13,X7,X4,X16,X5,X5,X7,X1,X3,X8,X1,X3,X8,X1,X8) :- p_220(X1,X2,X3,X4,X5,X6,X7,X8).
+p_2195(X2,X2) :- p_1492(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_1832(X2,X3,X5) :- p_807(X1,X2,X3,X4,X5,X6,X7,X8,X9).
+p_2099(X6,X12,X3,X1,X7,X16,X9,X2,X7,X7,X9,X4,X1,X10,X2,X9) :- p_273(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_1987(X1,X1,X1,X2,X1,X2,X1,X2,X1,X1,X1,X2,X2) :- p_939(X1,X2).
+p_2118(X7,X3,X6,X7,X8,X1,X2,X7,X6,X6,X5,X8) :- p_2463(X1,X2,X3,X4,X5,X6,X7,X8).
+p_1841(X11,X16,X3,X5,X12,X1,X17,X19,X3,X19,X14) :- p_1633(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_473(X1,X1,X4,X2) :- p_821(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11).
+p_274(X2,X2,X4,X7) :- p_1631(X1,X2,X3,X4,X5,X6,X7).
+p_74(X3,X6,X16,X9,X13,X6,X11,X1,X8,X4,X6,X2,X7,X15,X9,X1,X11) :- p_307(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_1814(X1,X3,X4,X3,X3,X10,X1,X1,X3,X2,X1,X3,X1,X2,X1,X3,X3,X1,X2) :- p_2420(X1,X2,X3,X4).
+p_1427(X6,X12) :- p_1182(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_338(X14,X4,X4,X1,X10,X14,X12,X15,X6,X12,X13,X3) :- p_443(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_1862(X1,X1,X1,X1,X1,X7,X8,X1,X1,X1,X1,X1,X1,X1) :- p_75(X1).
+p_1476(X5,X1,X5,X1,X6,X2,X4,X1,X5,X5) :- p_2354(X1,X2,X3,X4,X5,X6,X7).
+p_2388(X13,X7,X7,X13,X8,X19,X20,X6,X4,X10,X11,X13,X10) :- p_354(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_1815(X12,X6,X8,X16,X6,X16,X8,X12,X2,X14,X2,X12,X9,X4,X1) :- p_675(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_1470(X14,X12,X11,X1,X15,X8,X18,X1,X10,X17,X12,X8) :- p_248(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_1236(X7,X6) :- p_1935(X1,X2,X3,X4,X5,X6,X7,X8,X9).
+p_1006(X2,X1,X15,X11,X7,X2,X6) :- p_110(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12).
+p_2454(X2,X3,X3,X3,X2,X3,X2,X3,X3,X3,X1,X3) :- p_1832(X1,X2,X3).
+p_957(X4,X3,X2,X5,X6,X5,X5,X2) :- p_2261(X1,X2,X3,X4,X5,X6).
+p_896(X3,X9,X9,X9,X9,X19,X5,X4,X6,X15,X9,X9,X12,X12,X17,X14,X12,X7,X15) :- p_2012(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_338(X3,X3,X5,X4,X1,X4,X5,X5,X1,X4,X4,X5) :- p_1370(X1,X2,X3,X4,X5).
+p_1575(X8,X1,X3,X1,X6,X8,X2,X7,X4,X9,X6,X2,X7,X1,X6,X2) :- p_14(X1,X2,X3,X4,X5,X6,X7,X8,X9).
+p_1234(X9) :- p_2254(X1,X2,X3,X4,X5,X6,X7,X8).
+p_1646(X5,X6,X6,X5,X4) :- p_1947(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12).
+p_1403(X8,X18,X9,X14,X6,X3,X5,X8,X17,X16,X3,X4,X9,X5,X12) :- p_1889(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_799(X3,X14,X9,X5,X13,X21,X5,X10,X24,X7,X7,X8,X10) :- p_2485(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_518(X1,X10,X5,X6,X7,X3,X7,X8,X12) :- p_1020(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_264(X4,X2,X4,X2,X4,X2,X2,X4,X1,X2,X1,X1,X4) :- p_679(X1,X2,X3,X4).
+p_1053(X7,X1,X8,X15,X2,X25,X15,X11,X14,X6,X10,X18,X5,X9,X9) :- p_829(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_622(X6,X8,X18,X14,X15,X4,X13,X10,X28,X6,X8,X13,X18,X6,X4,X10,X14) :- p_688(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_865(X4,X2,X3,X5,X3,X5,X2,X7,X2,X1,X18,X3,X6,X3,X7,X3) :- p_2408(X1,X2,X3,X4,X5,X6,X7).
+p_307(X3,X14,X11,X5,X10,X8,X11,X9,X6,X13,X1,X11,X9,X2,X5,X14) :- p_1862(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14).
+p_2288(X4,X4,X3,X1,X4,X3,X4,X4,X2,X2,X4,X1,X2,X3,X2,X1,X1,X1,X3,X3) :- p_1160(X1,X2,X3,X4).
+p_2152(X11,X7,X7,X8,X11,X11,X1,X3,X4,X2,X7,X10,X10,X3,X7,X9,X3,X9,X3,X10) :- p_382(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11).
+p_2219(X1,X1,X1) :- p_1894(X1).
+p_632(X8) :- p_222(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14).
+p_2388(X10,X2,X10,X12,X3,X6,X9,X15,X14,X1,X15,X27,X14) :- p_1504(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_904(X5,X10,X11,X1,X11,X1,X4,X10,X8,X3,X1,X8,X3,X6,X13,X9) :- p_1967(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14).
+p_1245(X7,X11,X15,X6,X20,X3,X8,X14,X7,X7,X8,X11,X9,X11,X2) :- p_1407(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_486(X7,X13,X12,X9,X7,X8,X12) :- p_2382(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14).
+p_39(X9,X6,X7) :- p_158(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_829(X11,X15,X16,X2,X9,X16,X1,X2,X9,X14,X8,X9,X5,X6,X4,X16,X1,X16,X3) :- p_2467(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_2356(X1,X1,X1,X1,X1,X1,X1,X1) :- p_1133(X1).
+p_1853(X5,X7,X1,X3,X7,X3,X5,X6,X3,X6,X4,X3,X4,X6,X2,X5,X2) :- p_498(X1,X2,X3,X4,X5,X6,X7).
+p_2104(X6,X3,X5,X5,X5,X4,X1,X4,X3,X15,X5,X3) :- p_2301(X1,X2,X3,X4,X5).
+p_2133(X13,X8,X12,X11,X3,X12,X13,X7) :- p_1428(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_515(X1,X17) :- p_1375(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_313(X3,X1,X1,X1) :- p_2122(X1,X2).
+p_1680(X2,X1,X5,X1,X3,X3) :- p_1979(X1,X2,X3,X4,X5).
+p_494(X11,X9,X11,X4,X2,X2,X3,X20,X9,X9) :- p_2092(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12).
+p_2008(X1,X1,X4,X1,X1,X1,X1,X1,X1,X1,X1,X1,X14,X1,X1) :- p_834(X1).
+p_1208(X2,X1,X2,X2,X2,X2,X2,X2,X1,X2,X2,X1,X1,X1) :- p_2224(X1,X2).
+p_1967(X4,X2,X4,X1,X6,X3,X1,X6,X6,X3,X1,X1,X5,X2) :- p_1075(X1,X2,X3,X4,X5,X6).
+p_2194(X10,X9,X4,X2,X12,X2,X7,X2,X8) :- p_348(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_1283(X10,X4,X5,X6,X8,X7,X4,X5,X11,X3,X24) :- p_1792(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_1804(X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1) :- p_900(X1).
+p_1287(X4,X8,X4,X7,X1,X8) :- p_1924(X1,X2,X3,X4,X5,X6,X7,X8).
+p_874(X1,X5,X2,X2,X2,X2,X1,X3,X12,X3,X2,X1) :- p_1818(X1,X2,X3).
+p_1906(X3,X9,X8,X1,X12,X8,X3,X11,X5,X8,X10,X10,X12,X4,X4,X8,X8,X4,X12,X12) :- p_266(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_2288(X4,X11,X4,X1,X6,X12,X20,X4,X1,X5,X1,X8,X3,X2,X9,X1,X7,X6,X7,X1) :- p_1883(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_2007(X4,X7,X18,X13,X18,X7,X13,X7,X8,X7,X18,X14,X19,X14,X3,X10) :- p_2012(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_110(X6,X3,X1,X16,X3,X8,X8,X7,X17,X3,X7,X10) :- p_1793(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17).
+p_1306(X3,X10,X5,X11,X10,X5,X7,X7,X4,X7,X1,X4,X8,X6,X1) :- p_338(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12).
+p_456(X1,X1,X3,X2,X1,X1,X3,X3,X2,X5,X2,X5,X6,X2,X3,X22,X6,X4) :- p_702(X1,X2,X3,X4,X5,X6).
+p_279(X7,X6,X11,X7,X8,X7) :- p_1554(X1,X2,X3,X4,X5,X6,X7,X8).
+p_1326(X13,X8,X7,X10) :- p_1543(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12).
+p_2268(X2,X7,X4,X3,X6,X2,X4,X6,X3,X3,X2,X2,X5,X6,X6,X4) :- p_1444(X1,X2,X3,X4,X5,X6,X7).
+p_1889(X2,X6,X2,X2,X2,X6,X6,X4,X3,X4,X4,X1,X4,X5,X5,X5,X3,X4,X3) :- p_1435(X1,X2,X3,X4,X5,X6).
+p_1519(X10,X9,X10,X5,X7,X6,X2,X1,X6,X4,X9,X2,X1,X8,X11,X2) :- p_445(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_1855(X7,X7,X11,X6,X22) :- p_215(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17).
+p_2090(X9) :- p_273(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_974(X9,X7,X11,X10,X2,X5) :- p_2473(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_2435(X13,X1,X8,X4,X10,X1,X2,X11,X3,X6,X8,X13,X13,X9,X9) :- p_921(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_301(X5,X4,X2,X3,X4,X3,X1,X4,X1,X1) :- p_820(X1,X2,X3,X4,X5).
+p_289(X13,X2,X2,X17,X2,X14,X4,X4,X13) :- p_1192(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18).
+p_836(X12,X5,X18,X3,X7,X17,X8,X1,X12,X18) :- p_1278(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_1543(X3,X3,X9,X11,X4,X11,X4,X7,X9,X13,X5,X12) :- p_2432(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_0(X7,X10,X8,X10,X4,X2,X4,X4,X7,X8,X12,X13,X5) :- p_1258(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14).
+p_1572(X1,X2,X2,X2) :- p_2224(X1,X2).
+p_215(X6,X5,X6,X4,X5,X3,X4,X4,X2,X4,X5,X6,X4,X3,X6,X2,X4) :- p_1597(X1,X2,X3,X4,X5,X6).
+p_2133(X3,X4,X12,X9,X6,X5,X8,X3) :- p_1868(X1,X2,X3,X4,X5,X6,X7,X8,X9).
+p_2155(X14,X10,X10,X14,X14,X8) :- p_1375(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_2364(X3,X14,X8,X11,X9,X4) :- p_1180(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12).
+p_1697(X3,X3,X1,X1,X2,X2,X1,X1,X1,X2,X14,X2,X2,X1,X3,X1) :- p_1912(X1,X2,X3).
+p_539(X15,X3,X16,X2,X8,X9,X4,X14,X13,X16,X4,X6,X13,X10,X16,X12,X9,X13) :- p_1519(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_1306(X8,X16,X16,X2,X7,X16,X3,X14,X5,X11,X10,X5,X29,X8,X1) :- p_904(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_2059(X1,X3,X1,X3,X5,X2,X2,X1) :- p_855(X1,X2,X3,X4,X5).
+p_2094(X5,X20,X4,X19,X13,X3,X4,X10) :- p_1060(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_1832(X1,X1,X1) :- p_64(X1,X2).
+p_1884(X3,X1,X11,X9,X1,X13,X4,X14,X12,X12,X5,X7,X15,X9,X4,X2) :- p_2176(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_1722(X15,X9,X14,X5,X6,X14,X14,X13,X12,X26,X3,X8,X13,X1,X4,X15) :- p_158(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_1258(X11,X4,X4,X7,X10,X3,X10,X3,X7,X1,X1,X6,X1,X7) :- p_696(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_2052(X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1) :- p_1894(X1).
+p_658(X17,X14,X2,X9,X7,X1,X12,X2,X4,X8) :- p_1455(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17).
+p_88(X5,X3,X4,X2,X3,X2,X2,X5) :- p_51(X1,X2,X3,X4,X5).
+p_1038(X9,X10,X12,X10,X10,X8) :- p_2453(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12).
+p_1291(X12,X9,X6,X17,X15) :- p_1040(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18).
+p_967(X2,X2,X7,X1,X3,X2,X7,X2) :- p_486(X1,X2,X3,X4,X5,X6,X7).
+p_807(X13,X7,X7,X16,X12,X6,X13,X6,X1) :- p_2136(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18).
+p_1825(X9,X9,X6,X13,X13,X13) :- p_1945(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_75(X15) :- p_962(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14).
+p_212(X16,X14,X2,X6,X7,X6,X15,X17,X3,X28,X2,X18,X14,X14,X2,X15,X12,X4) :- p_1192(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18).
+p_554(X14,X6,X4,X8,X11,X12,X1,X1,X10) :- p_2121(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14).
+p_539(X2,X3,X3,X4,X4,X1,X1,X4,X1,X3,X4,X3,X3,X1,X19,X1,X1,X1) :- p_796(X1,X2,X3,X4).
+p_526(X4,X1,X5,X5,X5,X1,X4,X2,X3,X2,X1,X2,X5,X1,X4,X4,X4) :- p_145(X1,X2,X3,X4,X5).
+p_1006(X5,X9,X6,X6,X7,X4,X2) :- p_2394(X1,X2,X3,X4,X5,X6,X7,X8,X9).
+p_1652(X1,X3,X5,X2,X1,X4,X1,X5,X5,X4,X4,X1,X5,X1,X4,X4,X2,X2,X4,X5) :- p_2301(X1,X2,X3,X4,X5).
+p_525(X5,X3,X3,X6,X4,X4,X1,X3,X2,X5,X1,X18,X6,X1,X6,X2,X5,X5,X3) :- p_1391(X1,X2,X3,X4,X5,X6).
+p_2124(X11,X6,X1,X12,X5,X3) :- p_2052(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_1722(X5,X2,X1,X10,X4,X5,X5,X6,X5,X3,X9,X4,X5,X8,X8,X5) :- p_273(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_804(X7,X1,X4) :- p_1870(X1,X2,X3,X4,X5,X6).
+p_2200(X7,X9,X2,X7,X16,X1,X13,X17,X12,X14,X12,X18,X20,X4,X16,X17) :- p_1738(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_2332(X1,X11,X3,X3,X8,X2,X11,X5,X8,X8,X9) :- p_2083(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_1582(X1,X2,X1) :- p_1778(X1,X2).
+p_1724(X4,X11,X10,X9,X12,X3,X4,X1,X7,X6,X10) :- p_1099(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14).
+p_1858(X9,X7,X10,X6,X3,X9,X9,X1,X3,X4,X8,X4,X8,X9,X3,X6) :- p_301(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_294(X17,X18,X18,X14,X18) :- p_1908(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_424(X6,X5,X7,X6,X4,X6,X6,X1,X1,X1,X3,X2,X1,X4,X3,X6,X4,X5,X2) :- p_1776(X1,X2,X3,X4,X5,X6,X7,X8).
+p_2095(X4) :- p_871(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_1062(X2,X2,X6,X3,X3,X7,X6,X3,X7,X7) :- p_1817(X1,X2,X3,X4,X5,X6,X7).
+p_2292(X9) :- p_2009(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_1472(X1,X4,X3,X4,X4,X6,X7,X9,X1,X8,X3,X2,X3,X6) :- p_1843(X1,X2,X3,X4,X5,X6,X7,X8,X9).
+p_382(X16,X1,X13,X10,X9,X16,X12,X4,X7,X17,X11) :- p_622(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17).
+p_1435(X3,X4,X5,X5,X1,X4) :- p_1227(X1,X2,X3,X4,X5,X6).
+p_291(X3) :- p_1916(X1,X2,X3,X4,X5).
+p_200(X7,X1,X4,X8,X9,X16,X10,X2,X7,X3,X6,X4,X2,X3,X5,X9,X7,X8,X2) :- p_1134(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_2009(X3,X12,X4,X1,X1,X6,X6,X12,X7,X22,X12,X6,X1,X7,X6,X9) :- p_2104(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12).
+p_217(X2,X1,X1,X2,X1,X2,X1,X2,X1,X1,X2) :- p_1777(X1,X2,X3).
+p_1819(X3,X3,X1,X2,X1,X2,X3,X1,X3,X2,X1,X3) :- p_1912(X1,X2,X3).
+p_1212(X1,X9,X5,X10,X13,X12,X4,X2,X10,X8,X1,X8,X9,X8,X2,X9) :- p_2435(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_2288(X1,X1,X6,X2,X1,X1,X1,X3,X1,X1,X1,X1,X2,X2,X3,X2,X3,X1,X3,X1) :- p_1010(X1,X2,X3).
+p_1504(X1,X1,X1,X3,X2,X1,X3,X2,X2,X1,X3,X3,X1,X2,X2) :- p_581(X1,X2,X3).
+p_2188(X6,X5,X1,X3,X2,X4,X9,X1) :- p_925(X1,X2,X3,X4,X5,X6,X7,X8,X9).
+p_1675(X13,X9,X2,X8,X7,X9,X11,X3,X3) :- p_1403(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_2083(X7,X3,X10,X5,X2,X7,X4,X5,X5,X4,X7,X2,X7,X1,X4) :- p_486(X1,X2,X3,X4,X5,X6,X7).
+p_1582(X6,X1,X4) :- p_1843(X1,X2,X3,X4,X5,X6,X7,X8,X9).
+p_2362(X1,X1,X1,X1,X1,X1,X1,X9,X1,X11,X1,X1,X1,X1,X1,X1,X1) :- p_834(X1).
+p_815(X9,X1,X3,X4,X3,X8,X9,X6,X9,X2,X7,X7,X8) :- p_1980(X1,X2,X3,X4,X5,X6,X7,X8,X9).
+p_2207(X6,X3,X4,X4,X2,X3,X4,X2,X1) :- p_1391(X1,X2,X3,X4,X5,X6).
+p_1962(X4,X3,X11,X19,X20,X4,X1,X5,X15,X4,X4,X8,X3,X11,X7,X9) :- p_1113(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_1667(X7,X9,X8,X5,X6,X6,X8,X7,X3,X8,X6,X2,X7,X1,X1,X6,X1,X5,X6) :- p_211(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_147(X4) :- p_1718(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17).
+p_165(X1,X3,X4,X1,X3,X2,X1,X4,X3,X2,X15) :- p_1572(X1,X2,X3,X4).
+p_1640(X12,X8,X1,X9,X16,X10,X1,X3,X10,X8,X7,X7,X4,X13,X4,X14,X17,X4) :- p_306(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18).
+p_2407(X13,X12,X4,X2,X7,X11,X13,X5,X6,X14,X3,X2,X9,X13,X15) :- p_757(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_921(X4,X9,X6,X6,X7,X10,X11,X6,X3,X2,X1,X5,X12) :- p_2454(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12).
+p_2224(X4,X11) :- p_1283(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11).
+p_1532(X4,X7,X6,X11,X2,X1,X7,X6,X6,X2,X7,X4,X6,X5,X1,X6,X2) :- p_2354(X1,X2,X3,X4,X5,X6,X7).
+p_838(X15,X11,X3,X13,X10) :- p_1905(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17).
+p_2279(X1,X2,X4,X2,X3,X3,X4,X2,X4,X1,X2,X2,X1) :- p_792(X1,X2,X3,X4).
+p_696(X3,X6,X5,X3,X3,X2,X3,X2,X4,X3) :- p_498(X1,X2,X3,X4,X5,X6,X7).
+p_554(X9,X17,X1,X6,X5,X11,X7,X8,X4) :- p_1943(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18).
+p_1470(X8,X16,X4,X3,X14,X1,X11,X6,X7,X16,X9,X4) :- p_2176(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_1652(X5,X2,X5,X6,X5,X1,X7,X8,X1,X4,X19,X1,X1,X2,X3,X4,X3,X4,X8,X1) :- p_930(X1,X2,X3,X4,X5,X6,X7,X8).
+p_1697(X11,X8,X6,X9,X1,X9,X2,X5,X7,X3,X12,X10,X2,X7,X4,X10) :- p_1470(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12).
+p_2354(X4,X3,X6,X6,X3,X2,X2) :- p_472(X1,X2,X3,X4,X5,X6,X7,X8,X9).
+p_1254(X6,X1,X3,X7,X1,X8,X7,X4,X2,X3,X1,X1,X3,X4,X4,X3,X6,X4,X3,X2) :- p_930(X1,X2,X3,X4,X5,X6,X7,X8).
+p_291(X1) :- p_2095(X1).
+p_1472(X1,X3,X3,X7,X3,X3,X2,X1,X3,X1,X1,X1,X3,X3) :- p_1010(X1,X2,X3).
+p_2095(X3) :- p_2192(X1,X2,X3,X4).
+p_1545(X2,X5,X3,X16,X20,X12,X14,X20,X13,X3,X8,X1) :- p_1804(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_266(X13,X6,X9,X14,X15,X4,X3,X6,X11,X1,X14,X14,X7) :- p_1226(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_220(X18,X15,X18,X6,X17,X20,X4,X2) :- p_1254(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_338(X9,X6,X3,X2,X13,X3,X1,X5,X8,X3,X1,X5) :- p_220(X1,X2,X3,X4,X5,X6,X7,X8).
+p_248(X5,X2,X5,X5,X1,X5,X2,X1,X4,X6,X2,X5,X2,X5,X2,X6,X7,X5,X6,X5) :- p_1444(X1,X2,X3,X4,X5,X6,X7).
+p_43(X6,X2,X2,X4,X4,X6,X3,X6,X7,X5,X6,X1,X7) :- p_1225(X1,X2,X3,X4,X5,X6,X7,X8).
+p_1064(X1,X3,X2,X2,X12,X5,X3,X7,X14,X1,X14,X6,X4) :- p_1249(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_2011(X8,X10,X12,X6,X4,X7,X3,X22,X3,X9,X9,X5,X1,X11,X10) :- p_1454(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14).
+p_162(X7,X9,X5,X4,X15,X2,X6) :- p_1156(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_955(X3,X2,X17,X5) :- p_2121(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14).
+p_820(X1,X4,X1,X12,X6) :- p_2369(X1,X2,X3,X4,X5,X6,X7,X8).
+p_165(X5,X3,X12,X10,X16,X7,X7,X15,X8,X14,X2) :- p_2432(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_1314(X3,X2,X3,X2,X3,X3,X3,X1,X1,X1,X1,X3,X3,X2,X2,X3,X1,X2,X2) :- p_39(X1,X2,X3).
+p_429(X9,X12,X5,X9,X4,X9,X2,X1,X9,X11,X4,X5,X1,X2,X9,X10,X8,X4,X8,X14) :- p_443(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_472(X4,X8,X7,X8,X6,X8,X6,X4,X5) :- p_1096(X1,X2,X3,X4,X5,X6,X7,X8).
+p_2180(X8,X6,X3,X6,X2,X6,X13,X9,X7,X8,X3,X11,X2,X11,X3,X13,X8,X5,X8,X12) :- p_962(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14).
+p_248(X10,X12,X3,X8,X1,X11,X3,X8,X8,X9,X4,X4,X8,X4,X8,X8,X1,X10,X5,X1) :- p_2454(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12).
+p_1667(X1,X5,X3,X5,X1,X6,X5,X6,X2,X4,X3,X5,X4,X5,X6,X4,X6,X6,X5) :- p_1137(X1,X2,X3,X4,X5,X6).
+p_2208(X4,X18,X10,X6,X1,X12,X19,X3,X10,X19,X9,X15,X19,X5) :- p_2068(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_743(X6,X4,X4,X1) :- p_1156(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_1853(X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1) :- p_1566(X1).
+p_2394(X14,X10,X5,X19,X18,X16,X3,X20,X29) :- p_1328(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_2253(X8,X4,X8,X8,X7,X1,X3,X6,X7,X2,X6,X3,X2,X3,X6,X1) :- p_1312(X1,X2,X3,X4,X5,X6,X7,X8).
+p_1444(X2,X5,X2,X5,X7,X3,X1) :- p_1144(X1,X2,X3,X4,X5,X6,X7).
+p_796(X2,X3,X3,X1) :- p_581(X1,X2,X3).
+p_1907(X2,X2,X2) :- p_2228(X1,X2).
+p_1648(X1,X12,X16,X10,X5,X8,X18,X1,X2,X19,X16,X32,X7,X2,X18,X20,X2,X17,X9,X18) :- p_1738(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_997(X7,X1,X5,X1,X4,X1) :- p_1075(X1,X2,X3,X4,X5,X6).
+p_1545(X4,X2,X8,X5,X1,X6,X3,X3,X2,X6,X6,X8) :- p_2266(X1,X2,X3,X4,X5,X6,X7,X8).
+p_2349(X11,X19,X13,X19,X6,X2,X5,X3,X14,X10,X30,X17,X7,X13,X2) :- p_829(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_1855(X14,X12,X4,X12,X4) :- p_200(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_788(X3,X3,X2,X1,X2,X3,X2) :- p_1919(X1,X2,X3,X4,X5,X6).
+p_1199(X1,X1,X3,X5,X1,X3,X6,X3) :- p_1680(X1,X2,X3,X4,X5,X6).
+p_1862(X7,X1,X5,X8,X5,X2,X5,X3,X8,X5,X19,X1,X1,X8) :- p_1488(X1,X2,X3,X4,X5,X6,X7,X8).
+p_1226(X10,X9,X4,X1,X3,X1,X1,X8,X11,X2,X4,X2,X2,X4,X4) :- p_2172(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11).
+p_183(X12,X12,X7,X8,X17,X3) :- p_1040(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18).
+p_1492(X9,X15,X8,X2,X5,X12,X14,X18,X18,X10,X4,X2,X16,X6,X8,X3) :- p_1593(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18).
+p_1920(X1,X3,X3,X3,X8) :- p_1907(X1,X2,X3).
+p_1251(X6,X4,X1,X8,X2,X7,X3,X5,X2,X4,X8) :- p_1947(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12).
+p_713(X16,X2,X12,X19,X16,X3,X19,X15,X6) :- p_1876(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_906(X1,X1) :- p_2142(X1).
+p_1884(X1,X1,X1,X1,X1,X1,X1,X9,X10,X1,X1,X1,X1,X1,X1,X1) :- p_2095(X1).
+p_2059(X2,X10,X3,X1,X11,X10,X4,X11) :- p_1665(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11).
+p_337(X6,X22,X16,X12,X8,X17,X9,X28,X3,X17,X1,X15,X7,X1,X13,X6,X16,X4,X10) :- p_2113(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_2311(X12,X19,X23,X5) :- p_253(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_1853(X11,X17,X13,X2,X8,X8,X6,X2,X19,X9,X13,X8,X1,X18,X3,X6,X36) :- p_1667(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_215(X2,X3,X5,X12,X8,X4,X1,X8,X7,X7,X4,X8,X2,X3,X7,X1,X4) :- p_178(X1,X2,X3,X4,X5,X6,X7,X8).
+p_1283(X11,X3,X1,X6,X4,X4,X13,X6,X13,X1,X15) :- p_1278(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_732(X5,X4,X7,X8,X6,X8,X4,X2,X5,X1,X1,X5,X2,X4,X1,X8,X1,X2,X6,X5) :- p_1551(X1,X2,X3,X4,X5,X6,X7,X8).
+p_679(X5,X2,X3,X8) :- p_2266(X1,X2,X3,X4,X5,X6,X7,X8).
+p_2406(X7,X1,X1,X4,X8,X11,X5,X3,X7,X2,X8,X11) :- p_928(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11).
+p_110(X14,X13,X10,X4,X4,X9,X2,X1,X18,X4,X4,X14) :- p_539(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18).
+p_1299(X6,X2,X4,X6,X6,X6,X4,X2,X6,X3,X3,X2,X1,X3,X3,X4,X2,X4,X1,X3) :- p_2024(X1,X2,X3,X4,X5,X6).
+p_631(X2,X2,X1,X1,X1,X1,X2,X1,X2,X1,X1,X1,X2,X1,X1,X2,X1) :- p_64(X1,X2).
+p_1981(X2,X2,X1,X1,X1,X1,X1,X1,X2,X2,X1,X1,X2,X2,X2) :- p_1970(X1,X2).
+p_1407(X4,X8,X13,X15,X6,X15,X2,X3,X9,X18,X4,X9,X18,X14,X18) :- p_1593(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18).
+p_498(X16,X16,X15,X10,X14,X12,X9) :- p_2052(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_1010(X8,X1,X3) :- p_957(X1,X2,X3,X4,X5,X6,X7,X8).
+p_1579(X2,X3,X2,X4,X4,X3,X3,X1,X2,X2,X4,X2,X3) :- p_955(X1,X2,X3,X4).
+p_1291(X10,X12,X5,X1,X3) :- p_832(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_2435(X1,X7,X12,X10,X8,X19,X13,X10,X16,X15,X2,X7,X13,X4,X15) :- p_424(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_700(X16,X14,X3) :- p_1249(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_2138(X13,X3,X7,X10,X12,X9,X4,X13,X3) :- p_1519(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_30(X1,X10,X9,X11,X11,X9) :- p_821(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11).
+p_518(X5,X6,X8,X6,X1,X2,X3,X7,X1) :- p_925(X1,X2,X3,X4,X5,X6,X7,X8,X9).
+p_1694(X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1) :- p_2095(X1).
+p_2148(X1,X1,X1,X5,X6,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1) :- p_1547(X1).
+p_158(X1,X10,X16,X5,X12,X5,X11,X12,X2,X8,X1,X8,X6,X15,X7,X6) :- p_1721(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_1071(X2,X3,X2,X9,X1,X4,X2,X3,X1,X4,X1,X5,X2,X19,X2,X2,X4,X1,X4,X4) :- p_511(X1,X2,X3,X4,X5).
+p_2288(X3,X9,X5,X5,X3,X9,X6,X3,X6,X8,X1,X4,X6,X9,X9,X3,X5,X5,X7,X2) :- p_201(X1,X2,X3,X4,X5,X6,X7,X8,X9).
+p_1060(X1,X3,X2,X2,X1,X3,X1,X1,X3,X3,X3,X2,X1,X1,X1,X1,X3,X1,X1,X3) :- p_1818(X1,X2,X3).
+p_757(X9,X4,X5,X6,X6,X6,X4,X5,X8,X1,X3,X10,X6,X9,X2) :- p_1134(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_219(X4,X4,X8,X10,X6,X8,X12,X5,X11,X3) :- p_1885(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14).
+p_2332(X19,X13,X17,X7,X13,X15,X6,X2,X27,X7,X15) :- p_2436(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18).
+p_1328(X1,X1,X3,X7,X2,X1,X2,X7,X16,X4,X4,X3,X1,X21,X5,X5,X6,X7,X1,X3) :- p_162(X1,X2,X3,X4,X5,X6,X7).
+p_1793(X1,X4,X2,X4,X2,X4,X3,X1,X2,X1,X4,X3,X1,X4,X4,X4,X4) :- p_2214(X1,X2,X3,X4).
+p_1836(X7,X10,X3,X5,X4,X8) :- p_301(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_1919(X6,X6,X3,X4,X4,X2) :- p_1287(X1,X2,X3,X4,X5,X6).
+p_896(X14,X17,X3,X1,X10,X14,X7,X7,X7,X18,X18,X14,X19,X11,X14,X12,X11,X18,X1) :- p_2012(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_2068(X4,X13,X10,X8,X11,X17,X7,X20,X6,X4,X2,X12,X18,X2,X7,X36,X5,X12,X6) :- p_1633(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_799(X7,X4,X8,X8,X7,X8,X8,X6,X7,X5,X6,X6,X1) :- p_1554(X1,X2,X3,X4,X5,X6,X7,X8).
+p_547(X3,X18,X10,X5) :- p_2052(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_1979(X2,X15,X3,X13,X7) :- p_212(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18).
+p_1105(X1) :- p_788(X1,X2,X3,X4,X5,X6,X7).
+p_547(X7,X10,X12,X3) :- p_445(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_456(X19,X1,X20,X6,X3,X20,X17,X10,X18,X8,X31,X15,X33,X15,X15,X15,X2,X16) :- p_732(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_2485(X6,X1,X7,X17,X6,X6,X8,X2,X12,X17,X18,X17,X4,X6,X13) :- p_1673(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18).
+p_820(X6,X7,X5,X6,X5) :- p_930(X1,X2,X3,X4,X5,X6,X7,X8).
+p_702(X1,X2,X2,X2,X1,X8) :- p_939(X1,X2).
+p_1438(X3,X8,X9) :- p_1182(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_675(X6,X10,X10,X3,X9,X9,X17,X18,X7,X10,X9,X10,X5,X5,X8,X6) :- p_1134(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_838(X6,X6,X3,X1,X6) :- p_666(X1,X2,X3,X4,X5,X6).
+p_150(X9,X9,X11,X12,X14,X2,X13,X5,X15,X10,X11,X8,X11,X9) :- p_1721(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_2489(X3,X1,X1,X2,X8,X1,X2,X1,X3,X3,X3,X1,X1,X1,X1,X1,X1,X1) :- p_804(X1,X2,X3).
+p_770(X4,X1,X2,X4,X3,X2,X3,X1,X5,X1,X6,X1,X2,X3,X1) :- p_537(X1,X2,X3,X4,X5,X6).
+p_2232(X16,X8,X12,X4,X13,X4,X9,X10,X7) :- p_1962(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_147(X14) :- p_926(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14).
+p_2338(X3,X5,X2,X3,X1,X4,X2,X2,X1,X3,X3,X1,X3,X5,X4,X1,X5,X1,X1) :- p_2126(X1,X2,X3,X4,X5).
+p_925(X7,X8,X12,X3,X14,X20,X8,X10,X4) :- p_926(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14).
+p_301(X3,X3,X4,X3,X8,X4,X13,X1,X11,X3) :- p_266(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_0(X15,X17,X3,X14,X12,X21,X10,X1,X5,X14,X5,X4,X5) :- p_2473(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_2090(X16) :- p_1593(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18).
+p_324(X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1,X1) :- p_2292(X1).
+p_1579(X14,X10,X12,X10,X3,X12,X5,X12,X10,X3,X10,X4,X7) :- p_354(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_2453(X3,X14,X12,X5,X3,X11,X5,X4,X5,X7,X2,X3) :- p_1269(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_331(X15) :- p_150(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14).
+p_1889(X5,X4,X13,X8,X9,X2,X3,X8,X2,X7,X1,X5,X11,X10,X7,X10,X30,X7,X9) :- p_1883(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_792(X1,X1,X1,X1) :- p_75(X1).
+p_994(X7,X12,X10,X5,X3,X1,X3,X5,X8,X3,X13,X8,X8,X7,X13,X12,X5,X1,X13,X7) :- p_1848(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_2382(X1,X1,X4,X4,X3,X1,X3,X13,X5,X2,X1,X1,X5,X5) :- p_1291(X1,X2,X3,X4,X5).
+p_845(X1,X8,X6,X11,X8,X9,X10,X6,X2,X3,X9,X13,X5,X12,X7,X10,X13,X1,X12) :- p_2388(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_707(X3,X8,X4,X5,X11,X12,X11,X12) :- p_1987(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_1784(X3,X7,X2) :- p_1472(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14).
+p_2009(X10,X22,X18,X7,X20,X5,X12,X4,X29,X13,X2,X13,X5,X8,X4,X4) :- p_897(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_1304(X2,X1,X2) :- p_2228(X1,X2).
+p_1870(X3,X1,X2,X3,X2,X3) :- p_39(X1,X2,X3).
+p_2207(X1,X7,X6,X2,X2,X1,X2,X3,X8) :- p_323(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11).
+p_768(X8,X2,X5,X2,X3,X4,X8,X6,X4,X2) :- p_1924(X1,X2,X3,X4,X5,X6,X7,X8).
+p_1590(X4,X1,X10) :- p_494(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_291(X12) :- p_2121(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14).
+p_1551(X9,X6,X10,X6,X11,X3,X9,X3) :- p_904(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_2094(X4,X1,X6,X7,X2,X8,X4,X1) :- p_1199(X1,X2,X3,X4,X5,X6,X7,X8).
+p_1040(X4,X4,X5,X7,X1,X2,X1,X7,X6,X7,X19,X6,X6,X6,X1,X3,X3,X1) :- p_1924(X1,X2,X3,X4,X5,X6,X7,X8).
+p_611(X2,X12,X6,X4,X2,X2,X12,X6,X7,X2,X6,X6,X7,X11,X10,X6,X8,X7,X7,X9) :- p_2046(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12).
+p_1969(X6,X3,X5,X7,X4,X4,X2,X1,X2,X1,X2) :- p_1769(X1,X2,X3,X4,X5,X6,X7).
+p_1776(X3,X3,X6,X1,X2,X2,X2,X3) :- p_2219(X1,X2,X3).
+p_1249(X4,X1,X2,X4,X3,X2,X4,X6,X2,X2,X4,X5,X3,X3,X5,X1,X1,X4,X2) :- p_183(X1,X2,X3,X4,X5,X6).
+p_2311(X3,X1,X2,X2) :- p_1818(X1,X2,X3).
+p_50(X9,X7) :- p_1987(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_1312(X10,X8,X9,X10,X2,X7,X9,X1) :- p_395(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_2044(X4,X1,X3,X11,X5,X6,X4,X1,X1,X4,X6,X7,X4,X7,X5,X6,X6,X2,X2) :- p_422(X1,X2,X3,X4,X5,X6,X7).
+p_2364(X17,X16,X14,X5,X11,X2) :- p_2148(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_30(X11,X1,X9,X1,X12,X3) :- p_354(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_1375(X1,X8,X5,X12,X2,X8,X4,X4,X3,X4,X4,X7,X8,X8,X8) :- p_2254(X1,X2,X3,X4,X5,X6,X7,X8).
+p_1905(X17,X18,X12,X9,X1,X12,X2,X16,X15,X15,X16,X10,X1,X18,X13,X5,X15) :- p_1673(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18).
+p_865(X14,X1,X8,X15,X5,X1,X2,X5,X4,X2,X1,X11,X8,X5,X4,X11) :- p_1981(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_1679(X3,X2) :- p_2079(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_1304(X1,X1,X1) :- p_1563(X1,X2).
+p_913(X6,X1,X13,X15,X10,X7,X11,X14,X11,X7,X4,X4,X3,X4,X11) :- p_1212(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_994(X3,X2,X3,X2,X2,X3,X3,X1,X2,X3,X1,X2,X1,X1,X2,X2,X1,X2,X3,X2) :- p_1304(X1,X2,X3).
+p_1631(X2,X3,X19,X2,X6,X13,X12) :- p_1254(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_158(X8,X14,X15,X2,X6,X13,X7,X13,X4,X17,X8,X17,X16,X1,X7,X10) :- p_2148(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_1640(X6,X15,X4,X2,X2,X1,X11,X9,X9,X4,X8,X6,X3,X6,X3,X4,X10,X8) :- p_1020(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_439(X4,X2,X7,X1,X4,X7,X4,X4,X7,X1,X7,X6,X8,X5,X1) :- p_875(X1,X2,X3,X4,X5,X6,X7,X8,X9).
+p_900(X11) :- p_1738(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_1884(X7,X10,X12,X17,X2,X16,X19,X15,X18,X16,X13,X5,X3,X4,X35,X9) :- p_1700(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_1159(X5,X1,X11,X15,X2,X11,X7,X6,X10,X2,X4,X5,X3) :- p_675(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_1784(X1,X17,X11) :- p_1255(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18).
+p_1314(X10,X2,X4,X3,X13,X6,X11,X24,X13,X6,X5,X10,X8,X10,X15,X6,X4,X8,X15) :- p_148(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_474(X2,X5,X8,X8,X4,X2,X1,X6,X3,X1,X5,X6,X3) :- p_2254(X1,X2,X3,X4,X5,X6,X7,X8).
+p_2083(X11,X2,X4,X3,X14,X12,X3,X15,X12,X10,X9,X4,X4,X3,X6) :- p_675(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_683(X4,X5,X2,X1,X2,X5,X12,X4,X1,X3,X5,X5,X18,X4,X3) :- p_349(X1,X2,X3,X4,X5).
+p_1700(X7,X2,X7,X10,X4,X8,X4,X4,X6,X8,X3,X10,X4,X3,X2,X4,X11,X6,X9,X7) :- p_1841(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11).
+p_52(X15,X2,X23,X2,X5,X19,X11) :- p_1804(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_289(X2,X3,X2,X3,X2,X3,X2,X1,X2) :- p_1777(X1,X2,X3).
+p_770(X6,X4,X3,X7,X3,X8,X6,X7,X3,X9,X3,X5,X5,X4,X4) :- p_554(X1,X2,X3,X4,X5,X6,X7,X8,X9).
+p_64(X9,X4) :- p_2369(X1,X2,X3,X4,X5,X6,X7,X8).
+p_211(X10,X5,X2,X1,X13,X7,X3,X10,X8,X9) :- p_2388(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_2136(X10,X1,X17,X17,X10,X10,X7,X6,X5,X9,X8,X11,X2,X4,X14,X2,X16,X12) :- p_1452(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_751(X12,X1,X4,X2,X7,X4,X5,X13,X13,X7,X9,X3,X10,X2,X9,X5,X11,X6) :- p_2208(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14).
+p_631(X2,X7,X3,X2,X1,X1,X5,X2,X2,X5,X3,X17,X3,X2,X5,X4,X3) :- p_1409(X1,X2,X3,X4,X5).
+p_809(X5,X5,X2,X5,X5,X3,X4,X2,X5,X5,X6,X5,X6,X6,X1,X5) :- p_666(X1,X2,X3,X4,X5,X6).
+p_153(X7,X3,X8,X4,X7,X4,X5,X7,X8,X1,X8,X1,X6,X2,X9,X4,X5,X5,X2) :- p_2138(X1,X2,X3,X4,X5,X6,X7,X8,X9).
+p_1894(X8) :- p_2473(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_2364(X11,X1,X18,X1,X3,X11) :- p_1314(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_422(X2,X2,X3,X3,X6,X12,X1) :- p_1825(X1,X2,X3,X4,X5,X6).
+p_339(X5,X4,X4,X10,X6,X6,X1,X2,X1,X1,X6,X2,X6,X1,X2,X2,X4,X3,X2) :- p_67(X1,X2,X3,X4,X5,X6).
+p_2099(X17,X11,X15,X6,X23,X17,X16,X1,X4,X14,X2,X13,X12,X1,X11,X5) :- p_2136(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18).
+p_1729(X8,X14,X6,X8,X12,X14,X3,X11,X7,X1,X1,X12,X2,X4,X29,X13) :- p_1507(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14).
+p_894(X3,X1,X1) :- p_2337(X1,X2,X3).
+p_2124(X2,X4,X9,X5,X6,X4) :- p_997(X1,X2,X3,X4,X5,X6).
+p_764(X10,X5,X12,X16) :- p_1819(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12).
+p_1304(X5,X9,X2) :- p_266(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13).
+p_354(X3,X1,X6,X4,X1,X7,X8,X3,X5,X1,X2,X4,X3) :- p_2094(X1,X2,X3,X4,X5,X6,X7,X8).
+p_1023(X7,X3,X8,X6,X1,X16,X14,X16) :- p_688(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_1134(X4,X6,X1,X6,X4,X3,X1,X6,X6,X6) :- p_1919(X1,X2,X3,X4,X5,X6).
+p_360(X12,X8,X11,X15,X5,X2,X9,X11,X12,X2,X5,X2) :- p_1467(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_611(X4,X5,X5,X6,X1,X4,X1,X4,X4,X2,X2,X18,X1,X6,X4,X6,X5,X6,X5,X26) :- p_1376(X1,X2,X3,X4,X5,X6).
+p_1778(X5,X8) :- p_836(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_1410(X1,X8,X6,X7,X2,X1,X7,X4,X7,X6,X2,X1,X3,X4,X3,X8,X4) :- p_211(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10).
+p_1661(X6,X9,X18,X6) :- p_1407(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15).
+p_1105(X17) :- p_111(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16).
+p_666(X1,X14,X1,X5,X6,X18) :- p_424(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19).
+p_713(X2,X1,X1,X2,X2,X1,X2,X1,X1) :- p_63(X1,X2).
+p_279(X1,X2,X1,X2,X2,X2) :- p_953(X1,X2).
+p_675(X14,X7,X13,X16,X15,X15,X13,X3,X19,X12,X11,X20,X5,X17,X3,X18) :- p_1060(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20).
+p_2442(X6,X7,X2,X11,X7,X7,X3,X7) :- p_1006(X1,X2,X3,X4,X5,X6,X7).
+p_2284(X2,X1,X1,X1,X1,X8,X1,X2,X1,X1) :- p_1115(X1,X2).
+p_1501(X4,X6,X1,X1,X8,X6,X2,X9,X3,X8,X5) :- p_1868(X1,X2,X3,X4,X5,X6,X7,X8,X9).
+p_2253(X5,X2,X11,X13,X7,X7,X11,X2,X2,X9,X11,X8,X8,X13,X9,X12) :- p_2382(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14).
+p_1104(X1,X3,X9,X9,X4,X4) :- p_1584(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18).
+p_1661(X2,X3,X2,X3) :- p_313(X1,X2,X3,X4).
+p_942(X4,X1) :- p_195(X1,X2,X3,X4).
+p_348(X11,X4,X11,X11,X16,X11,X6,X1,X10,X10,X6,X3,X1) :- p_2270(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11).
+p_145(X9,X6,X4,X11,X1) :- p_2332(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11).
+p_79(X13,X7,X7,X2,X14,X10) :- p_150(X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14).

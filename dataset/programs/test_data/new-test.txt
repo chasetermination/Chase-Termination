@@ -1,0 +1,12 @@
+Deterministic DL-clauses: [
+  p(X) :- r(X)
+  q(X) :- p(X)
+  r(X) :- q(X)
+
+  t(X) :- r(X)
+  t(X) :- s(X)
+  s(X) :- t(X)
+]
+ABox: [
+t(a)
+]

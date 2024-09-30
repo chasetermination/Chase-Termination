@@ -1,0 +1,6 @@
+@facts
+q('a').
+p('a','b','c').
+@rules
+p(X1,X2,X2) :- q(X1).
+q(X2) :- p(X1,X2,X3).
