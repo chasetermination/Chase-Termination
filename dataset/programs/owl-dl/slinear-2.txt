@@ -1,3 +1,0 @@
-parent(y,z) :- parent(y,z)
-parent(x,y) :- mother(x,y)
-mother(x,y) :- person(x,y)

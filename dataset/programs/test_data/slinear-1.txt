@@ -1,4 +1,0 @@
-parent(y,z) :- parent(x,y)
-parent(x,y) :- person(x)
-%person('Joe')
-%parent('Joe','James')
